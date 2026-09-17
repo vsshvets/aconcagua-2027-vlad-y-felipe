@@ -11,7 +11,7 @@ Horcones), de la entrada del parque a la cumbre. Fuentes principales: la
 [Andeshandbook](https://www.andeshandbook.org/montanismo/ruta/28/normal_-_cara_norte), el
 [sitio oficial del parque](https://sitios.mendoza.gob.ar/energiayambiente/aconcagua/) y relatos recientes.
 
-**Contenido:** [Resumen](#-bottom-line--conclusión) · [Perfil de la ruta](#perfil-de-la-ruta) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [Perfil de la ruta](#perfil-de-la-ruta) ·
 [Antes del parque](#antes-del-parque-penitentes-y-puente-del-inca) · [Horcones](#horcones-2800-2950-m) ·
 [Confluencia](#confluencia-3390-m) · [Plaza Francia](#plaza-francia-y-mirador-de-la-pared-sur-4000-4200-m) ·
 [Plaza de Mulas](#plaza-de-mulas-campo-base-4300-m) · [Cerro Bonete](#cerro-bonete-5004-m) ·
@@ -22,7 +22,7 @@ Horcones), de la entrada del parque a la cumbre. Fuentes principales: la
 
 ---
 
-## ⚡ Bottom line / Conclusión
+## Bottom line / Conclusión
 
 1. **Son 5 lugares donde se duerme:** Confluencia (3.390 m) → Plaza de Mulas (4.300 m, campo base) →
    Canadá (~5.000 m) → Nido de Cóndores (~5.450 m) → Cólera (~5.970 m). La cumbre está a 6.962 m.

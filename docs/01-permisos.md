@@ -8,7 +8,7 @@
 (Decreto 2322/2025, Resolución DAP 581/2026 y el sitio del Ministerio de Energía y Ambiente), salvo lo
 marcado como testimonio.
 
-**Contenido:** [Resumen](#-bottom-line--conclusión) · [Fechas límite](#️-fechas-límite) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [Fechas límite](#fechas-límite) ·
 [Cuánto cuesta](#cuánto-cuesta-por-persona) · [Descuento por mulas](#el-descuento-por-mulas-verdadero-o-falso) ·
 [Preventa](#la-preventa-2026-2027-paso-a-paso) · [Sin preventa](#si-no-compran-en-preventa) ·
 [Seguro](#seguro-obligatorio) · [Ventana de ingreso](#la-ventana-de-ingreso-cierra-el-15-de-febrero) ·
@@ -17,7 +17,7 @@ marcado como testimonio.
 
 ---
 
-## ⚡ Bottom line / Conclusión
+## Bottom line / Conclusión
 
 1. **Sí hay que tramitar el permiso antes de llegar al parque.** En Horcones no se vende ni se entrega
    ningún permiso. El sitio oficial dice textual: *«en el Ingreso al Parque NO se entregan Tickets ni
@@ -47,7 +47,7 @@ marcado como testimonio.
 
 ---
 
-## ⚠️ Fechas límite
+## Fechas límite
 
 | Fecha | Qué vence | Quién lo hace |
 |---|---|---|

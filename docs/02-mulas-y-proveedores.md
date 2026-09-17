@@ -9,7 +9,7 @@
 de concesiones del 10/09/2026 ([Decreto 1885/2026](https://www.mdzol.com/politica/el-aconcagua-tiene-nuevos-concesionarios-quienes-son-y-como-se-dividieron-el-parque-n1603771))
 y con la web de cada empresa.
 
-**Contenido:** [Resumen](#-bottom-line--conclusión) · [Las 11 empresas](#las-11-empresas-habilitadas-y-sus-contactos) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [Las 11 empresas](#las-11-empresas-habilitadas-y-sus-contactos) ·
 [Paquetes y precios](#qué-venden-a-montañistas-independientes-y-a-qué-precio) ·
 [Cómo funcionan las mulas](#cómo-funcionan-las-mulas) · [Porteadores](#porteadores-sobre-plaza-de-mulas) ·
 [Mensaje para enviar](#mensaje-listo-para-enviar) · [Qué preguntar](#checklist-de-preguntas-antes-de-pagar) ·
@@ -17,7 +17,7 @@ y con la web de cada empresa.
 
 ---
 
-## ⚡ Bottom line / Conclusión
+## Bottom line / Conclusión
 
 1. **Solo 11 empresas pueden operar en el parque** desde la licitación de septiembre de 2026 (concesiones
    a 20 años; los permisos precarios anteriores quedaron revocados). **Las 11 tienen lugar en Plaza de

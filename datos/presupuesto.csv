@@ -1,0 +1,15 @@
+concepto,por_persona_min_usd,por_persona_max_usd,tipo,base_del_calculo,confianza,fuente
+Permiso de ascenso Horcones (preventa),950,950,obligatorio,Resolución 581/2026: USD 950 extranjero con asistencia,alta,https://boe.mendoza.gov.ar/default/public/publico/verpdf/32678
+Logística con asistencia (paquete mínimo),1295,3310,obligatorio,Mín.: Andesport USD 1.295 (mulas 60 kg); máx.: Grajales USD 3.310 (35 kg y 7 días de comidas),media,https://brookebeyond.com/solo-climbing-aconcagua
+Kilos extra de mula,0,300,posible,Solo si el paquete incluye 35 kg y llevan ~40 kg; precio a cotizar,baja,docs/05-equipo.md
+Seguro de montaña,250,650,obligatorio,Mín.: American Alpine Club Leader USD 250; máx.: Global Rescue (membresía + USD 495 del paquete Alta Montaña),media,https://americanalpineclub.org/rescue
+Asistencia en viaje / seguro de salud para Argentina,30,150,obligatorio,Estimación; Colmena ofrece planes anuales desde UF 3.8 por grupo familiar,baja,https://www.colmena.cl/contrata-asistencia-en-viaje-internacional/
+Comida (~17 kg por persona),200,300,obligatorio,Estimación: ~9 liofilizados + supermercado en Chile y Uspallata,baja,docs/06-comida-y-agua.md
+Gas (mitad de 7 cartuchos de 450 g),35,55,obligatorio,Estimación USD 10-15 por cartucho,baja,docs/06-comida-y-agua.md
+Arriendo de equipo (botas dobles y lo que falte),100,350,según lo que tengan,Roca Rental: botas dobles CLP 14.000 (confirmar si es por día); plumas y saco si hace falta,baja,https://rocarental.com/botas/
+Auto: combustible y peajes (mitad),40,70,obligatorio,~400 km ida y vuelta Santiago-Penitentes,baja,docs/04-itinerario.md
+Auto: seguro RCI/Mercosur (mitad),5,20,obligatorio,Seguro de responsabilidad civil para Argentina contratado en Chile,baja,https://seguros.sura.cl/movilidad/seguro-rci-argentina
+Auto: estacionamiento ~16 días en Penitentes (mitad),0,80,posible,Preguntar a la empresa; puede estar incluido,baja,docs/02-mulas-y-proveedores.md
+Alojamiento en Penitentes (2 noches),0,120,posible,Andesport incluye 1 noche con media pensión; resto a cotizar,baja,docs/04-itinerario.md
+Porteador de bajada Cólera a Plaza de Mulas (opcional),0,420,opcional,Tarifa 2025-26 para 20 kg,media,http://www.andes-specialists.com/trips/aconcagua-expedition-2027/
+Propinas y extras,50,150,opcional,Estimación,baja,

@@ -1,0 +1,73 @@
+categoria,item,cantidad_por_persona,compartido,donde_va,peso_aprox_g_unidad,como_conseguir,obligatorio_o_clave,notas
+Documentos,Pasaporte (Vlad) / cédula o pasaporte (Felipe),1,no,cuerpo,50,tener,sí,Para frontera y permiso; Felipe: la empresa puede pedir pasaporte
+Documentos,Permiso de ascenso impreso,1,no,mochila,10,empresa,sí,No se entrega en Horcones
+Documentos,Póliza/carta del seguro de montaña (papel + celular),1,no,mochila,10,comprar,sí,"Español o inglés, con número"
+Documentos,Asistencia en viaje / seguro de salud para Argentina,1,no,mochila,10,comprar,sí,Decreto 366/2025
+Documentos,Declaración jurada de aceptación de riesgo firmada,1,no,mochila,10,imprimir,sí,Formulario oficial
+Documentos,Pesos argentinos en efectivo + USD en billetes nuevos,1,no,cuerpo,20,tener,clave,"Peajes, Uspallata, porteadores (cobran en USD efectivo)"
+Documentos,Licencia de conducir + padrón del auto + seguro RCI/Mercosur + formulario de salida del vehículo,1,sí,auto,100,tramitar,sí,Solo el conductor registrado en aduana puede manejar en Argentina
+Calzado,Botas dobles de alta montaña (tipo La Sportiva Spantik/Baruntse/G2 Evo),1,no,mula,2300,arrendar o comprar,sí,Desde Plaza de Mulas hacia arriba; 8.000 m es exagerado
+Calzado,"Botas o zapatillas de trekking (caña media, ya ablandadas)",1,no,cuerpo,1100,tener,clave,Aproximación y hasta Canadá/Nido si el clima lo permite
+Calzado,Sandalias o Crocs (cruces de río y campamento),1,no,mochila,350,tener,clave,Playa Ancha tiene cruces de río
+Calzado,Botines de plumas para campamento,1,no,mula,300,tener o comprar,recomendado,Los Crocs no alcanzan en altura (testimonio)
+Calzado,Polainas,1,no,mula,250,tener,recomendado,Acarreo y nieve
+Calzado,Calcetines finos sintéticos (liner),3,no,mula,40,tener,clave,
+Calzado,Calcetines gruesos de montaña (merino),4,no,mula,100,tener,clave,Un par nuevo guardado para la cumbre
+Ropa,Camiseta térmica manga larga sintética o merino,3,no,mula,180,tener,clave,"Colores claros, idealmente con capucha"
+Ropa,Calzas / primera capa inferior,2,no,mula,180,tener,clave,
+Ropa,Polar o chaqueta liviana (segunda capa),1,no,mula,400,tener,clave,
+Ropa,Chaqueta aislante sintética liviana,1,no,mula,400,tener,clave,Uso diario en campamentos
+Ropa,Chaqueta de plumas de expedición (con capucha),1,no,mula,1100,tener o arrendar,sí,Obligatoria para campamentos altos y cumbre
+Ropa,Pantalón de plumas o sintético con cierre lateral,1,no,mula,600,tener o arrendar,sí,
+Ropa,Chaqueta impermeable Gore-Tex (hardshell),1,no,mochila,450,tener,sí,Tercera capa
+Ropa,Pantalón impermeable con cierre lateral largo,1,no,mula,400,tener,sí,Encima de todo el día de cumbre
+Ropa,Pantalón softshell,1,no,mula,500,tener,recomendado,
+Ropa,Pantalón de trekking liviano (convertible),1,no,cuerpo,350,tener,clave,Aproximación: 20-30 °C de día
+Ropa,Poleras para la aproximación y la ciudad,2,no,mula,150,tener,opcional,
+Ropa,Ropa interior sintética,5,no,mula,60,tener,clave,
+Manos y cabeza,Guantes liner,2,no,mula,40,tener,sí,
+Manos y cabeza,Guantes softshell,1,no,mula,120,tener,sí,
+Manos y cabeza,Mitones de expedición (pluma),1,no,mula,300,tener o arrendar,sí,Imprescindibles el día de cumbre
+Manos y cabeza,Gorro de abrigo,1,no,mochila,80,tener,sí,
+Manos y cabeza,Gorro o jockey para el sol,1,no,cuerpo,80,tener,sí,
+Manos y cabeza,Pasamontañas (balaclava),1,no,mula,60,tener,sí,Un buff no lo reemplaza
+Manos y cabeza,Buff / cuello,2,no,mochila,40,tener,sí,Protege del polvo y el frío al respirar
+Manos y cabeza,Lentes de sol categoría 4 (glaciar),1,no,cuerpo,40,tener,sí,Más un par de repuesto categoría 3
+Manos y cabeza,Antiparras de esquí (VLT ≤30 %),1,no,mula,200,tener,sí,Día de cumbre con viento
+Técnico,"Crampones de 12 puntas de acero, compatibles con las botas",1,no,mula,900,tener o arrendar,sí,Probarlos con las botas antes
+Técnico,Piolet clásico (52-66 cm según altura),1,no,mula,450,tener o arrendar,recomendado,Necesario si el año viene con nieve
+Técnico,Casco de escalada,1,no,mula,300,tener,recomendado,Caída de piedras en la Canaleta en años secos
+Técnico,Bastones plegables de 3 tramos,1,no,mochila,500,tener,sí,
+Técnico,Cordino de 2 m y 2 mosquetones,1,no,mula,150,tener,opcional,
+Campamento,"Carpa de 4 estaciones para 2-3 personas, anclable con piedras",1,sí,mula,3500,tener o arrendar,sí,"Las estacas no sirven: amarrar a piedras; vientos extra de 3 mm y 2-2,5 m"
+Campamento,Saco de dormir de plumas confort -30 °C,1,no,mula,1700,tener o arrendar,sí,
+Campamento,Colchoneta de espuma de cuerpo entero,1,no,mula,400,tener,sí,Aislante debajo de la inflable
+Campamento,Colchoneta inflable de alta montaña (R ≥ 5) + parches,1,no,mula,550,tener,sí,
+Campamento,Almohada inflable,1,no,mula,80,tener,recomendado,
+Campamento,Cocinilla a gas con protección de viento (sistema integrado tipo WindBurner/Reactor),1,sí,mula,500,tener,sí,Más eficiente para derretir nieve
+Campamento,Segunda cocinilla liviana de respaldo,1,sí,mula,100,tener,recomendado,Si la principal falla a 6.000 m no hay agua
+Campamento,"Olla de 1,5-2 L extra con tapa",1,sí,mula,250,tener,clave,Cocinar sin tapa gasta 20-30 % más gas
+Campamento,Encendedores (3) y fósforos en bolsa,1,sí,mochila,60,tener,sí,
+Campamento,Bolsa grande para juntar nieve / pala plástica chica,1,sí,mula,200,tener,opcional,
+Campamento,"Taza térmica con tapa, plato hondo, cuchara larga",1,no,mula,250,tener,sí,Cuchara larga para comer desde bolsas de liofilizado
+Campamento,Cortaplumas,1,sí,mochila,80,tener,sí,
+Agua,Botellas de 1 L boca ancha (tipo Nalgene),2,no,mochila,180,tener,sí,Las bolsas de hidratación se congelan
+Agua,Fundas térmicas para botellas,2,no,mula,100,tener,clave,El neopreno no alcanza
+Agua,Termo de acero de 1 L,1,no,mula,450,tener,sí,Día de cumbre
+Agua,Pastillas o gotas potabilizadoras (para todo el viaje),1,no,mochila,50,comprar,sí,Tratar siempre el agua de nieve y lagunas
+Agua,"Botella para orinar de 1-1,5 L (marcada)",1,no,mula,150,tener,sí,
+Mochilas y bolsos,Mochila de expedición 70-90 L,1,no,cuerpo,2000,tener,sí,Para mudanzas entre campamentos altos
+Mochilas y bolsos,Mochila de aproximación / cumbre 30-40 L,1,no,mula,800,tener,recomendado,
+Mochilas y bolsos,Bolso duffel de 120-150 L resistente (mulas),1,no,mula,1500,tener,sí,Máx. ~30 kg por lado de mula
+Mochilas y bolsos,Bolsas estancas y 2-3 bolsas de basura gruesas,1,no,mula,300,tener,sí,Proteger ropa y saco; también para porteos
+Electrónica,Linterna frontal (≥200 lúmenes) + pilas de repuesto de litio,1,no,mochila,150,tener,sí,
+Electrónica,Radio VHF portátil (frecuencia de la Patrulla 142.800),1,sí,mochila,250,arrendar con la empresa,clave,La forma más rápida de pedir ayuda en la ruta normal
+Electrónica,Comunicador satelital (inReach o similar),1,sí,mochila,120,tener o arrendar,recomendado,No hay señal de celular en el parque
+Electrónica,Batería externa 20.000 mAh y cables,1,no,mula,400,tener,clave,El frío descarga las baterías: dormir con ellas
+Electrónica,Celular con mapa offline y track de la ruta,1,no,cuerpo,200,tener,clave,
+Salud e higiene,Botiquín personal (ver página de salud),1,no,mochila,400,armar,sí,Medicamentos de altura solo con indicación médica
+Salud e higiene,Protector solar FPS 50 y protector labial FPS 30+,1,no,mochila,200,comprar,sí,Radiación muy alta
+Salud e higiene,"Papel higiénico, alcohol gel, toallitas húmedas",1,no,mochila,300,comprar,sí,
+Salud e higiene,"Cepillo, pasta, toalla de secado rápido",1,no,mula,250,tener,clave,
+Salud e higiene,Tapones para los oídos,1,no,mula,10,comprar,recomendado,Noches de viento
+Salud e higiene,Calentadores químicos de manos y pies,3,no,mula,60,comprar,recomendado,Los de pies funcionan con poco oxígeno

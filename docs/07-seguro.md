@@ -7,14 +7,14 @@
 **Actualizado al 17 de septiembre de 2026.** Página dedicada porque es el punto donde más fácil es
 equivocarse: casi todos los seguros de viaje "de aventura" dejan de cubrir antes de la cumbre.
 
-**Contenido:** [Resumen](#-bottom-line--conclusión) · [Qué exige el parque](#qué-exige-el-parque) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [Qué exige el parque](#qué-exige-el-parque) ·
 [Qué exige Argentina](#qué-exige-argentina-para-entrar) · [Colmena y Fonasa](#isapre-colmena-vlad-y-fonasa-felipe) ·
 [Comparación](#comparación-de-opciones) · [Recomendación](#recomendación-para-vlad-y-felipe) ·
 [Checklist](#checklist-antes-de-pagar) · [Creencias](#creencias-comunes-verificadas) · [Fuentes](#fuentes)
 
 ---
 
-## ⚡ Bottom line / Conclusión
+## Bottom line / Conclusión
 
 1. **Ni Isapre Colmena ni Fonasa sirven como seguro del Aconcagua.** Colmena solo reembolsa (si el plan
    tiene cobertura internacional) y no cubre rescate. Su "Asistencia en Viaje Internacional" es un producto
@@ -85,6 +85,7 @@ Fuentes: [Colmena: cobertura internacional](https://www.colmena.cl/cobertura-int
 [Assist Card: deportes](https://www.assistcard.com/es/seguro-viaje-para-deportes).
 
 **Qué hacer, Vlad:**
+
 1. Entrar a la Sucursal Virtual → "Mi plan" → "Documentos de mi Plan" → **"Certificado de Cobertura
    internacional"** para ver si su plan la tiene y con qué tope.
 2. **No contar con Colmena para el rescate.** Comprar el seguro de montaña aparte.

@@ -1,0 +1,35 @@
+comida,item,tipo_de_dia,g_por_persona_por_dia,dias,personas,total_g_con_10pct_reserva,comprar_en,nota
+Desayuno,Avena instantánea,bajo (Confluencia/Plaza de Mulas),100,8,2,1760,Chile,
+Desayuno,Avena instantánea,altura (Canadá/Nido/Cólera),80,8,2,1408,Chile,
+Desayuno,Leche en polvo,bajo (Confluencia/Plaza de Mulas),30,8,2,528,Chile,Industrial y sellada
+Desayuno,Leche en polvo,altura (Canadá/Nido/Cólera),30,8,2,528,Chile,Industrial y sellada
+Desayuno,Azúcar,bajo (Confluencia/Plaza de Mulas),30,8,2,528,Chile,
+Desayuno,Azúcar,altura (Canadá/Nido/Cólera),20,8,2,352,Chile,
+Desayuno,Café soluble / té / cacao,bajo (Confluencia/Plaza de Mulas),30,8,2,528,Chile,
+Desayuno,Café soluble / té / cacao,altura (Canadá/Nido/Cólera),40,8,2,704,Chile,Más bebidas calientes arriba
+Marcha,Pan pita o tortillas,bajo (Confluencia/Plaza de Mulas),120,8,2,2112,Argentina (Uspallata) o Chile envasado,Dura 5-7 días
+Marcha,Queso maduro,bajo (Confluencia/Plaza de Mulas),60,8,2,1056,Argentina (Uspallata),Evitar cruzar lácteos no sellados
+Marcha,Salame / fiambre curado,bajo (Confluencia/Plaza de Mulas),50,8,2,880,Argentina (Uspallata),Prohibido cruzar embutidos desde Chile
+Marcha,Frutos secos tostados y mezcla,bajo (Confluencia/Plaza de Mulas),60,8,2,1056,Chile,
+Marcha,Frutos secos tostados y mezcla,altura (Canadá/Nido/Cólera),60,8,2,1056,Chile,
+Marcha,Chocolate,bajo (Confluencia/Plaza de Mulas),50,8,2,880,Chile,
+Marcha,Chocolate,altura (Canadá/Nido/Cólera),50,8,2,880,Chile,
+Marcha,Barras de cereal o proteína,altura (Canadá/Nido/Cólera),150,8,2,2640,Chile,3 por día
+Marcha,Gomitas / dulces,altura (Canadá/Nido/Cólera),40,8,2,704,Chile,Fáciles de comer con altura
+Marcha,Galletas,bajo (Confluencia/Plaza de Mulas),60,8,2,1056,Chile,
+Marcha,Galletas,altura (Canadá/Nido/Cólera),40,8,2,704,Chile,
+Cena,Sopa en sobre,bajo (Confluencia/Plaza de Mulas),20,8,2,352,Chile,Hidrata y da sal
+Cena,Sopa en sobre,altura (Canadá/Nido/Cólera),20,8,2,352,Chile,
+Cena,Pasta o arroz rápido,bajo (Confluencia/Plaza de Mulas),130,8,2,2288,Chile,
+Cena,Salsa en sobre / tomate deshidratado,bajo (Confluencia/Plaza de Mulas),30,8,2,528,Chile,
+Cena,Atún o pollo en sobre o lata,bajo (Confluencia/Plaza de Mulas),85,8,2,1496,Chile,Conserva industrial: se puede cruzar
+Cena,Queso rallado,bajo (Confluencia/Plaza de Mulas),20,8,2,352,Argentina (Uspallata),
+Cena,Comida liofilizada (1 porción),altura (Canadá/Nido/Cólera),130,8,2,2288,Chile,Difícil de conseguir en Mendoza (testimonio)
+Cena,Puré instantáneo o cuscús,altura (Canadá/Nido/Cólera),60,8,2,1056,Chile,Complemento del liofilizado
+Cena,Aceite de oliva en botella chica,bajo (Confluencia/Plaza de Mulas),15,8,2,264,Chile,
+Cena,Aceite de oliva en botella chica,altura (Canadá/Nido/Cólera),10,8,2,176,Chile,
+Bebidas,Sales / bebida isotónica en polvo,bajo (Confluencia/Plaza de Mulas),60,8,2,1056,Chile,2 sobres por día
+Bebidas,Sales / bebida isotónica en polvo,altura (Canadá/Nido/Cólera),80,8,2,1408,Chile,3 sobres por día
+Día de cumbre,Geles energéticos,cumbre,90,1,2,180,Chile,3 por persona
+Día de cumbre,Barras extra,cumbre,100,1,2,200,Chile,2 por persona
+Fresco (días 1-4),"Fruta y verdura fresca (manzanas, naranjas, zanahorias)",bajo (primeros días),300,4,2,2400,Argentina (Uspallata),Prohibido cruzar fruta fresca desde Chile

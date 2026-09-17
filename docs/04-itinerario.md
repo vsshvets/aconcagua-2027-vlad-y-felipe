@@ -9,7 +9,7 @@ en auto propio desde Santiago, con mulas y cocinando todo. Sigue el plan de acli
 [Comisión Médica de la UIAA](https://www.theuiaa.org/mountain-medicine/aconcagua/) (basado en las
 recomendaciones de la Wilderness Medical Society), con los días de manejo agregados.
 
-**Contenido:** [Resumen](#-bottom-line--conclusión) · [Plan A (18 días)](#plan-a-recomendado-18-días) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [Plan A (18 días)](#plan-a-recomendado-18-días) ·
 [Día por día](#día-por-día) · [Perfil de altura](#perfil-de-altura-dónde-duermen) ·
 [Decisiones clave](#puntos-de-decisión) · [Plan B (15 días)](#plan-b-comprimido-15-días) ·
 [Plan C (con Mendoza)](#plan-c-si-el-permiso-hay-que-retirarlo-en-mendoza) ·
@@ -17,7 +17,7 @@ recomendaciones de la Wilderness Medical Society), con los días de manejo agreg
 
 ---
 
-## ⚡ Bottom line / Conclusión
+## Bottom line / Conclusión
 
 1. **Plan A: 18 días, del lunes 8 al jueves 25 de febrero de 2027**, con **ventana de cumbre desde el
    viernes 19** y **3 días de reserva** por clima.
@@ -267,9 +267,11 @@ Ventaja: compras grandes en supermercados de Mendoza y gas asegurado. Desventaja
 
 Como ya estuvieron sobre 5.000 m, un fin de semana de altura en la zona central **2-4 semanas antes**
 (por ejemplo un cerro de más de 4.500 m cerca de Santiago) ayuda a que los primeros días en el parque se
-sientan mejor. La UIAA menciona que los planes de preaclimatación en cerros cercanos permiten acortar la
-estadía en el Aconcagua ([fuente](https://www.theuiaa.org/mountain-medicine/aconcagua/)). No reemplaza
-ningún día del Plan A: es un seguro extra.
+sientan mejor.
+
+La UIAA menciona que los planes de preaclimatación en cerros cercanos permiten acortar la estadía en el
+Aconcagua ([fuente](https://www.theuiaa.org/mountain-medicine/aconcagua/)). No reemplaza ningún día del
+Plan A: es un seguro extra.
 
 ---
 
