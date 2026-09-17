@@ -118,7 +118,8 @@ Detalle y comparación con la Ruta 360°: [campamentos](docs/03-campamentos.md#l
   lugar en Plaza de Mulas.**
 - Las mulas llegan **hasta Plaza de Mulas**. Más arriba, se carga a pie o con porteadores (USD 160-420 por
   tramo con 20 kg).
-- **Van a necesitar ~40 kg por persona en mula.** Los paquetes estándar incluyen 35 kg; Andesport, 60 kg.
+- **Van a necesitar ~40 kg por persona en mula.** Los paquetes estándar incluyen 35 kg. Los 60 kg de
+  Andesport vienen de una cotización de un tercero, no de su web: confírmenlo al pedir la suya.
 
 | Empresa | Contacto | Paquete para independientes | Precio conocido |
 |---|---|---|---:|
