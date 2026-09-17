@@ -387,6 +387,8 @@ Descripción de columnas: [datos/README.md](datos/README.md).
 | 3 | Búsqueda amplia (más de 100 consultas) y lectura de ~130 páginas: empresas, guías, UIAA, WMS, aduanas, SENASA, SAG, aseguradoras | Datos cruzados; lo no confirmado queda marcado 🟡 o 🔴 |
 | 4 | Reddit: hilos de 2024-2026 sobre permisos, mulas, equipo, internet y relatos de ascenso | Sección de testimonios en cada página, separada de las fuentes oficiales |
 | 5 | Cálculos reproducibles: comida, gas, pesos, horas de luz | Desde los CSV de [datos](datos/) |
+| 6 | Cotejo automático de los 15 teléfonos, 16 emails y todas las citas textuales de permisos y proveedores contra el texto de las fuentes | Sin errores en datos de contacto ni cifras; 5 citas ajustadas al texto literal |
+| 7 | Cotejo cruzado entre páginas (precios, alturas, totales de comida y gas) y verificación de todos los enlaces internos | Consistente; 113 enlaces relativos y todas las anclas resuelven |
 
 Índice completo de fuentes con nivel de confianza: [fuentes/fuentes.md](fuentes/fuentes.md).
 
@@ -399,6 +401,8 @@ Descripción de columnas: [datos/README.md](datos/README.md).
 - **Los precios de las empresas** vienen de su web o de cotizaciones publicadas por terceros. Pidan la propia.
 - **La aceptación del seguro** la decide la empresa: confirmarla por escrito antes de pagar.
 - **No se contactó a ninguna empresa, aseguradora ni oficina**; todo sale de fuentes públicas.
+- La revisión con un segundo modelo de IA independiente no se pudo hacer (cuota agotada); se reemplazó por
+  el cotejo automático y manual contra las fuentes.
 - **Plaza de Mulas se va a trasladar** por la Ley de Glaciares, sin fecha confirmada.
 - Los datos médicos son generales: **no reemplazan una consulta médica**.
 - El clima de un año de El Niño muy fuerte puede cambiar todo el plan. Revisen el estado del parque y del

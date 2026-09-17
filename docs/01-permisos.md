@@ -121,12 +121,12 @@ mulas", sino ser *"ingresante con asistencia"*.
 El [Decreto 2322/2025, art. 12](https://media.mendoza.gob.ar/informacion-oficial/uploads/sites/12/2025/10/DECRETO-No-2322-2025.pdf)
 lo define así:
 
-> *«Se considera "ingresante con asistencia de Prestadores de Servicio", al visitante que al momento de
+> *«Se considera “ingresante con asistencia de Prestadores de Servicio”, al visitante que al momento de
 > obtener su permiso haya contratado la asistencia o intermediación de un Prestador de Servicios
 > habilitado, para contar con los Servicios Esenciales de apoyo a la expedición (...) en cuyo caso el
 > nombre de la Empresa debe figurar expresamente en el Permiso de ingreso.»*
 >
-> *«Se definen como "Servicios Esenciales de Apoyo a la Expedición": el transporte de cargas, servicio de
+> *«Se definen como “Servicios Esenciales de Apoyo a la Expedición”: el transporte de cargas, servicio de
 > campo base, servicio de baños, evacuación de residuos y materia fecal.»*
 
 Qué significa en la práctica:
@@ -135,7 +135,7 @@ Qué significa en la práctica:
 |---|---|
 | ¿Contratar solo mulas alcanza? | Legalmente no: son 4 servicios. En la práctica cada empresa arma su "paquete mínimo" que incluye los 4. Andesport, por ejemplo, vende el servicio de mulas con baños, gestión de residuos, radio y traslado a Horcones incluidos. |
 | ¿Cuánto es el descuento? | Ref. 2025-26: **USD 470** para Vlad (1.640 → 1.170) y **USD 360** para Felipe (1.270 → 910). En preventa, contra el precio sin asistencia, el ahorro es USD 690 y USD 320. |
-| ¿Se paga solo? | Ya no. Hasta 2024-25 un servicio mínimo de mulas costaba ~USD 300-450 y el descuento lo cubría. Desde 2025-26 las grandes empresas eliminaron el "solo mulas" y venden paquetes de USD 1.295 a 3.700 (ver [mulas y proveedores](02-mulas-y-proveedores.md)). |
+| ¿Se paga solo? | Ya no. Hasta 2024-25 un servicio mínimo de mulas costaba ~USD 300-700 (según relatos) y el descuento lo cubría en buena parte. Desde 2025-26 las grandes empresas eliminaron el "solo mulas" y venden paquetes de USD 1.295 a 3.700 (ver [mulas y proveedores](02-mulas-y-proveedores.md)). |
 | ¿Y si voy sin asistencia? | Igual tienen que pagar el baño en el campamento base: *«debe contratar baño en campamento base»* y *«Ninguna persona puede permanecer en el campamento sin la contratación del mismo»* ([sitio oficial](https://sitios.mendoza.gob.ar/energiayambiente/aconcagua/)). Y cargan todo ~40 km hasta Plaza de Mulas o pagan porteadores. |
 
 **Conclusión para ustedes:** con asistencia es claramente lo mejor. Sin asistencia pagarían USD 1.010
@@ -219,7 +219,7 @@ El resumen está acá; las opciones concretas para Vlad (Isapre Colmena) y Felip
 |---|---|---|
 | Qué debe cubrir | *«búsqueda, rescate y evacuación, ya sea por razones médicas o por accidente, dentro del Parque Provincial Aconcagua»* | [Res. 581/2026, art. 6](https://boe.mendoza.gov.ar/default/public/publico/verpdf/32678) |
 | Altura mínima (preventa) | *«la cota de 5500 msnm (Campamento Nido de Cóndores)»* | [Anexo II](https://boe.mendoza.gov.ar/publico/verpdf/8a91a03494e4475255c9b6c8d04ae9526b7d07fa38/anexo) |
-| Altura (decreto 2025-26) | *«evacuación aérea desde la cota de 5.600 msnm hasta el helipuerto de Horcones»* | [Decreto 2322/2025, art. 8](https://media.mendoza.gob.ar/informacion-oficial/uploads/sites/12/2025/10/DECRETO-No-2322-2025.pdf) |
+| Altura (decreto 2025-26) | La póliza debe cubrir el monto de la evacuación aérea desde los 5.600 msnm hasta el helipuerto de Horcones | [Decreto 2322/2025, art. 8](https://media.mendoza.gob.ar/informacion-oficial/uploads/sites/12/2025/10/DECRETO-No-2322-2025.pdf) |
 | Idioma | Español o inglés | Anexo II |
 | Identificación | Número de póliza asociado al beneficiario | Anexo II |
 | Deporte | Evacuación y gastos médicos *«en contexto de la práctica de deporte aventura»* claramente en las condiciones | Anexo II |
@@ -253,7 +253,7 @@ Del [Decreto 2322/2025](https://media.mendoza.gob.ar/informacion-oficial/uploads
 | Momento | Qué pasa | Fuente |
 |---|---|---|
 | Ingreso en Horcones | Guardaparques revisan permiso y documento. Entregan **una bolsa de residuos numerada cada 3 personas** y una bolsa individual por persona. | [Sitio oficial](https://sitios.mendoza.gob.ar/energiayambiente/aconcagua/) |
-| Confluencia, Plaza de Mulas | Servicio médico **gratuito**; *«se recomienda (...) realizar un chequeo médico a la llegada»* y acatar sus indicaciones. El médico puede ordenar bajar. | Sitio oficial |
+| Confluencia, Plaza de Mulas | Servicio médico **gratuito**; *«Se recomienda a los visitantes realizar un chequeo médico a la llegada al Campamento»* y acatar sus indicaciones. El médico puede ordenar bajar. | Sitio oficial |
 | Campamentos de altura | Uso **obligatorio** de bolsas para materia fecal, que se devuelven a los guardaparques en el campamento base. | Sitio oficial |
 | Baños en Plaza de Mulas | *«Es obligatorio contratar servicio de baños en Plaza de Mulas»* (lo cubre el paquete de la empresa). | Sitio oficial |
 | Salida | Devolver las bolsas con residuos. Se puede delegar en la empresa con una constancia en el permiso de salida. Si no, sanción. | Sitio oficial |

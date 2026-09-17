@@ -68,7 +68,7 @@ eligen, pregunten dónde duermen y qué baño usan en Confluencia.
 
 | Empresa | Paquete para independientes | Qué incluye | Precio conocido (por persona, sin permiso) | Confianza |
 |---|---|---|---|---|
-| **Andesport** | Mule service / Logistics package, **modular** | Mulas (su web: hasta 50 kg por mula); gestión del permiso; traslado a Horcones; radio entre campamentos, Penitentes y Mendoza; baños en campo base; wifi y VHF; ayuda con evacuación de residuos. *«Can I book only the mule service? Yes»* | **~USD 1.295** (2026-27): 1 noche en Penitentes con media pensión, traslado, mulas 60 kg, servicios de campamento y depósito | 🟡 cotización publicada por [Brooke Beyond](https://brookebeyond.com/solo-climbing-aconcagua); pedir la propia |
+| **Andesport** | Mule service / Logistics package, **modular** | Mulas (su web: hasta 50 kg por mula); gestión del permiso; traslado a Horcones; radio entre campamentos, Penitentes y Mendoza; baños en campo base; wifi y VHF; ayuda con evacuación de residuos. *«Can I book only the mule service?» — «Yes»* | **~USD 1.295** (2026-27): 1 noche en Penitentes con media pensión, traslado, mulas 60 kg, servicios de campamento y depósito | 🟡 cotización publicada por [Brooke Beyond](https://brookebeyond.com/solo-climbing-aconcagua); pedir la propia |
 | **Lanko** | "Valle de Horcones" Básico (y versión corta) | Permiso (formularios online); traslado Penitentes-Horcones y vuelta; mulas Penitentes-Plaza de Mulas y vuelta; 2 días pensión completa en Confluencia y 5 en Plaza de Mulas, en domo; baños; radio; pronóstico. **Versión corta con 4 días de pensión completa** "para montañistas que ya empezaron a aclimatar" | No publicado | 🟢 contenido de la [web](https://www.lanko.com.ar/es/servicios-logisticos/valle-horcones) |
 | **Aconcagua Visión** | "Basic Package Standard" 4 o 7 días de pensión completa (temporada 2026-27) | Servicios completos de campo base, mulas (máx. 35 kg por persona ida y vuelta), asistencia con el permiso con descuento; wifi y duchas; baños secos; retiro de basura | No publicado | 🟢 [web](https://aconcaguavision.com/logistics/in-aconcagua/) |
 | **Juan Herrera** | Apoyo logístico a medida | Permisos y compras, traslados a Puente del Inca/Penitentes, mulas a campamentos intermedios y base, servicio de campo base (3 comidas), radio en campo base, gestión de basura | No publicado | 🟢 [web](http://juanherreratravelservice.com/en/aconcagua-services/logistical-support/) |
@@ -195,9 +195,9 @@ Muchas gracias,
 - **"Este año las empresas no venden servicios sueltos"** (octubre 2025): *«Companies are selling minimum
   packages, around $3,000 per person, which include mules to base camp and a week of food and lodging at
   base camp.»* ([hilo](https://reddit.com/r/Mountaineering/comments/1o1hmuu/aconcagua_permits_and_mule_costs/))
-- **Andesport era la alternativa barata** (2025): *«reach out to Andesport Expeditions! They offer $1100
-  logistic packages which includes mule services or $1750 if you want to include food services as well.»*
-  ([hilo](https://reddit.com/r/Mountaineering/comments/1fb5xeb/how_to_obtain_permit_for_aconcagua_normal_route/))
+- **Andesport era la alternativa barata** (2025): un usuario cuenta que Andesport ofrecía paquetes
+  logísticos de **USD 1.100 con mulas** o **USD 1.750 con comidas**, y que lo ayudaban a comprar permisos en
+  preventa ([hilo](https://reddit.com/r/Mountaineering/comments/1fb5xeb/how_to_obtain_permit_for_aconcagua_normal_route/))
 - **Grajales** respondió por email a otro usuario: *«the BASIC package, without the permit cost, is $3680.»* (mismo hilo)
 - **Inka o Grajales dan una experiencia parecida** (mismos campamentos, gente que rota entre empresas); un
   usuario recomienda llamar a ambos, comparar y negociar. Hizo el 90 % de las compras de comida en Mendoza.
