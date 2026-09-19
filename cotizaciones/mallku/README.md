@@ -45,6 +45,33 @@ Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de se
 - Pedir el seguro al tramitar el permiso es correcto si usan la modalidad **nominada** (todo junto antes del 30 de septiembre). La modalidad la define la Dirección de Áreas Protegidas.
 - Es la más chica de las seis: 23 unidades en Plaza de Mulas y 16 en Confluencia. Google Maps: 5,0 con 11 reseñas. Una de sus webs está «en construcción».
 
+## Qué dice la gente
+
+**5.0 de 5 en Google, pero con solo 11 reseñas** (2019-2025), y ocho de ellas con texto. No hay relatos en Reddit, ni en TripAdvisor, ni en foros: es la empresa con menos evidencia pública de las seis.
+
+| Dónde | Nota | Reseñas |
+|---|---:|---:|
+| Google Maps | 5.0 | 11 |
+| TripAdvisor / Reddit / foros | sin presencia | 0 |
+
+**Lo que más elogian:**
+
+- Las once reseñas son de 5 estrellas y destacan el trato personal y la logística a medida.
+- Es coherente con lo que nos respondieron por email: fueron los únicos que se tomaron el trabajo de explicar cómo encajar un paquete de 4 días en un plan más largo.
+
+**Las quejas:**
+
+- **Once reseñas en siete años no alcanzan para juzgar a una empresa.** Con 23 unidades en Plaza de Mulas es la más chica de las seis.
+- Una de sus webs sigue «en construcción».
+
+<details><summary><b>Reseñas textuales</b> (1)</summary>
+
+> Mallku cuenta con un Maravilloso equipo de trabajo! Excelencia en servicios y la calidad del grupo humano insuperable! Siempre atentos y super generosos, compartiendo sus tiempos y su vasta experiencia! Super recomendable!! 100% de excelencia profesional !! Su servicio de logística tan personalizado creo que los distingue del resto de las empresas del rubro!!
+>
+> — cynthia, 2024-07-24, Google (5★)
+
+</details>
+
 ## Mensaje para confirmar lo que falta
 
 Listo para copiar y mandar por WhatsApp o email.

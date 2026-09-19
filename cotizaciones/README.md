@@ -9,7 +9,7 @@ cotización a las 11 empresas habilitadas. Respondieron 7 en un día. Esta pági
 cada empresa tiene su carpeta con los emails completos, los adjuntos y un mensaje listo para aclarar lo que falta.
 
 **Contenido:** [Resumen](#-resumen) · [Comparación](#comparación-precio-total-por-persona) ·
-[Qué incluye cada una](#qué-incluye-cada-una) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) · [Creencias verificadas](#creencias-verificadas) ·
+[Qué incluye cada una](#qué-incluye-cada-una) · [Pared Sur vs Visión](#pared-sur-vs-aconcagua-visión-lado-a-lado) · [Reseñas](#qué-dicen-las-reseñas) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) · [Creencias verificadas](#creencias-verificadas) ·
 [Qué hacer esta semana](#qué-hacer-esta-semana) · [Carpetas](#carpetas-por-empresa) · [Método](#cómo-se-armó)
 
 ---
@@ -19,8 +19,9 @@ cada empresa tiene su carpeta con los emails completos, los adjuntos y un mensaj
 1. **Nadie incluye el permiso, salvo Aconcagua Visión, y solo en el email.** Sabrina escribió *«El costo del
    permiso está incluido»* en sus USD 2.830, pero la web de la empresa dice *«no incluye el costo del permiso»*.
    Si lo confirma por escrito, es la mejor opción entre las empresas grandes. Si no, cuesta USD 3.780 por persona.
-2. **Lo más barato en papel es Aconcagua Pared Sur: USD 2.550 por persona con el permiso**, pero es una lista
-   mayorista de mayo, con 30 kg de mula, pago al dólar blue y cancelación de hasta 35 %.
+2. **Lo más barato es Aconcagua Pared Sur: USD 2.550 por persona con el permiso** (Javier confirmó el permiso a
+   USD 950 por WhatsApp), pero es una lista mayorista de mayo, con 30 kg de mula, sin duchas, pago al dólar blue
+   y cancelación de hasta 35 %. Venden su propio seguro a USD 400, sin decir todavía qué cubre.
 3. **Sin contar a Visión, la empresa grande más barata es Lanko: USD 3.380 por persona** con el permiso
    (10 % de descuento ofrecido). Inka USD 3.650, Grajales USD 3.780 y Mallku USD 3.800.
 4. **Andesport y AMG todavía no respondieron**, y sus webs siguen ofreciendo **solo mulas**. Andesport era la
@@ -40,7 +41,7 @@ Ordenado de menor a mayor.
 
 | Empresa | Paquete | Precio cotizado | ¿Permiso incluido? | **Total por persona** | Los dos | Mulas | Google Maps |
 |---|---|---:|---|---:|---:|---:|---|
-| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico (4 días) | USD 1.600 | No | **USD 2.550** | USD 5.100 | 30 kg | 4,8 (39) |
+| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico (4 días) | USD 1.600 | No (USD 950 confirmado por WhatsApp) | **USD 2.550** | USD 5.100 | 30 kg | 4,8 (39) |
 | [Aconcagua Visión](aconcagua-vision/README.md) | Básico (4 días) | USD 2.830 | ⚠️ Email: sí · Web: no | **USD 2.830 o 3.780** | USD 5.660 o 7.560 | 35 kg | sin ficha propia · B Corp |
 | [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico + Altura (4 días + 4 noches domo) | USD 2.100 | No | **USD 3.050** | USD 6.100 | 30 kg | 4,8 (39) |
 | [Lanko Altas Montañas](lanko/README.md) | Básico Corto (4 días) | USD 2.430 (regular 2.700) | No | **USD 3.380** | USD 6.760 | 35 kg | 4,5 |
@@ -81,6 +82,43 @@ Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/e
 
 ---
 
+## Pared Sur vs Aconcagua Visión, lado a lado
+
+Las dos más baratas. Pared Sur según su catálogo y el WhatsApp con Javier; Visión según el email de Sabrina y su
+[página de logística 2026-27](https://aconcaguavision.com/es/logistica/en-aconcagua).
+
+| | [Pared Sur](pared-sur/README.md) · Pre-Venta Básico | [Aconcagua Visión](aconcagua-vision/README.md) · Básico Standard 4 días |
+|---|---|---|
+| **Precio del paquete** | USD 1.600 | USD 2.830 |
+| **Permiso (USD 950)** | Aparte. Javier confirmó los USD 950: *«Si exacto»* | Email: incluido. Web: *«no incluye el costo del permiso»* |
+| **Total por persona** | **USD 2.550** | **USD 2.830** si el permiso está incluido, **USD 3.780** si no |
+| **Días de pensión completa** | 4 (preguntado si es 1 Confluencia + 3 Plaza de Mulas, sin respuesta) | 4: 1 Confluencia + 3 Plaza de Mulas |
+| **Mulas** | **30 kg** por persona, ida y vuelta, desde Puente del Inca | **35 kg** por persona, ida y vuelta, con parada en Confluencia |
+| **Duchas** | No (solo en los paquetes Full) | **Sí, con agua caliente** |
+| **Wifi** | Sí | Sí |
+| **Baños en campo base** | Sí | Sí |
+| **Electricidad para cargar** | No lo dice | Sí |
+| **Agua potable** | No lo dice | Sí |
+| **Dónde duermen** | Carpa propia (el alojamiento en campamento es solo del Full) | Cama en dormitorio en Confluencia; carpa propia en Plaza de Mulas (domo doble es un extra) |
+| **Guarda de equipo** | Depósito en Puente del Inca | En los campamentos base |
+| **Basura** | No lo detalla (el parque lo exige) | Gestión y traslado fuera del parque |
+| **Oxígeno de emergencia** | No lo dice | En Nido de Cóndores y Berlín, con cargo si se usa |
+| **Altura (opcional)** | **+USD 500:** 4 noches en domo compartido en Nido o Berlín (Pre-Venta Básico + Altura) | **+USD 600:** comedor, cocina, gas, baños, wifi y electricidad en altura. **+USD 150:** solo baños |
+| **Traslado Penitentes ↔ Horcones** | No | No |
+| **Seguro** | Lo venden: USD 400 (no dijeron qué cubre; el catálogo pide solo 4.500 m) | Cualquiera con evacuación en helicóptero hasta 5.500 m |
+| **Seña** | Anticipo sin monto; precio de preventa si se paga 90 días antes | 50 % del paquete |
+| **Cancelación** | Hasta 35 % como crédito | No informada. Si cierra el parque, no hay descuentos |
+| **Pago** | USD al dólar blue; IVA aparte con factura | No informado |
+| **Tamaño** | 31 unidades en Plaza de Mulas, 21 en Confluencia | 132 en Plaza de Mulas, 44 en Confluencia |
+| **Reseñas** | Google 4,8 (39) | Sin ficha pública en Google; empresa B Corp |
+
+**En resumen:** por USD 280 más por persona (si el permiso está incluido) o USD 1.230 más (si no), Visión da
+5 kg más de mula, duchas calientes, electricidad, cama en Confluencia, parada de mulas en Confluencia y una
+estructura cuatro veces más grande. Pared Sur es más barata y tiene la opción de altura más económica: USD 500
+por 4 noches de domo en Nido o Berlín.
+
+---
+
 ## Lo que puede subir el precio
 
 | Tema | Cuánto | Detalle |
@@ -90,6 +128,27 @@ Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/e
 | **Desechos en altura** | USD 150 en Visión, o bajarlos ustedes | Sin el servicio de baños de altura hay que bajar las bolsas a Plaza de Mulas. Si las baja Mallku, cobra USD 40 por kg |
 | **Seguro** | USD 250 por persona (AAC Leader) | Además, Argentina exige un seguro de viaje con gastos médicos ([Seguro](../docs/07-seguro.md)) |
 | **Transferencias** | USD 17 por transferencia en Lanko; costos bancarios del cliente en todas | Una transferencia internacional desde Chile tarda 1-3 días hábiles |
+
+---
+
+## Qué dicen las reseñas
+
+Se bajaron las **399 reseñas de Google** de las cinco empresas que tienen ficha, y se buscaron relatos en
+TripAdvisor, Reddit, foros de montaña y blogs en cuatro idiomas. El detalle, con citas textuales, está en la
+página de cada empresa.
+
+| Empresa | Google | Lo mejor que dicen | La queja que importa |
+|---|---|---|---|
+| [Pared Sur](pared-sur/README.md#qué-dice-la-gente) | **4,85** (39) | Un equipo de dos, sin guía ni porteadores, hizo cumbre en 9 días con mulas y servicio básico, y ya va por su tercera temporada con ellos | La única reseña mala es por una cancelación médica en enero de 2025: dicen que no les devolvieron el dinero ni les contestaron |
+| [Aconcagua Visión](aconcagua-vision/README.md#qué-dice-la-gente) | **sin ficha** | Certificación B Corp y el relato de su socio suizo, que elogia el domo y la comida en el campo base | **No tiene ni una reseña de clientes**: ni Google, ni TripAdvisor, ni Facebook, ni Reddit |
+| [Lanko](lanko/README.md#qué-dice-la-gente) | **4,5** (97) | Es la más elegida por los que suben sin guía: un club argentino pagó USD 440 por una mula ida y vuelta y con eso tuvo lugar para acampar, agua, baños y domo para cocinar | En Plaza de Mulas el servicio baja, y las mulas de bajada dejan últimos a los que no van con guía |
+| [Grajales](grajales/README.md#qué-dice-la-gente) | **4,7** (93) | Un montañista solo y sin guía en diciembre de 2025 pagó ~USD 3.300 y lo calificó de excelente, con wifi, electricidad y duchas | Reseñas de 2025 y 2026 por servicios prometidos y no entregados: comidas negadas en Confluencia al salir, duchas calientes que no había |
+| [Inka](inka/README.md#qué-dice-la-gente) | **4,4** (159) | La logística para expediciones autónomas funciona y es la de mayor infraestructura | *«As soon as you are not paying the horrendous prices anymore, you get a tent somewhere behind the toilets»*. Nosotros seríamos ese cliente |
+| [Mallku](mallku/README.md#qué-dice-la-gente) | **5,0** (11) | Trato personal y logística a medida, coherente con su respuesta por email | Once reseñas en siete años no alcanzan para juzgar a una empresa |
+
+**Dos cosas que aparecen en las reseñas y no en las cotizaciones:** el baño en los campamentos de altura es un
+extra que se paga aparte (unos USD 100 en Grajales, USD 150 en Visión), y las mulas de bajada se atrasan cuando
+uno no va con una empresa de guiado.
 
 ---
 

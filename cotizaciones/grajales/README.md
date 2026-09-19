@@ -45,6 +45,58 @@ Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, 
 - Unidades: 138 en Plaza de Mulas y 34 en Confluencia. Google Maps: **4,7 con 93 reseñas**, la mejor nota entre las grandes, con elogios de gente que usó su paquete para expediciones sin guía (testimonios).
 - Curiosidad: la web de Aconcagua Visión muestra el mismo teléfono que Grajales (+54 261 650-2359). Puede ser un error de la web; no se pudo verificar ninguna relación entre las empresas.
 
+## Qué dice la gente
+
+**4.68 de 5 en Google, con 93 reseñas** (2018-2026), la mejor nota entre las empresas grandes. Pero 7 reseñas son de 3 estrellas o menos y **las peores son de 2025 y 2026**, todas sobre lo mismo: servicios prometidos que no se cumplen.
+
+| Dónde | Nota | Reseñas |
+|---|---:|---:|
+| Google Maps | 4.68 | 93 |
+| TripAdvisor / Trustpilot | sin ficha propia | 0 |
+
+**Lo que más elogian:**
+
+- **La infraestructura y la comida** son lo más elogiado, en reseñas de 2019 a 2026, y también por gente que compró solo logística.
+- **Un montañista solo y sin guía de diciembre de 2025** pagó unos USD 3.300 por el paquete logístico y lo calificó de excelente: mulas, comidas en Confluencia y Plaza de Mulas, wifi, electricidad y duchas. En Confluencia lo recibieron con almuerzo, café, jugo y un domo para descansar mientras dormía en su propia carpa.
+- Una clienta de 2020 alquiló **una sola mula** para un trekking autónomo de 5 días y igual la recibieron bien en Penitentes y en los dos campamentos base, con ayuda para el permiso.
+
+**Las quejas:**
+
+- **Comidas negadas en Confluencia al salir**, febrero de 2025: un cliente que eligió Grajales justamente por la comida incluida cuenta que a la vuelta le pidieron pagar la cena y el desayuno. *«So far my worst logistics experience.»*
+- **Duchas calientes prometidas y no entregadas**, julio de 2025: los guías «amazing», pero los servicios anunciados en la web no aparecieron.
+- **Dos reseñas de 2026 hablan de un patrón**: alimentación completa, duchas calientes y carpas calefaccionadas que se venden y no se entregan.
+- **El baño en los campamentos de altura es un extra** (~USD 100 en la temporada 2025-26), una cabina de lona con inodoro de compostaje.
+- Hay reseñas de **maltrato de las mulas** (2025), del mismo tipo que las que recibió Inka.
+- Una advertencia vieja pero útil (2012): dejar todo cerrado por escrito antes de entrar, porque a un grupo sin guía le cambiaron las condiciones durante la bajada.
+
+<details><summary><b>Reseñas textuales</b> (6)</summary>
+
+> En mi caso, yo utilicé para la logística la empresa Grajales. Me incluyeron todo lo listado anteriormente (en los servicios básicos, en adición a wifi y electricidad y acceso a duchas). El servicio me pareció excelente
+>
+> — Mateo Berón, diciembre de 2025, [Al Borde del Mapa](https://albordedelmapa.com) — solo, sin guía, solo logística
+
+> Campamentos de altura: El uso de baños en los campamentos de altura es un servicio adicional no incluido (yo tuve que pagar unos 100 USD).
+>
+> — Mateo Berón, diciembre de 2025, mismo relato
+
+> So far my worst logistics experience. The main reason for us to choose Grajales was their promise to provide food at all the time at both basecamps (Plaza de Mulas and Confluencia). On our way out we stopped at Confluencia and they refused to give us dinner and breakfast. They asked us to pay for meals if we are hungry. Very rude and inhospitable especially as we chose them due to their promise to feed us. Another point - lack of facilities in Plaza de Mulas.
+>
+> — Mihail, 2025-02-17, Google (2★)
+
+> I signed up to climb Aconcagua and found very positive reviews of Grajales. I would say most of the reviews regarding the guides were spot on as they were amazing- helpful, encouraging, nice and bad ass hikers. The issues my group had were with what Grajales promised in terms of amenities for the hike. For example, the website and materials all provided that hot showers would be available.
+>
+> — Steven, 2025-07-01, Google (4★)
+
+> I warmly recommend the services of Grajales Expedition ! We rented a mule to support our 5-day trekking trip in autonomy with my father last December, but were amazed to receive such a warm welcome, support to get our trekking permit, and great advice upon our arrival in Los Penitentes. The staff in Los Penitentes but also at base camps (Confluencia and Plaza de Mulas) were really helpful and had a great spirit. Best to everyone and looking forward to another experience with you !
+>
+> — Erica, 2020-04-07, Google (5★)
+
+> No fui clienta directa de Grajales Expeditions, pero viví de cerca situaciones concretas y, además, revisé en detalle muchas opiniones que muestran un patrón claro y consistente. Prometen servicios que no cumplen: alimentación completa en campamentos, duchas de agua caliente, carpas calefaccionadas. En la práctica, hay múltiples testimonios de que no entregan lo que venden o lo relativizan después. Pero lo más grave no es solo el incumplimiento, sino cómo actúan cuando algo sale mal.
+>
+> — Marcela, 2026-03-29, Google (1★)
+
+</details>
+
 ## Mensaje para confirmar lo que falta
 
 Listo para copiar y mandar por WhatsApp o email.

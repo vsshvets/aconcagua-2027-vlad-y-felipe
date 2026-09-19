@@ -46,6 +46,53 @@ Respondió **Esperanza Lara** el **viernes 18 de septiembre de 2026** a Vlad y a
 - El «USD 1.285» tachado en su tabla de permisos no sale de ninguna norma: el precio normal 2026-27 todavía no se publica. El USD 950 sí es oficial.
 - Empresa más grande del parque: 169 unidades en Plaza de Mulas y 52 en Confluencia. Google Maps: 4,4 con 159 reseñas; TripAdvisor 4,3 con 28. Es la mejor documentada con escaladores independientes (agua, baños, ayuda con el clima) ([Brooke Beyond](https://brookebeyond.com/solo-climbing-aconcagua), testimonio con links de afiliado).
 
+## Qué dice la gente
+
+**4.43 de 5 en Google, con 159 reseñas** (2017-2026), la base de reseñas más grande de las seis, y también la más dividida: 24 reseñas de 3 estrellas o menos, incluidas 16 de una sola estrella. TripAdvisor: 4,3 con 28 reseñas.
+
+| Dónde | Nota | Reseñas |
+|---|---:|---:|
+| Google Maps | 4.43 | 159 |
+| TripAdvisor | 4,3 | 28 |
+
+**Lo que más elogian:**
+
+- **La logística para expediciones autónomas funciona.** Un equipo francés de tres personas en febrero de 2020 usó el paquete logístico (traslados, mulas, alojamiento y comidas en Confluencia y Plaza de Mulas) y lo resumió como *«tout est très bien rodé»*.
+- Es la empresa con más infraestructura del parque y la mejor documentada para montañistas independientes: agua, baños, ayuda con el clima y firma de las bolsas de residuos.
+
+**Las quejas:**
+
+- **El cliente barato recibe un trato distinto.** Enero de 2023: *«If you are a fully paying customer, Inka is a great company... But as soon as you are not paying the horrendous prices anymore, you get a tent somewhere behind the toilets and your questions are ignored»*. Nosotros seríamos exactamente ese cliente.
+- **Cobros dobles y sin devolución**: una clienta de 2023 cuenta que le cobraron baños y duchas dos veces por error y no le devolvieron el dinero.
+- **Mulas que salen sin avisar**: en enero de 2026 una clienta llegó a Puquios y sus mulas habían salido el día anterior sin que nadie le avisara, y tuvo que cargar la mochila pesada.
+- **Una tanda de reseñas de enero de 2025 sobre maltrato de las mulas**, parte de una campaña en redes.
+- Varias quejas sobre **guías y decisiones en el día de cumbre**, y un caso de 2025 de un cliente descalificado por los guías que perdió más de USD 5.000 y dejó de recibir respuestas.
+- Es la más cara de las seis para lo que necesitamos, y **no vende un solo kilo extra de mula**.
+
+<details><summary><b>Reseñas textuales</b> (5)</summary>
+
+> My experience with Inka was quite mixed. If you are a fully paying customer, Inka is a great company with great service and really helpful staff. But as soon, as you are not paying the horrendous prices anymore, you get a tent somewhere behind the toilets and you questions are ignored or it takes ages until somebody takes care about them. Also the pricing is quite questionable.. a lunch box costs 35$, a greate ham- and cheese sandwhich with a caffee costs 20$ and a chesses and sausage plate with a bottle of wine is 40$.
+>
+> — Dr, 2023-01-30, Google (3★)
+
+> Prestations au top ! J'ai eu recours aux services d'inka Expediciones pour une expé autonome en février 2020. Nous étions 3 et avons utilisés un package de services logistiques : transferts, portage des sacs par mules, hébergement et repas aux camps Confluencia et Plaza de Mulas. Prestations aux top, tout est très bien rodé. Les membres d'Inka Expediciones sont très sympas, professionnels et flexibles. Hébergements très corrects aux camps, repas copieux, variés et d'excellente qualité.
+>
+> — Franck, 2020-03-31, Google (5★)
+
+> Buena experiencia. Precios altísimos! Me cobraron los baños y duchas 2 veces por error de ellos y al no utilizarlos no me devolvieron el valor.
+>
+> — Monica, 2023-01-25, Google (3★)
+
+> Hice plaza francia en enero del 2026, experiencia hermosisima y única, especialmente por ser mendocina y querer desde hace tiempo ir conectandome con el aconcagua. Dejo sugerencias para mejorar: apenas llegue a puquios me dijeron que las mulas con el equipaje había salido el dia anterior, pero NO me lo habían comunicado, lo que implicó que tuviera que llevar mi mochila pesada a confluencia cuando el servicio que pagué incluía traslado en mulas.
+>
+> — Norali, 2026-01-30, Google (4★)
+
+> Worst expedition company I have ever dealt with. I passed the medical checks with doctors, but the guides 'deemed' I was medically unfit to continue up the mountain. $5k+ lost and had to return home early. Travel insurance didn't cover any losses, and Inka stopped responding to emails after starting to say they would help with a partial refund.
+>
+> — Tucker, 2025-02-27, Google (1★)
+
+</details>
+
 ## Mensaje para confirmar lo que falta
 
 Listo para copiar y mandar por WhatsApp o email.

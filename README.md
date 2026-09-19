@@ -75,7 +75,9 @@ emails completos y los adjuntos, por empresa: [cotizaciones/](cotizaciones/READM
 5. **Plazos:** Inka cierra el 25/09, Lanko pide documentos hasta el 28/09 y la preventa del parque cierra el 30/09.
    Una transferencia desde Chile tarda 1-3 días hábiles: mandarla a más tardar el 22-23/09, después de confirmar
    los datos bancarios por teléfono al número oficial.
-6. **Las noches extra pueden costar ~USD 200-230 por persona cada una** si se cobran como día de pensión.
+6. **Reseñas:** Pared Sur 4,85 (39 en Google), Grajales 4,7 (93), Lanko 4,5 (97), Inka 4,4 (159), Mallku 5,0 (11)
+   y **Aconcagua Visión sin una sola reseña pública** ([detalle](cotizaciones/README.md#qué-dicen-las-reseñas)).
+7. **Las noches extra pueden costar ~USD 200-230 por persona cada una** si se cobran como día de pensión.
    Si se comen las pensiones incluidas, la carga de mula baja a ~36 kg por persona ([detalle](cotizaciones/README.md#lo-que-puede-subir-el-precio)).
 
 ---

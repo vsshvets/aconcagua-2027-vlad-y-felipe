@@ -20,7 +20,8 @@ Respondió **Sabrina Recchimuzzi** (área comercial, firma como «Oficina Plaza 
 | **Las dos lecturas** | Con permiso incluido: **USD 2.830** en total (USD 950 permiso + USD 1.880 logística). Sin permiso incluido: **USD 3.780** en total |
 | **Días cubiertos** | 1 en Confluencia + 3 en Plaza de Mulas (2 subiendo y 1 bajando) |
 | **Pensión completa** | Desayuno, almuerzo, cena y merienda, más domo comedor, baños, **duchas con agua caliente, electricidad y wifi** |
-| **Mulas** | Hasta **35 kg por persona**, subida y bajada |
+| **Mulas** | Hasta **35 kg por persona**, subida y bajada. La web agrega: *«incluye campamentos intermedios»* (parada en Confluencia) |
+| **Según su web, el Básico también trae** | Agua potable, guarda de equipo, pronósticos extendidos, baños secos, carga eléctrica para dispositivos, **camas en dormitorio en Confluencia**, retiro de la basura fuera del parque y oxígeno de emergencia en Nido de Cóndores y Berlín (con cargo si se usa). Domo doble en Plaza de Mulas es un extra |
 | **Mulas sueltas** | No: *«No contamos con servicio suelto de mulas.»* |
 | **Traslados** | La web los marca como **no incluidos** en el Básico (sí en el Full) |
 | **Extras** | Campamentos de altura (comedor, cocina, gas, utensilios, baños, wifi, electricidad): **+USD 600**. Solo baños de altura: **+USD 150** (sus porteadores bajan los desechos) |
@@ -55,6 +56,36 @@ Respondió **Sabrina Recchimuzzi** (área comercial, firma como «Oficina Plaza 
 - No tiene reseñas públicas propias (no aparece su ficha principal en Google Maps, ni TripAdvisor, ni relatos en Reddit). Conviene pedirle 1 o 2 referencias de escaladores independientes de 2025-26.
 - Su exigencia de seguro (5.500 m) coincide con el mínimo oficial de la preventa. Pero para la preventa el seguro no se entrega «antes de entrar al parque»: con permiso innominado hay que mandarlo antes del **25 de octubre** ([Res. 581/2026, Anexo II](https://boe.mendoza.gov.ar/publico/verpdf/8a91a03494e4475255c9b6c8d04ae9526b7d07fa38/anexo)).
 - Circulan tres teléfonos: el de la lista oficial del parque (+54 9 261 653-4405), el de su web (+54 261 650-2359, que es el mismo que publica Grajales) y el WhatsApp de Sabrina (+54 9 2604 04-8220, característica de San Rafael). Antes de transferir, confirmar los datos bancarios llamando al número oficial.
+
+## Qué dice la gente
+
+**No tiene reseñas públicas de clientes.** No aparece con ficha propia en Google Maps (solo «Galpón Aconcagua Vision SRL», con 1 reseña), no tiene página en TripAdvisor ni en Trustpilot, su Facebook figura como *«Not yet rated (0 Reviews)»* y no hay relatos en Reddit ni en foros. Es la única de las seis sin una sola opinión independiente verificable. Lo que hay son testimonios en su propia web y los relatos de su socio suizo.
+
+| Dónde | Nota | Reseñas |
+|---|---:|---:|
+| Google Maps | sin ficha propia | 0 |
+| Facebook | «Not yet rated» | 0 |
+| TripAdvisor / Trustpilot / Reddit | sin presencia | 0 |
+
+**Lo que más elogian:**
+
+- **Kobler & Partner**, la agencia suiza que opera con ellos, describe el domo de Aconcagua Visión en el campo base como un refugio y la comida «a nivel de estrellas». Ojo: **Kari Kobler es uno de los fundadores de Aconcagua Visión**, así que no es una opinión independiente.
+- Lo que sí está verificado por fuera: **certificación B Corp desde 2022** con 93,7 puntos, el segundo mejor puntaje técnico de 12 oferentes en la licitación de 2026, y 132 unidades en Plaza de Mulas.
+- Un guía de una empresa competidora la menciona entre las «Big Three» junto con Inka y Grajales, en Reddit, marzo de 2026.
+
+**Las quejas:**
+
+- **Cero reseñas de clientes en cualquier plataforma.** No es una señal negativa, pero tampoco se puede contrastar nada de lo que prometen: ni las duchas, ni las mulas, ni cómo tratan a un cliente de paquete mínimo.
+- Los testimonios de su web son material propio de la empresa.
+- Conviene pedirles **dos referencias de montañistas independientes de la temporada 2025-26** antes de pagar el 50 %.
+
+<details><summary><b>Reseñas textuales</b> (1)</summary>
+
+> Wie ein Bergrefugium thront inmitten der Zeltdom der Bergagentur Aconcagua Vision, welche unsere Logistik am Berg organisiert. Nach dem Motto „let your self in - leave the rest to us“ werden wir von der Crew aufgenommen und kulinarisch auf Sterneniveau bewirtet.
+>
+> — [Kobler & Partner / Bächli Bergsport, expedición Aconcagua 360°](https://www.kobler-partner.ch/berichte/aconcagua-360/) — socio comercial, no es cliente independiente
+
+</details>
 
 ## Mensaje para confirmar lo que falta
 

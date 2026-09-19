@@ -50,6 +50,62 @@ Respondió **Valentina Diaz** el **viernes 18 de septiembre de 2026** con dos em
 - El «5.400 m» del primer email está bajo el mínimo oficial (5.500 m). El «6.000 m» del segundo es una regla propia de la empresa, que el decreto permite porque si el seguro no paga la evacuación, paga la empresa.
 - Unidades: 148 en Plaza de Mulas y 33 en Confluencia, y domos en Nido de Cóndores. Google Maps: 4,5 estrellas. Un equipo sin guía escribió en enero de 2026 que Lanko fue *«superb»* ([Reddit](https://reddit.com/r/Mountaineering/comments/1qefrr7/my_aconcagua_experience_5_days_up_to_6400m/), testimonio).
 
+## Qué dice la gente
+
+**4.54 de 5 en Google, con 97 reseñas** (2016-2026). No tiene página en TripAdvisor ni en Trustpilot, pero es la empresa con más relatos de montañistas independientes: hay reportes de equipos sin guía en cuatro idiomas, de 2015 a 2026, y todos terminan bien.
+
+| Dónde | Nota | Reseñas |
+|---|---:|---:|
+| Google Maps | 4.54 | 97 |
+| TripAdvisor / Trustpilot | sin ficha | 0 |
+
+**Lo que más elogian:**
+
+- **Es la más elegida por los que suben sin guía.** Un padre y su hijo que hicieron la Ruta Normal solos en enero de 2026 escribieron que Lanko fue *«superb»*, y se refugiaron en un domo de Lanko en Nido de Cóndores cuando el guardaparque cerró la montaña.
+- **Un club argentino sin guía, en 2022, pagó USD 440 por una mula de 60 kg ida y vuelta** y con eso tuvo lugar para acampar, agua, baños y domos comunitarios para cocinar. Es la respuesta más clara que encontramos a la pregunta de las noches sin pensión.
+- **Con el servicio básico dan domo comedor, agua caliente y pronóstico** en Plaza de Mulas, según una reseña de diciembre de 2023.
+- Un cliente de febrero de 2024 usó **solo mulas y ayuda con el permiso**, dos temporadas seguidas, y los recomienda igual.
+- El refugio Cruz de Caña en Penitentes y el equipo de Confluencia aparecen elogiados por nombre desde hace veinte años.
+
+**Las quejas:**
+
+- **En Plaza de Mulas el servicio baja.** Un cliente de diciembre de 2023 separa: 5 estrellas para Confluencia, y en Plaza de Mulas *«los chicos tienen buena intención pero pocos recursos y experiencia»*. Un equipo polaco sin guía dijo lo mismo y agregó que ahí Inka y Grajales se veían mejor. Nosotros vamos a dormir cinco noches justo ahí.
+- **Las mulas de bajada son el punto flojo para los que no van con guía**, según un relato en SummitPost: nunca se sabe cuántas mulas llegan y a los independientes los ponen últimos en la fila. Ese cliente perdió un día esperando en el campo base. Hay que dejar por escrito que las mulas son ida y vuelta.
+- **Un problema con el cambio de moneda en la oficina** de Mendoza, en febrero de 2020: cobraron en dólares y quisieron dar el vuelto al cambio oficial.
+- Nadie confirma las duchas: es una promesa de la web, no aparece en ninguna reseña independiente.
+
+<details><summary><b>Reseñas textuales</b> (7)</summary>
+
+> We solo-ed the normal route with light logistics help from Lanko, who were superb.
+>
+> — u/inexdesain, enero de 2026, [Reddit](https://reddit.com/r/Mountaineering/comments/1qefrr7/my_aconcagua_experience_5_days_up_to_6400m/) — sin guía, Ruta Normal
+
+> Nosotros contratamos a la Empresa LANKO, el servicio de una Mula con una carga de 60 kilos a un valor de 440 Dólares (subida y bajada) hasta Plaza de Mulas y tenías acceso a un lugar para acampar, al agua, baños y domos comunitarios para poder estar allí y cocinar
+>
+> — Asociación Argentina de Montaña, expedición del 27 de enero al 10 de febrero de 2022, [relato](https://aamtuc.org/2022/03/04/cumbre-en-el-aconcagua-por-la-ruta-normal-quebrada-de-los-horcones-expedicion-desde-el-27-de-enero-al-10-de-febrero-de-2022/) — club sin guía, carpa y cocina propias
+
+> Hay que separar. Calificó con 5 estrellas la calidad humana, sobre todo de Maca y Facu en Confluencia. En plaza de Mulas los chicos tiene buena intención pero pocos recursos y experiencia a excepción de un par que claramente son los que manejan todo. El servicio de mulas es excelente. En Plaza de mulas te ofrecen con el servicio básico un domo comedor, agua caliente y pronostico, el domo está en pésimo estado, agua caliente aveces, y pronostico tenes que andar mendigándolo.
+>
+> — Astor, 2023-12-17, Google (3★)
+
+> I used the help of the LANKO agency for the second time to reach the Aconcagua peak. This time it worked. I am very satisfied with their help. The team was always nice and smiling, open to people, although I only used mules and help in obtaining a permit. I recommend them to everyone as an agency that will help you fulfill your dreams. THANK YOU Daniel
+>
+> — Daniel, 2024-02-08, Google (5★)
+
+> Incredibly capable and friendly crew, from the office to active staff on the mountain. Great prices and they make you feel at home and like family whether you're an unguided climber or purchasing a full guided package.
+>
+> — Simone, 2017-12-26, Google (5★)
+
+> Check with your logistics company about mules back down. Seemed like they are never really sure how many mules are coming that next day so you may or may not get your stuff on a mule. I waited an extra day at basecamp.
+>
+> — coloradoclimber123, enero de 2018, [SummitPost](https://www.summitpost.org/aconcagua-inc/1029721) — solo, sin guía
+
+> Particularmente tuvimos una mala experiencia, en la oficina de la calle Espejo donde contratamos el servicio de porteo con mulas nos cobraron en dólares y al momento de darnos el vuelto mencionaron que no tenían cambio en esa moneda y que nos darían el vuelto a precio de dolar oficial. En caso de abonar en pesos nos querían cobrar a precio de dolar con el recargo del 30 %, (muy conveniente para ellos siempre!
+>
+> — Valeria, 2020-02-19, Google (1★)
+
+</details>
+
 ## Mensaje para confirmar lo que falta
 
 Listo para copiar y mandar por WhatsApp o email.
