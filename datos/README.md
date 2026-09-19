@@ -8,6 +8,7 @@ Tablas planas en CSV (se abren en Excel o Google Sheets). Precios en la moneda i
 |---|---|
 | [precios-permisos.csv](precios-permisos.csv) | Tarifas oficiales de permisos: preventa 2026-27, temporada 2025-26 y preventa 2025-26 |
 | [proveedores.csv](proveedores.csv) | Las 11 empresas habilitadas: contactos, unidades por campamento, paquete y precio conocido |
+| **[cotizaciones.csv](cotizaciones.csv)** | Las cotizaciones que mandaron las empresas (18-19 sep 2026): un paquete por fila, con el total con permiso para comparar |
 | [campamentos.csv](campamentos.csv) | Puntos de la Ruta Normal con alturas (usada y rango), tiempos y servicios |
 | [equipo.csv](equipo.csv) | Lista de equipo por persona con pesos aproximados y dónde va |
 | [comida.csv](comida.csv) | Plan de comida por tipo de día con totales para dos personas |
@@ -40,6 +41,21 @@ Tablas planas en CSV (se abren en Excel o Google Sheets). Precios en la moneda i
 | unidades_* | Unidades funcionales adjudicadas por campamento (Decreto 1885/2026, según MDZ) |
 | precio_conocido_usd_por_persona | Precio del paquete mínimo, sin permiso; vacío si no es público |
 | confianza_precio | alta = web oficial de la empresa; media = cotización publicada por terceros; baja = testimonio |
+
+**cotizaciones.csv**
+
+| Columna | Significado |
+|---|---|
+| carpeta | Carpeta del repo con los emails completos y los adjuntos de esa empresa |
+| estado | respondió, respondió por WhatsApp, no vende mulas sueltas o sin respuesta |
+| precio_usd_por_persona | Precio del paquete tal como lo cotizó la empresa |
+| precio_regular_usd_por_persona | Precio sin descuento, cuando la empresa lo indica (en Pared Sur, el Básico Short equivalente) |
+| permiso_incluido | sí solo si la empresa escribe que el permiso de USD 950 está dentro del precio |
+| total_con_permiso_preventa_usd_por_persona | Precio + USD 950 del permiso de preventa cuando no está incluido. Es la columna para comparar |
+| total_dos_personas_usd | El total anterior × 2 |
+| mulas_kg_por_persona | Kilos por persona que suben y bajan en mula dentro del paquete |
+| seguro_evacuacion_exigido | Altura de evacuación que pide la empresa. El mínimo oficial de la preventa es 5.500 m |
+| fuente | Email o adjunto de donde sale la fila; el texto completo está en la carpeta |
 
 **campamentos.csv**
 

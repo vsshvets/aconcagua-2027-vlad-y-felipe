@@ -4,11 +4,11 @@ Guía completa para subir el **Aconcagua (6.962 m)** por la **Ruta Normal**, sin
 todo. Dos montañistas con experiencia sobre 5.000 m, en auto propio desde Santiago, del **lunes 8 al
 jueves 25 de febrero de 2027**.
 
-<!-- Last verified: 2026-09-17 -->
-**Actualizado al 17 de septiembre de 2026** · Basado en normativa oficial de Mendoza, las 11 empresas
-habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes · [Cómo se verificó](#cómo-se-verificó)
+<!-- Last verified: 2026-09-19 -->
+**Actualizado al 19 de septiembre de 2026** · Basado en normativa oficial de Mendoza, las cotizaciones de las
+empresas habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes · [Cómo se verificó](#cómo-se-verificó)
 
-**Contenido:** [Resumen](#bottom-line--conclusión) · [Fechas límite](#fechas-límite-y-qué-hacer-ahora) ·
+**Contenido:** [Resumen](#bottom-line--conclusión) · [💰 Cotizaciones](#-cotizaciones-recibidas-19-sep-2026) · [Fechas límite](#fechas-límite-y-qué-hacer-ahora) ·
 [Creencias verificadas](#creencias-comunes-verificadas) · [La montaña y la ruta](#la-montaña-y-la-ruta) ·
 [Permisos](#permisos) · [Mulas y empresas](#mulas-y-empresas) · [Seguro](#seguro) ·
 [Campamentos](#campamentos) · [Itinerario](#itinerario) · [Equipo](#equipo) · [Comida](#comida-agua-y-gas) ·
@@ -29,8 +29,9 @@ habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes · [Cóm
 3. **El "descuento por mulas" es real, pero no es por las mulas solas:** el permiso barato exige contratar
    mulas, servicio de campo base, baños y retiro de residuos con una empresa habilitada. La temporada pasada
    la diferencia fue de USD 470 (Vlad) y USD 360 (Felipe).
-4. **Empresa:** el paquete mínimo más barato documentado es **Andesport (~USD 1.295 por persona, mulas
-   hasta 60 kg)**. Inka y Grajales piden USD 3.190-3.310.
+4. **Empresa:** llegaron 7 respuestas ([cotizaciones](cotizaciones/README.md)). Con el permiso, el total va de
+   **USD 2.550 (Pared Sur)** a **USD 3.800 (Mallku)** por persona. Aconcagua Visión cotizó USD 2.830 «con el
+   permiso incluido», pero su web dice lo contrario: hay que confirmarlo por escrito.
 5. **Seguro:** ni Colmena ni Fonasa sirven para el cerro. **Recomendado: American Alpine Club "Leader"
    (USD 250/año c/u)**, que cubre rescate y gastos médicos a cualquier altura, más una asistencia en viaje
    común para Argentina.
@@ -38,9 +39,40 @@ habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes · [Cóm
    (feriado de Carnaval). **Plan A de 18 días** con cumbre desde el viernes 19 y 3 días de reserva. Si sale
    a la primera, vuelven el lunes 22.
 7. **Presupuesto:** **~USD 3.000-3.500 por persona** con el paquete más barato; ~USD 5.500 o más con las
-   empresas grandes.
+   empresas grandes. Con las cotizaciones reales, solo logística + permiso son USD 2.550-3.800 por persona.
 8. **Año de El Niño muy fuerte:** más nevadas, viento y ríos crecidos. La propia resolución advierte
    posibles cierres del parque.
+
+---
+
+## 💰 Cotizaciones recibidas (19 sep 2026)
+
+El 17 de septiembre se pidió cotización a las 11 empresas y respondieron 7 en un día. **Todo el detalle, los
+emails completos y los adjuntos, por empresa: [cotizaciones/](cotizaciones/README.md).**
+
+| Empresa | Paquete | Precio cotizado | **Total con permiso, por persona** | Mulas | Lo que hay que saber |
+|---|---|---:|---:|---:|---|
+| [Aconcagua Pared Sur](cotizaciones/pared-sur/README.md) | Pre-Venta Básico, 4 días | USD 1.600 | **USD 2.550** | 30 kg | Lista mayorista de mayo, pago al dólar blue, devuelve hasta 35 % |
+| [Aconcagua Visión](cotizaciones/aconcagua-vision/README.md) | Básico, 4 días | USD 2.830 | **USD 2.830 o 3.780** | 35 kg | El email dice que incluye el permiso; su web dice que no. Duchas y wifi |
+| [Lanko](cotizaciones/lanko/README.md) | Básico Corto, 4 días | USD 2.430 | **USD 3.380** | 35 kg | 10 % de descuento ofrecido; traslado a Horcones incluido |
+| [Inka](cotizaciones/inka/README.md) | Básico, 4 días | USD 2.700 | **USD 3.650** | 35 kg | Precio especial hasta el 30/09; pagar antes del 25/09; sin duchas ni wifi |
+| [Grajales](cotizaciones/grajales/README.md) | Básico, 4 días | USD 2.830 | **USD 3.780** | 35 kg | Mejor nota en Google (4,7); seña de USD 400 no reembolsable |
+| [Mallku](cotizaciones/mallku/README.md) | BASIC, 4 días | USD 2.850 | **USD 3.800** | 35 kg | La única que confirma que se puede cocinar propio las otras noches |
+| [Andesport](cotizaciones/andesport/README.md) · [AMG](cotizaciones/amg/README.md) | Solo mulas (según sus webs) | sin respuesta | — | — | Escribirles por WhatsApp hoy |
+| [Zurbriggen](cotizaciones/zurbriggen/README.md) | — | no vende mulas sueltas | — | — | — |
+| [Backpack](cotizaciones/backpack-logistica/README.md) · [Juan Herrera](cotizaciones/juan-herrera/README.md) | — | sin respuesta | — | — | — |
+
+**Lo más importante:**
+
+1. **Aconcagua Visión (Sabrina) es la mejor opción entre las grandes si el permiso está de verdad incluido.**
+   Su web 2026-27 dice *«no incluye el costo del permiso»* y Grajales cotizó los mismos USD 2.830 sin permiso.
+   Pedirle hoy el total por escrito ([mensaje listo](cotizaciones/aconcagua-vision/README.md#mensaje-para-confirmar-lo-que-falta)).
+2. **Todos cubren 4 días y el plan tiene ~7 noches en campamentos base.** El parque exige contratar baños para
+   cada noche: hay que confirmar que las otras 3 noches no tienen costo extra.
+3. **Todos dan 35 kg de mula por persona** (Pared Sur 30 kg), y calculamos ~40 kg.
+4. **El seguro no puede esperar a febrero:** con permiso nominado va antes del 30/09; con innominado, antes del
+   25/10. Pared Sur (4.500 m) e Inka (5.000 m) piden menos que el mínimo oficial de 5.500 m.
+5. **Plazos:** Inka cierra el 25/09, Lanko pide documentos hasta el 28/09 y la preventa del parque cierra el 30/09.
 
 ---
 
@@ -48,8 +80,9 @@ habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes · [Cóm
 
 | Cuándo | Qué | Detalle |
 |---|---|---|
-| **Esta semana** | Pedir cotización a 6 empresas con el mensaje ya redactado | [Mensaje](docs/02-mulas-y-proveedores.md#mensaje-listo-para-enviar) |
-| **Antes del 26 sep 2026** | Elegir empresa (paquete con ~60 kg de mulas por persona) y pedirle 2 permisos de preventa | [Preventa paso a paso](docs/01-permisos.md#la-preventa-2026-2027-paso-a-paso) |
+| ✅ **17-18 sep 2026** | Pedir cotización a las 11 empresas: respondieron 7 | [Cotizaciones](cotizaciones/README.md) |
+| **Hoy, 19 sep** | Confirmar con Aconcagua Visión si el permiso está incluido; WhatsApp a Andesport y AMG; preguntas a Pared Sur | [Qué hacer esta semana](cotizaciones/README.md#qué-hacer-esta-semana) |
+| **Antes del 24 sep 2026** | Elegir empresa y pedirle 2 permisos de preventa (Inka exige pagar antes del 25/09) | [Preventa paso a paso](docs/01-permisos.md#la-preventa-2026-2027-paso-a-paso) |
 | **30 sep 2026** | Cierra la preventa a USD 950 | Res. 581/2026 |
 | **Antes del 20 oct 2026** | Comprar el seguro (AAC Leader) y mandar la carta a la empresa; pedir confirmación por escrito | [Seguro](docs/07-seguro.md) |
 | **25-30 oct 2026** | La empresa termina de asignar los permisos a sus nombres | [Plazos](docs/01-permisos.md#fechas-límite) |
@@ -354,6 +387,7 @@ Detalle y fuentes: [datos/presupuesto.csv](datos/presupuesto.csv).
 |---|---|
 | [01 · Permisos](docs/01-permisos.md) | Proceso, costos por persona, preventa paso a paso, verdad sobre el "descuento por mulas", seguro exigido, ventana de ingreso, reglas en el parque, tarifas de rescate |
 | [02 · Mulas y proveedores](docs/02-mulas-y-proveedores.md) | Las 11 empresas con contactos, paquetes y precios; cómo funcionan las mulas; porteadores; mensaje y checklist para contratar |
+| **[💰 Cotizaciones](cotizaciones/README.md)** | Lo que respondió cada empresa (sep 2026): comparación de precios con el permiso, una carpeta por empresa con los emails completos, los adjuntos y un mensaje listo para aclarar lo que falta |
 | [03 · Campamentos](docs/03-campamentos.md) | Cada campamento y punto de la ruta: altura, tiempos, agua, servicios, riesgos; día de cumbre; temperaturas |
 | [04 · Itinerario](docs/04-itinerario.md) | Plan A de 18 días día por día, perfil de altura, decisiones, Plan B de 15 días, Plan C con Mendoza, qué hacer si algo sale mal |
 | [05 · Equipo](docs/05-equipo.md) | Lista de 72 ítems con pesos y dónde va cada uno, repartición mula/mochila, dónde arrendar |
@@ -369,6 +403,7 @@ Detalle y fuentes: [datos/presupuesto.csv](datos/presupuesto.csv).
 |---|---:|---|
 | **[precios-permisos.csv](datos/precios-permisos.csv)** | 37 | Tarifas oficiales: preventa 2026-27, temporada y preventa 2025-26 |
 | [proveedores.csv](datos/proveedores.csv) | 11 | Las 11 empresas habilitadas: contactos, unidades, paquetes y precios |
+| **[cotizaciones.csv](datos/cotizaciones.csv)** | 12 | Las cotizaciones recibidas, un paquete por fila, con el total con permiso |
 | [campamentos.csv](datos/campamentos.csv) | 14 | Puntos de la ruta con alturas, tiempos y servicios |
 | [equipo.csv](datos/equipo.csv) | 72 | Lista de equipo con cantidades, pesos y dónde va |
 | [comida.csv](datos/comida.csv) | 34 | Plan de comida con gramos por día y totales |
@@ -399,9 +434,10 @@ Descripción de columnas: [datos/README.md](datos/README.md).
 
 - **Los precios y reglas de la temporada normal 2026-27 aún no se publican** (sale en octubre-noviembre).
   Se usan los de 2025-26 como referencia, marcados como tales.
-- **Los precios de las empresas** vienen de su web o de cotizaciones publicadas por terceros. Pidan la propia.
+- **Los precios de las empresas** vienen de sus respuestas del 17-18 de septiembre ([cotizaciones](cotizaciones/README.md)); los de las que no respondieron, de su web o de terceros.
 - **La aceptación del seguro** la decide la empresa: confirmarla por escrito antes de pagar.
-- **No se contactó a ninguna empresa, aseguradora ni oficina**; todo sale de fuentes públicas.
+- **Se contactó a las 11 empresas** el 17 de septiembre por email; no se contactó a aseguradoras ni oficinas.
+  En los emails publicados se omitieron los datos personales, bancarios y los links personales.
 - La revisión con un segundo modelo de IA independiente no se pudo hacer (cuota agotada); se reemplazó por
   el cotejo automático y manual contra las fuentes.
 - **Plaza de Mulas se va a trasladar** por la Ley de Glaciares, sin fecha confirmada.
