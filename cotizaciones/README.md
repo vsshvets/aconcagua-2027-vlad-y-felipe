@@ -9,7 +9,7 @@ cotización a las 11 empresas habilitadas. Respondieron 7 en un día. Esta pági
 cada empresa tiene su carpeta con los emails completos, los adjuntos y un mensaje listo para aclarar lo que falta.
 
 **Contenido:** [Resumen](#-resumen) · [Comparación](#comparación-precio-total-por-persona) ·
-[Qué incluye cada una](#qué-incluye-cada-una) · [Creencias verificadas](#creencias-verificadas) ·
+[Qué incluye cada una](#qué-incluye-cada-una) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) · [Creencias verificadas](#creencias-verificadas) ·
 [Qué hacer esta semana](#qué-hacer-esta-semana) · [Carpetas](#carpetas-por-empresa) · [Método](#cómo-se-armó)
 
 ---
@@ -81,6 +81,18 @@ Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/e
 
 ---
 
+## Lo que puede subir el precio
+
+| Tema | Cuánto | Detalle |
+|---|---|---|
+| **Noches fuera de los 4 días** | ~USD 200-230 por persona por día, si se cobran como día de pensión | Nadie cotizó la noche suelta. La diferencia entre 4 y 7 días lo sugiere: Inka +USD 690, Grajales +USD 690, Mallku +USD 600, Pared Sur (Short a Long) +USD 587. Con 3 noches extra, hasta ~USD 600-700 más por persona. Paquetes de 7 días: Inka USD 3.390, Mallku USD 3.450, Grajales USD 3.520, Pared Sur Básico Long USD 2.882 (sin precio de preventa) |
+| **Kilos de mula** | 0 si se ajusta la carga | Los ~40 kg incluyen ~17 kg de comida por persona ([comida.csv](../datos/comida.csv)). Si se comen las 4 pensiones incluidas se ahorran ~4 kg (queda ~36 kg); con 7 pensiones, ~6,5 kg (queda ~33 kg). Inka no lleva kilos extra; Pared Sur da 30 kg |
+| **Desechos en altura** | USD 150 en Visión, o bajarlos ustedes | Sin el servicio de baños de altura hay que bajar las bolsas a Plaza de Mulas. Si las baja Mallku, cobra USD 40 por kg |
+| **Seguro** | USD 250 por persona (AAC Leader) | Además, Argentina exige un seguro de viaje con gastos médicos ([Seguro](../docs/07-seguro.md)) |
+| **Transferencias** | USD 17 por transferencia en Lanko; costos bancarios del cliente en todas | Una transferencia internacional desde Chile tarda 1-3 días hábiles |
+
+---
+
 ## Creencias verificadas
 
 | Creencia | Veredicto |
@@ -104,8 +116,12 @@ Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/e
 | **Hoy** | Pedirle a Sabrina por escrito el total por persona **con** el permiso ([mensaje](aconcagua-vision/README.md#mensaje-para-confirmar-lo-que-falta)) | Aconcagua Visión |
 | **Hoy** | WhatsApp a Andesport (+54 9 261 614-4740) y a AMG (+54 9 261 471-1664) pidiendo precio de solo mulas ([mensaje Andesport](andesport/README.md#mensaje-de-seguimiento), [mensaje AMG](amg/README.md#mensaje-de-seguimiento)) | Andesport, AMG |
 | **Hoy** | Mandarle a Javier las preguntas sobre precio mayorista, permiso y kilos ([mensaje](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)) | Pared Sur |
-| **Antes del 24 sep** | Elegir empresa con las respuestas por escrito | — |
-| **Antes del 25 sep** | Pagar la seña y el permiso (Inka cierra el 25; Lanko pide documentos hasta el 28; el parque cierra el 30) | La elegida |
+| **Antes del 22 sep** | Fijar **una** fecha de ingreso para todas: el itinerario dice martes 9 de febrero y los emails dijeron miércoles 10 | [Itinerario](../docs/04-itinerario.md) |
+| **Antes del 22 sep** | Elegir empresa con las respuestas por escrito. **El permiso queda atado a esa empresa**: no se puede comprar el permiso en una y la logística en otra | — |
+| **Antes de transferir** | Confirmar los datos bancarios llamando al teléfono de la [lista oficial del parque](../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos), no al del email. Pedir factura o recibo | La elegida |
+| **22-23 sep** | Mandar la transferencia (tarda 1-3 días hábiles) | La elegida |
+| **Antes del 25 sep** | Que la seña y el permiso estén pagados (Inka cierra el 25; Lanko pide documentos hasta el 28; el parque cierra el 30). Usar el pasaporte con el que van a cruzar, vigente en febrero de 2027 | La elegida |
+| **Con la reserva** | Preguntar dónde entregan el permiso impreso: Inka lo da en Mendoza, lo que obliga al [Plan C](../docs/04-itinerario.md#plan-c-si-el-permiso-hay-que-retirarlo-en-mendoza) | La elegida |
 | **Esta semana** | Comprar el **AAC Leader** (cubre cualquier altura) por si la empresa usa permiso nominado | [Seguro](../docs/07-seguro.md) |
 | **Siempre** | Pedir por escrito que el paquete cubre **baños y residuos todas las noches** en Confluencia y Plaza de Mulas | La elegida |
 

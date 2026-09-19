@@ -73,6 +73,10 @@ emails completos y los adjuntos, por empresa: [cotizaciones/](cotizaciones/READM
 4. **El seguro no puede esperar a febrero:** con permiso nominado va antes del 30/09; con innominado, antes del
    25/10. Pared Sur (4.500 m) e Inka (5.000 m) piden menos que el mínimo oficial de 5.500 m.
 5. **Plazos:** Inka cierra el 25/09, Lanko pide documentos hasta el 28/09 y la preventa del parque cierra el 30/09.
+   Una transferencia desde Chile tarda 1-3 días hábiles: mandarla a más tardar el 22-23/09, después de confirmar
+   los datos bancarios por teléfono al número oficial.
+6. **Las noches extra pueden costar ~USD 200-230 por persona cada una** si se cobran como día de pensión.
+   Si se comen las pensiones incluidas, la carga de mula baja a ~36 kg por persona ([detalle](cotizaciones/README.md#lo-que-puede-subir-el-precio)).
 
 ---
 

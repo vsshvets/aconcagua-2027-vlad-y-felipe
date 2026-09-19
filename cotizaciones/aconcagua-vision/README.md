@@ -54,6 +54,7 @@ Respondió **Sabrina Recchimuzzi** (área comercial, firma como «Oficina Plaza 
 - Unidades adjudicadas: 132 en Plaza de Mulas y 44 en Confluencia. Un guía de otra empresa la nombra entre las «Big Three» junto con Inka y Grajales ([Reddit, mar 2026](https://reddit.com/r/alpinism/comments/1rwm8i9/guiding_company_aconcagua/), testimonio).
 - No tiene reseñas públicas propias (no aparece su ficha principal en Google Maps, ni TripAdvisor, ni relatos en Reddit). Conviene pedirle 1 o 2 referencias de escaladores independientes de 2025-26.
 - Su exigencia de seguro (5.500 m) coincide con el mínimo oficial de la preventa. Pero para la preventa el seguro no se entrega «antes de entrar al parque»: con permiso innominado hay que mandarlo antes del **25 de octubre** ([Res. 581/2026, Anexo II](https://boe.mendoza.gov.ar/publico/verpdf/8a91a03494e4475255c9b6c8d04ae9526b7d07fa38/anexo)).
+- Circulan tres teléfonos: el de la lista oficial del parque (+54 9 261 653-4405), el de su web (+54 261 650-2359, que es el mismo que publica Grajales) y el WhatsApp de Sabrina (+54 9 2604 04-8220, característica de San Rafael). Antes de transferir, confirmar los datos bancarios llamando al número oficial.
 
 ## Mensaje para confirmar lo que falta
 

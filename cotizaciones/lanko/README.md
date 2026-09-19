@@ -40,6 +40,8 @@ Respondió **Valentina Diaz** el **viernes 18 de septiembre de 2026** con dos em
 - **Se contradicen con el seguro** (5.400 m en un email y 6.000 m en el otro). Hay que comprar uno que cubra la cumbre y pedir que lo acepten por escrito.
 - No mencionan duchas ni wifi en el básico, y no dijeron nada de las noches fuera de los 4 días.
 - No dieron política de cancelación de la seña ni del permiso.
+- Las mulas van de Penitentes directo a Plaza de Mulas: para las 2 noches en Confluencia hay que llevar carpa y sacos en la espalda, o usar el domo del día incluido.
+- Respondieron desde una cuenta de Gmail y todavía no mandaron datos bancarios: confirmarlos por teléfono al número oficial antes de transferir.
 
 ## Qué se verificó por fuera
 
@@ -60,6 +62,8 @@ Hola Valentina, muchas gracias por la info tan completa! Algunas preguntas antes
 4. El seguro: en un email dice 5.400 m y en el otro 6.000 m. Si mandamos la carta de membresía del American Alpine Club (rescate a cualquier altura), la aceptan?
 5. El básico incluye duchas y wifi en Plaza de Mulas?
 6. Cuál es la política de cancelación de la seña del 10 % y del paquete?
+7. Las mulas dejan carga en Confluencia o van directo a Plaza de Mulas? Necesitamos carpa y sacos para las 2 noches en Confluencia.
+8. Nos mandan los datos bancarios completos (banco, país, moneda)? Los confirmamos por teléfono antes de transferir.
 ```
 
 ## Correspondencia completa

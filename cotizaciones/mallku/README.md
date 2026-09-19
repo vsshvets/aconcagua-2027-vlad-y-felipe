@@ -17,7 +17,7 @@ Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de se
 | **Paquetes** | **BASIC** 4 días USD 2.850 / 7 días USD 3.450 · REGULAR 4 días USD 3.480 / 7 días USD 3.980 · FULL (con hotel y porteos) |
 | **Permiso** | **No incluido** en ningún paquete (PDF: *«Costo del Permiso de ascenso»* en no incluidos) |
 | **El BASIC incluye** | Trámite del permiso, mulas, depósito de equipos, **retiro de basura y materia fecal de los campamentos base**, pensión completa, hasta 2 noches en dormitorio compartido en Confluencia, agua, baños, **2 duchas por persona** y **wifi** en campo base |
-| **Mulas** | **35 kg por persona en total**: 25 kg de Puente del Inca directo a Plaza de Mulas y 10 kg que paran en Confluencia y siguen a Plaza de Mulas. Bajada: 35 kg |
+| **Mulas** | **35 kg por persona en total**. El PDF detalla: Puente del Inca → Confluencia 10 kg, Confluencia → Plaza de Mulas 10 kg y Puente del Inca → Plaza de Mulas 25 kg; lo más probable es que los 10 kg de Confluencia sigan a Plaza de Mulas (hay que confirmarlo). Bajada: 35 kg. Cargan en **Puente del Inca** |
 | **Días de comida** | Se eligen con anticipación. Sugieren 2 días en Confluencia, cocinar propio en Plaza de Mulas y usar 1 día antes de la cumbre y 1 al volver |
 | **No incluye** | Traslados desde Mendoza, carpas, comida y campamentos de altura, porteadores. Si ellos bajan basura o desechos de altura: **USD 40 por kg** |
 | **Reserva** | **Depósito de USD 300 por persona**, no reembolsable. Por fuerza mayor avisada 15 días antes, el depósito queda como crédito para la temporada siguiente |
@@ -56,6 +56,8 @@ Hola Sybille, muchas gracias por la propuesta tan clara! Algunas preguntas:
 3. Llevamos unos 40 kg cada uno. Cuánto cuestan los 5 kg extra por persona?
 4. Las noches en Plaza de Mulas fuera de los 4 días, en nuestra carpa y cocinando nosotros: tienen algún costo por uso del campamento y los baños?
 5. Incluyen el traslado Penitentes o Puente del Inca - Horcones?
+6. Los tramos de mulas del PDF suman 45 kg (10 + 10 + 25) y el total dice 35. Cómo es el reparto real? Los 10 kg de Confluencia siguen a Plaza de Mulas?
+7. Las mulas de bajada operan el 23-24 de febrero? Qué altura mínima exigen en el seguro?
 ```
 
 ## Correspondencia completa
