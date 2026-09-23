@@ -7,17 +7,39 @@
 **Actualizado al 23 de septiembre de 2026.** El jueves 17 de septiembre se mandó el mismo pedido de
 cotización a las 11 empresas habilitadas. **Respondieron 9** (Andesport y AMG el 20-21); faltan Backpack
 Logística y Juan Herrera. El sábado 19 se mandaron preguntas de seguimiento a 5: contestaron todas menos Inka.
-Con Pared Sur se sigue por WhatsApp. Cada empresa tiene su carpeta con la correspondencia completa, los
+Con Pared Sur se sigue por WhatsApp. **El 23 de septiembre se eligió Aconcagua Pared Sur** ([ver abajo](#-decisión-aconcagua-pared-sur)). Cada empresa tiene su carpeta con la correspondencia completa, los
 adjuntos y un mensaje listo para lo que falta.
 
-**Contenido:** [Resumen](#-resumen) · [Precio para nuestro plan](#precio-para-nuestro-plan-7-noches) ·
+**Contenido:** [Decisión](#-decisión-aconcagua-pared-sur) · [Resumen](#-resumen) · [Precio para nuestro plan](#precio-para-nuestro-plan-7-noches) ·
 [Paquete de 4 días](#el-paquete-más-chico-de-cada-una) · [Qué incluye cada una](#qué-incluye-cada-una) ·
 [Cómo decidir](#cómo-decidir) · [Reseñas](#qué-dicen-las-reseñas) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) ·
 [Creencias verificadas](#creencias-verificadas) · [Qué hacer esta semana](#qué-hacer-esta-semana) · [Carpetas](#carpetas-por-empresa) · [Método](#cómo-se-armó)
 
 ---
 
+## ✅ Decisión: Aconcagua Pared Sur
+
+**Aceptada el miércoles 23 de septiembre de 2026.** Pre-Venta Básico + permiso de preventa + seguro Redpoint,
+para los dos. Detalle completo en [la página de Pared Sur](pared-sur/README.md#reserva-y-factura-23-de-septiembre).
+
+| | Por persona | Los dos |
+|---|---:|---:|
+| Pre-Venta Básico (4 pensiones, 30 kg de mula) | USD 1.600 | USD 3.200 |
+| Permiso de preventa, Horcones | USD 950 | USD 1.900 |
+| Seguro Redpoint (con evacuación en helicóptero) | USD 400 | USD 800 |
+| **Total** | **USD 2.950** | **USD 5.900** |
+| **Se paga ahora** (factura VS-2627-005): seña del 50 % + permiso + seguro + 5 % de recargo | USD 2.257,50 | **USD 4.515 = EUR 3.962,61** |
+| Se paga antes de empezar: saldo del paquete | USD 800 | USD 1.600 |
+
+**Vence el viernes 25 de septiembre.** Son dos transferencias en euros a dos cuentas distintas. Lo que queda
+abierto (la llamada para confirmar las cuentas, el certificado del seguro, las noches extra y los kilos) está en
+[Qué hacer esta semana](#qué-hacer-esta-semana).
+
+---
+
 ## ⚡ Resumen
+
+*Lo que respondieron las empresas antes de decidir (23/09).*
 
 1. **Aconcagua Visión NO incluye el permiso.** El 20 de septiembre Sabrina se corrigió: *«el mismo NO incluye el
    precio del permiso, pido disculpas si me explique mal en el mail anterior»*. Con el permiso son USD 3.780 (4 días),
@@ -48,7 +70,7 @@ Total = paquete + **USD 950** del permiso de preventa (igual para Vlad y Felipe,
 | Empresa | Qué hay que contratar | Paquete | **Total por persona** | Los dos | Kilos para ~40 kg | ¿Confirmado por escrito? |
 |---|---|---:|---:|---:|---|---|
 | [Andesport](andesport/README.md) | Mulas + baños, agua y lugar para la carpa, sin comidas | pendiente | **pendiente** (ref. ~USD 2.245¹) | — | 50 kg por mula: 2 mulas | Falta el presupuesto |
-| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico, 4 pensiones | USD 1.600 | **USD 2.550** | USD 5.100 | 30 kg firmes; kilo extra sin precio | ⚠️ Falta: las otras ~3 noches². Si piden el de 7 días: USD 3.832 |
+| **✅ [Aconcagua Pared Sur](pared-sur/README.md)** | Pre-Venta Básico, 4 pensiones | USD 1.600 | **USD 2.550** | USD 5.100 | 30 kg firmes; kilo extra sin precio | **Elegida el 23/09.** ⚠️ Falta: las otras ~3 noches². Si piden el de 7 días: USD 3.832 |
 | [AMG](amg/README.md) | Básico, hasta 4 pensiones | USD 2.700 | **USD 3.650** | USD 7.300 | 35 kg; kilo extra sin precio | ⚠️ Falta: las noches sin pensión. **Plazo 25/09** |
 | [Mallku](mallku/README.md) | BASIC 4 días: 4 pensiones + acceso toda la estadía | USD 2.850 | **USD 3.800** | USD 7.600 | USD 12 por kilo y tramo (~USD 120) | ✅ Sí |
 | [Lanko](lanko/README.md) | Básico Estándar: 2 + 5 pensiones | USD 3.051 | **USD 4.001** | USD 8.002 | 40 kg sin costo | ✅ Sí |
@@ -106,6 +128,8 @@ Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/e
 ---
 
 ## Cómo decidir
+
+*Decidido el 23/09: Pared Sur. La tabla queda como registro de la comparación.*
 
 | Si lo que más importa es… | Empresa | Por persona | Qué falta |
 |---|---|---:|---|
@@ -176,17 +200,16 @@ habían respondido cuando se hizo).
 
 | Cuándo | Qué | Con quién |
 |---|---|---|
-| **Hoy, mié 23** | Contestarle a Román con lo que falta antes de pagar: noches, kilos, seguro, seña ([mensaje](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)) | Pared Sur |
-| **Hoy** | Decirle a Paloma que sí y pedir el presupuesto ([mensaje](andesport/README.md#mensaje-para-pedir-el-presupuesto)) | Andesport |
-| **Hoy** | Comprar el **AAC Leader** (USD 250 cada uno): la póliza hace falta para comprar el permiso nominado | [Seguro](../docs/07-seguro.md) |
-| **Hoy** | Fijar **una** fecha de ingreso: el itinerario dice martes 9 de febrero y los emails dijeron miércoles 10 | [Itinerario](../docs/04-itinerario.md) |
-| **Jue 24** | Elegir. Pared Sur si confirma las noches y los kilos; si no, Andesport si su precio conviene; si no, Mallku. **El permiso queda atado a esa empresa** | — |
-| **Vie 25** | Último día de AMG e Inka, si alguna sigue en carrera | AMG, Inka |
-| **Vie 25 - lun 28** | Pagar seña + permiso. Confirmar los datos bancarios llamando al teléfono de la [lista oficial del parque](../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos), no al del email. Pedir factura o recibo | La elegida |
-| **Mié 30** | Cierra la preventa a USD 950 | Parque |
-| **Con la reserva** | Pedir por escrito que el paquete cubre **baños y residuos todas las noches** en Confluencia y Plaza de Mulas, y dónde entregan el permiso impreso | La elegida |
-
----
+| ✅ **Mié 23** | Aceptar la oferta de Pared Sur: Pre-Venta Básico + permiso + seguro Redpoint | Pared Sur |
+| **Antes de transferir** | Llamar por voz al +54 9 261 250-6186 (catálogo y [lista oficial del parque](../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos)) y confirmar que las dos cuentas de la factura son de ellos | Román o Javier |
+| **Hoy o mañana** | Mandar las **dos transferencias en euros**: EUR 3.225,38 (seña + permisos) y EUR 737,23 (seguros). Desde un saldo en euros de Wise llegan el mismo día; una transferencia internacional desde Chile tarda 1-3 días hábiles | Pared Sur |
+| **Hoy o mañana** | Completar y firmar el [formulario de aceptación de riesgo](pared-sur/adjuntos/Aconcagua-Affidavit-Risk-Acceptance.pdf), uno por persona, con el pasaporte con el que van a cruzar | Vlad y Felipe |
+| **Con los pagos** | Mandar los comprobantes a paredsur.aconcagua@gmail.com, más los formularios y los pasaportes ([mensaje](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)) | Pared Sur |
+| **Vie 25** | Vence la factura: la plata tiene que haber llegado | Pared Sur |
+| **Antes del 30** | Que Pared Sur confirme que compró los dos permisos (la preventa cierra el 30/09) | Pared Sur |
+| **Después** | Pedir el certificado del seguro Redpoint (póliza, fechas, altura de evacuación de 5.500 m o más) y cerrar las noches extra, el precio del kilo extra y dónde entregan el permiso | Pared Sur |
+| **Esta semana** | Fijar **una** fecha de ingreso: el itinerario dice martes 9 de febrero y los emails dijeron miércoles 10 | [Itinerario](../docs/04-itinerario.md) |
+| **Esta semana** | Avisar a las demás empresas que se eligió otra (Mallku, Lanko, AMG, Andesport, Inka, Grajales, Visión) | Las demás |
 
 ## Carpetas por empresa
 
@@ -195,7 +218,7 @@ por fuera, la correspondencia completa y los adjuntos.
 
 | Empresa | Estado | Adjuntos |
 |---|---|---|
-| [Aconcagua Pared Sur](pared-sur/README.md) | WhatsApp: el 21/09 Vlad pidió avanzar; Román escribe con los detalles del permiso | Catálogo 2026-27 |
+| [Aconcagua Pared Sur](pared-sur/README.md) | **✅ Elegida el 23/09.** Factura VS-2627-005 (EUR 3.962,61, vence el 25/09) | Catálogo 2026-27, formulario de aceptación de riesgo |
 | [Andesport](andesport/README.md) | Respondió el 21/09 (Paloma): paquete sin comidas, presupuesto pendiente | — |
 | [Mallku Expediciones](mallku/README.md) | Respondió el 18, 19 y 21/09 (Sybille): todo confirmado | Paquetes Ruta Normal, presentación |
 | [Lanko Altas Montañas](lanko/README.md) | Respondió el 18 y 20/09 (Valentina): propone el Básico Estándar | Tabla de preventa |
@@ -219,6 +242,7 @@ por fuera, la correspondencia completa y los adjuntos.
 | 4 | Webs de las 11 empresas y reseñas en Google Maps, TripAdvisor y Reddit | La contradicción de Aconcagua Visión sobre el permiso; Andesport y AMG siguen vendiendo mulas sueltas |
 | 5 | Se omitieron datos personales de Vlad y Felipe, datos bancarios y links personales de pago y de formularios | Verificado con una búsqueda automática antes de publicar |
 | 6 | 23/09: se bajaron de Gmail las respuestas nuevas (7 emails de 6 empresas y los 5 seguimientos de Vlad) y se transcribió el WhatsApp de Pared Sur desde una captura | Visión se corrigió sobre el permiso; Andesport y AMG respondieron; los totales se recalcularon para el plan de 7 noches |
+| 7 | 23/09, tarde: se aceptó la oferta de Pared Sur. Se registró la factura sin datos bancarios ni personales y se agregó el formulario en blanco | Las 4 copias de la factura que llegaron por WhatsApp son idénticas |
 
 **Límites:** los precios son los que escribió cada empresa y pueden cambiar. Las reseñas son testimonios.
 Nada de esto reemplaza la confirmación por escrito antes de pagar.

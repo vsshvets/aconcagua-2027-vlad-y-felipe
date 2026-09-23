@@ -4,11 +4,40 @@
 
 # Aconcagua Pared Sur
 
-Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **jueves 17 de septiembre de 2026** pidiendo seguir por WhatsApp. Por WhatsApp escribió **Javier** y mandó el catálogo *Paquetes Logísticos 2026-2027*. El **lunes 21 de septiembre** Vlad les dijo que quieren avanzar con el Pre-Venta Básico y los permisos; contestaron el mismo día y quedó en escribir **Román** con los detalles del permiso. Teléfono del catálogo: **+54 9 2612 50-6186**. Web: [aconcaguaparedsur.com](https://aconcaguaparedsur.com).
+Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **jueves 17 de septiembre de 2026** pidiendo seguir por WhatsApp. Por WhatsApp escribió **Javier** y mandó el catálogo *Paquetes Logísticos 2026-2027*. El **lunes 21 de septiembre** Vlad les dijo que quieren avanzar con el Pre-Venta Básico y los permisos; contestaron el mismo día y quedó en escribir **Román** con los detalles del permiso. El **miércoles 23 de septiembre** Román mandó por WhatsApp la **factura VS-2627-005** y el formulario de aceptación de riesgo, y **Vlad aceptó la oferta**, con el seguro Redpoint de USD 400. Teléfono del catálogo: **+54 9 2612 50-6186**. Web: [aconcaguaparedsur.com](https://aconcaguaparedsur.com).
 
 ## ⚡ En una línea
 
-**Pre-Venta Básico: USD 1.600 por persona + USD 950 del permiso de preventa = USD 2.550. Sigue siendo la más barata por lejos** (USD 1.250 menos que Mallku, la siguiente con todo confirmado por escrito). El 21 de septiembre confirmaron **30 kg de mula** y que su seguro de USD 400 *«cubre lo requerido por el parque»*. Siguen sin respuesta las preguntas que definen el precio real: **qué pasa con las ~3 noches fuera del paquete, cuánto cuesta el kilo extra, la seña y cómo se paga.**
+**✅ Elegida el 23 de septiembre de 2026.** Pre-Venta Básico (USD 1.600) + permiso de preventa (USD 950) + seguro **Redpoint** (USD 400) = **USD 2.950 por persona**, más un 5 % de recargo por la transferencia. Ahora se paga la mitad del paquete, los dos permisos y los dos seguros: **EUR 3.962,61 para los dos, antes del viernes 25 de septiembre**. El saldo del paquete (USD 800 por persona) se paga antes de empezar los servicios.
+
+## Reserva y factura (23 de septiembre)
+
+Factura **VS-2627-005** de **South Face S.A.S.** (la razón social de Pared Sur), fechada el 23/09/2026 y con vencimiento el **25/09/2026**. Llegó por WhatsApp. Los datos bancarios y personales no se publican acá.
+
+| Concepto | Cant. | Precio unitario | Total |
+|---|---:|---:|---:|
+| Pre-Venta Básico: **seña del 50 %** (el paquete es USD 1.600 por persona; el saldo de USD 800 por persona se paga antes del inicio de los servicios) | 2 | USD 800 | USD 1.600 |
+| Permiso de ascenso, extranjero, Quebrada de Horcones (tarifa oficial de preventa, 14-30 sep) | 2 | USD 950 | USD 1.900 |
+| Seguro **Redpoint**, *«Includes helicopter evacuation, as required for the park permit»* | 2 | USD 400 | USD 800 |
+| Recargo por transferencia internacional | 5 % | | USD 215 |
+| **Total** | | | **USD 4.515** |
+| **Total a pagar en euros** (1 EUR = 1,1394 USD, cambio del 23/09) | | | **EUR 3.962,61** |
+
+**Se paga en dos transferencias en euros**, a dos cuentas distintas:
+
+| Pago | Qué cubre | Monto | Cuenta |
+|---|---|---:|---|
+| 1 | Seña del paquete + los dos permisos | **EUR 3.225,38** | Wise, Bélgica, a nombre de una persona (no de South Face S.A.S.) |
+| 2 | Los dos seguros Redpoint | **EUR 737,23** | Banking Circle, Luxemburgo, a nombre de una empresa de pagos |
+
+- La plata tiene que llegar **antes del 25 de septiembre** para que compren los permisos antes de que cierre la preventa (30/09).
+- Los comprobantes de las dos transferencias se mandan a paredsur.aconcagua@gmail.com.
+- Según la factura, *«Permit fees are non-refundable and named permits are non-transferable»*: el permiso es **nominado** y no se devuelve.
+- **Por persona, con todo:** USD 1.600 + 950 + 400 = **USD 2.950**, más USD 107,50 de recargo ahora (y el que corresponda al saldo).
+
+## Formulario de aceptación de riesgo
+
+Román mandó el formulario del gobierno de Mendoza, *Risk Acceptance - Affidavit Declaration Disclaimer* ([PDF en blanco](adjuntos/Aconcagua-Affidavit-Risk-Acceptance.pdf)). Hay que completar uno **por persona** (nombre, nacionalidad, número de pasaporte, fecha y firma) y mandárselo a Pared Sur junto con el pasaporte. Usar el pasaporte con el que van a cruzar, vigente en febrero de 2027: el permiso es nominado. La versión en español está en [Permisos](../../docs/01-permisos.md).
 
 ## La oferta
 
@@ -18,14 +47,14 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 | **Condición de la preventa** | *«pagá 90 días antes y fijá el precio más bajo de la temporada»*. Sin fecha exacta: para entrar el 10 de febrero serían ~12 de noviembre |
 | **Precio normal equivalente** | Básico Short **USD 2.295** (mismas inclusiones, 4 días). Básico Long 7 días USD 2.882 |
 | **Permiso** | **No incluido** en ningún paquete. El catálogo lo calcula en «~USD 1.300», pero Javier confirmó por WhatsApp: *«El permiso seria $950 en pre-venta, verdad?» — «Si exacto»* |
-| **Seguro** | Lo venden ellos a **USD 400**: *«El seguro cubre lo requerido por el parque y tiene activación inmediata sin trámite, lo usamos hace años.»* No dijeron la compañía, la altura de evacuación ni los días. Su catálogo pide evacuación en helicóptero solo **hasta 4.500 m**, bajo el mínimo oficial de 5.500 m |
+| **Seguro** | **Redpoint, USD 400** por persona (factura del 23/09): *«Includes helicopter evacuation, as required for the park permit»*. Por WhatsApp: *«El seguro cubre lo requerido por el parque y tiene activación inmediata sin trámite, lo usamos hace años.»* Falta el certificado con la altura de evacuación, los días y los nombres. Su catálogo pide evacuación solo **hasta 4.500 m**, bajo el mínimo oficial de 5.500 m |
 | **Días y comida** | 4 días de pensión completa en campamento base, baños, wifi y gestión del permiso |
 | **No incluye** | Duchas (*«lo incluído es lo detallado»*, 21/09), traslados, hotel, alojamiento de alta montaña, guía, porteadores |
 | **Noches fuera de los 4 días** | **Sin respuesta.** Si exigen pagarlas, el Básico Long de 7 días sale USD 2.882 (sin precio de preventa): USD 3.832 con el permiso |
 | **Mulas** | **30 kg por persona**, ida y vuelta, reconfirmado el 21/09: *«El peso de carga es 30kg.»* Las demás dan 35 kg. Kilo extra: sin precio |
-| **Pago** | *«En dólares al valor del dólar blue del día.»* IVA aparte si se pide factura. Costos bancarios del cliente. *«los precios pueden cambiar sin aviso»* |
+| **Pago** | Catálogo: *«En dólares al valor del dólar blue del día.»* En la práctica (factura del 23/09): precios en USD, pagados **en euros** a dos cuentas europeas al cambio del día, **más un 5 % de recargo** por la transferencia |
 | **Cancelación** | Por escrito, con al menos un mes de anticipación y por fuerza mayor o salud certificada: **hasta el 35 %** de lo pagado. Si no, nada |
-| **Reserva** | *«No se envía confirmación por email; se considera confirmada al cumplir los requisitos.»* |
+| **Reserva** | **Seña del 50 %** del paquete junto con el permiso y el seguro, antes del 25/09; el saldo antes del inicio de los servicios. El catálogo dice: *«No se envía confirmación por email; se considera confirmada al cumplir los requisitos.»* |
 
 ## A favor
 
@@ -35,13 +64,14 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 
 ## ⚠️ Cuidado
 
-- **Las ~3 noches fuera del paquete siguen sin respuesta.** Aconcagua Visión y Grajales cobran esas noches como pensión (USD 390 y USD 345); Mallku no. Si Pared Sur exige el Básico Long de 7 días, el total pasa de USD 2.550 a ~USD 3.832.
+Lo que sigue abierto después de aceptar la oferta:
+
+- **Confirmar los datos bancarios por llamada de voz antes de transferir.** Ninguna de las dos cuentas está a nombre de South Face S.A.S. (una es de una persona y la otra de una empresa de pagos). Es común en Argentina cobrar en el exterior así, y la factura llegó por el mismo WhatsApp de siempre, pero son EUR 3.962: una llamada al +54 9 261 250-6186 (el teléfono del catálogo y de la [lista oficial del parque](../../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos)) confirma que las dos cuentas son de ellos.
+- **Pedir el certificado del seguro Redpoint:** compañía, número de póliza, nombres, fechas y **altura de evacuación (5.500 m como mínimo)**. El permiso es nominado y el parque no acepta seguros bajo esa cota. Su catálogo decía 4.500 m.
+- **Las ~3 noches fuera de las 4 pensiones siguen sin respuesta.** Aconcagua Visión y Grajales cobran esas noches como pensión (USD 390 y USD 345); Mallku no. Si Pared Sur las cobra, el total por persona sube.
 - **30 kg de mula firmes**, 10 kg menos de lo que calculamos, y sin precio por kilo extra.
-- **Dice «Tarifas Mayoristas»** en la portada: hay que confirmar que valen para nosotros como clientes directos.
-- **Su seguro de USD 400 sigue sin papel:** ni compañía, ni altura, ni días. Si es el del catálogo (4.500 m), no llega al mínimo oficial. El AAC Leader cuesta USD 250 al año, cubre cualquier altura y Mallku ya lo aceptó por escrito.
-- **Todavía no dijeron qué necesitan para el permiso ni hasta cuándo.** La preventa cierra el 30 de septiembre.
-- **Pago al dólar blue y «los precios pueden cambiar sin aviso»**, lo que choca con «fijá el precio».
-- **Cancelación casi sin devolución** (hasta 35 % como crédito) y reserva sin confirmación por email. La única reseña mala es justo por una cancelación sin devolución ni factura: pedir factura o recibo de cada pago.
+- **Recargo del 5 %** (USD 215 los dos) que no estaba en el catálogo. Preguntar si el saldo también lo lleva.
+- **Cancelación casi sin devolución** (hasta 35 % como crédito) y el permiso no se devuelve. La única reseña mala en Google es justo por una cancelación sin devolución ni factura: guardar la factura y los comprobantes.
 
 ## Qué se verificó por fuera
 
@@ -110,22 +140,22 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 
 ## Mensaje para confirmar lo que falta
 
-Para Román, antes de pagar. Listo para copiar y mandar por WhatsApp.
+Para Román, después de pagar. Listo para copiar y mandar por WhatsApp.
 
 ```text
-Hola Román, gracias! Queremos avanzar con el Pre-Venta Básico para los dos (Vlad y Felipe). Antes de pagar necesitamos cerrar esto por escrito:
-1. Noches: vamos a estar unas 2 noches en Confluencia y 5 en Plaza de Mulas. Las 4 pensiones las repartimos nosotros? Las otras 3 noches podemos quedarnos en nuestra carpa, cocinando nosotros y usando baños y agua? Tiene costo?
-2. Mulas: son 30 kg por persona. Cuánto sale cada kilo extra, o una mula extra para los dos?
-3. Permiso: qué necesitan de nosotros (pasaporte, formularios, seguro) y hasta qué fecha? Es nominado o innominado, y dónde nos lo entregan?
-4. Seguro: de qué compañía es el de USD 400, hasta qué altura evacúa y cuántos días cubre? Si traemos el American Alpine Club Leader (rescate sin límite de altura), lo aceptan?
-5. Pago: cuánto es el anticipo, hasta cuándo se paga el resto y a qué cuenta? Podemos pagar en USD desde Chile? Nos mandan factura o recibo de cada pago?
-6. Los USD 1.600 del catálogo dicen "Tarifas Mayoristas": nos confirmas que valen para nosotros?
+Hola Román! Ahí van los comprobantes de las dos transferencias de la factura VS-2627-005, y los formularios de aceptación de riesgo firmados con los pasaportes. Nos confirmas cuando estén comprados los dos permisos?
+Unas cositas más:
+1. Nos mandas el certificado del seguro Redpoint de cada uno (número de póliza, fechas y hasta qué altura cubre la evacuación)?
+2. Las 4 pensiones las repartimos nosotros? Las otras noches (tenemos unas 7 en total entre Confluencia y Plaza de Mulas) podemos quedarnos en nuestra carpa cocinando nosotros y usando los baños?
+3. Los 30 kg: cuánto sale el kilo extra, o una mula extra para los dos?
+4. Dónde nos entregan el permiso impreso y dónde dejamos los bolsos?
+5. El saldo de USD 800 por persona: cuándo y cómo se paga, y lleva también el 5 %?
 Gracias!
 ```
 
 ## WhatsApp con Pared Sur (19-21 de septiembre de 2026)
 
-Transcrito de dos capturas de pantalla. El catálogo que reenvió Javier está en [Adjuntos](#adjuntos).
+Transcrito de dos capturas de pantalla. Los mensajes de texto de Román del 23/09 no están transcritos; sí los dos documentos que mandó. El catálogo y el formulario están en [Adjuntos](#adjuntos).
 
 | Quién | Cuándo | Mensaje |
 |---|---|---|
@@ -141,6 +171,9 @@ Transcrito de dos capturas de pantalla. El catálogo que reenvió Javier está e
 | Vlad | 19-20 sep, 13:13 (editado) | *(la parte de arriba del mensaje no se ve en la captura)* **Duchas:** vimos otra propuesta parecida en precio que incluye duchas calientes en campo base. En el Pre-Venta Basico hay ducha en Plaza de Mulas o es un extra? Cuanto sale? **Seguro:** el de USD 400 de que compania es y que cubre exactamente? Hasta que altura evacua (el Parque pide cubrir la cota de 5.500 m), cuantos dias dura y cubre gastos medicos? Sirve para extranjeros? **Mulas:** llevamos unos 35 kg cada uno y el paquete trae 30. Podria ser, o hay que pagar extra? **Permiso:** que necesitan de nosotros y hasta que fecha para comprarlo en la preventa? Es nominado o innominado, y donde nos lo entregan? **Pago:** cuanto es el anticipo y hasta cuando se paga el resto para mantener el precio de preventa? Podemos transferir en USD desde Chile? |
 | Vlad | lun 21 sep, 14:07 | Javier, buenas tardes! Quedo atento a las respuestas; querriamos avanzar con el pack pre-venta $1,600 + con los permisos mientras tengan los precios mas bajos |
 | Pared Sur | lun 21 sep, 15:21 | Hola lo incluído es lo detallado. El peso de carga es 30kg. El seguro cubre lo requerido por el parque y tiene activación inmediata sin trámite, lo usamos hace años. En cuanto a los permisos te va a escribir Román por este medio y te dará los detalles en cuanto vos nos digas que estás de acuerdo. |
+| Pared Sur (Román) | mié 23 sep, 12:53 | [Factura VS-2627-005 en PDF: seña del 50 %, dos permisos, dos seguros Redpoint, EUR 3.962,61, vence el 25/09] |
+| Pared Sur (Román) | mié 23 sep, 13:02 | [Formulario *Risk Acceptance - Affidavit Declaration Disclaimer* en PDF, en blanco] ([adjunto](adjuntos/Aconcagua-Affidavit-Risk-Acceptance.pdf)) |
+| Vlad | mié 23 sep | Acepta la oferta, con el seguro Redpoint de USD 400 |
 
 ## Correspondencia completa
 
@@ -215,5 +248,8 @@ Texto tal como llegó, sin el historial citado. Se omitieron los datos personale
 | Archivo | Tamaño |
 |---|---:|
 | [Aconcagua Pared Sur — Paquetes Logísticos 2026-2027 (catálogo por WhatsApp)](adjuntos/Aconcagua-Pared-Sur-Paquetes-Logisticos-2026-2027-ES.pdf) | 3306 KB |
+| [Risk Acceptance - Affidavit Declaration Disclaimer (formulario del gobierno de Mendoza, en blanco, por WhatsApp el 23/09)](adjuntos/Aconcagua-Affidavit-Risk-Acceptance.pdf) | 274 KB |
+
+La factura VS-2627-005 no se publica: tiene datos bancarios y personales.
 
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)

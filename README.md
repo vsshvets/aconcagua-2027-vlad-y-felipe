@@ -29,25 +29,28 @@ empresas habilitadas, la UIAA, la Wilderness Medical Society y relatos recientes
 3. **El "descuento por mulas" es real, pero no es por las mulas solas:** el permiso barato exige contratar
    mulas, servicio de campo base, baños y retiro de residuos con una empresa habilitada. La temporada pasada
    la diferencia fue de USD 470 (Vlad) y USD 360 (Felipe).
-4. **Empresa:** respondieron 9 de las 11 ([cotizaciones](cotizaciones/README.md)). **Aconcagua Visión no
-   incluye el permiso** (se corrigió el 20/09). Para las ~7 noches del plan, con el permiso: **Pared Sur
-   USD 2.550** si confirma que las noches extra no se pagan, **Mallku USD 3.800** (todo confirmado por escrito),
-   Lanko USD 4.001, Inka USD 4.340, Grajales y Visión USD 4.470. **Andesport** ofrece mulas sin comidas y falta
-   su precio.
-5. **Seguro:** ni Colmena ni Fonasa sirven para el cerro. **Recomendado: American Alpine Club "Leader"
-   (USD 250/año c/u)**, que cubre rescate y gastos médicos a cualquier altura, más una asistencia en viaje
-   común para Argentina.
+4. **Empresa: ✅ Aconcagua Pared Sur, elegida el 23 de septiembre.** Pre-Venta Básico (USD 1.600) + permiso
+   de preventa (USD 950) + seguro Redpoint (USD 400) = **USD 2.950 por persona**, más 5 % de recargo por la
+   transferencia. La factura VS-2627-005 (**EUR 3.962,61 para los dos**: seña del 50 %, permisos y seguros)
+   **vence el viernes 25 de septiembre** ([detalle](cotizaciones/pared-sur/README.md#reserva-y-factura-23-de-septiembre)).
+   Respondieron 9 de las 11 empresas; la comparación completa está en [cotizaciones](cotizaciones/README.md).
+5. **Seguro: ✅ Redpoint, comprado con Pared Sur (USD 400 c/u)**, con evacuación en helicóptero para el permiso.
+   Falta el certificado con la altura de evacuación (el parque pide 5.500 m como mínimo). Ni Colmena ni Fonasa
+   sirven para el cerro; sumar una asistencia en viaje común para Argentina ([Seguro](docs/07-seguro.md)).
 6. **Fechas:** el ingreso para ascenso cerraba el **15 de febrero** (regla 2025-26). Entran el **martes 9**
    (feriado de Carnaval). **Plan A de 18 días** con cumbre desde el viernes 19 y 3 días de reserva. Si sale
    a la primera, vuelven el lunes 22.
-7. **Presupuesto:** con las cotizaciones reales, logística + permiso son **USD 2.550 a 4.470 por persona** para
-   el plan de 7 noches. Todo incluido: **~USD 3.300-3.800** con Pared Sur y **~USD 4.600-5.000** con Mallku o Lanko.
+7. **Presupuesto:** logística + permiso + seguro con Pared Sur: **USD 2.950 por persona** (más ~USD 108 de
+   recargo). Todo incluido: **~USD 3.600-4.200 por persona** ([detalle](#presupuesto-por-persona)).
 8. **Año de El Niño muy fuerte:** más nevadas, viento y ríos crecidos. La propia resolución advierte
    posibles cierres del parque.
 
 ---
 
 ## 💰 Cotizaciones recibidas (23 sep 2026)
+
+**✅ Se eligió Aconcagua Pared Sur el 23 de septiembre** (Pre-Venta Básico + permiso + seguro Redpoint, USD 2.950
+por persona). La factura vence el viernes 25: [lo que hay que hacer](cotizaciones/README.md#qué-hacer-esta-semana).
 
 El 17 de septiembre se pidió cotización a las 11 empresas: **respondieron 9**, y el 19 se mandaron preguntas de
 seguimiento. **Todo el detalle, la correspondencia completa y los adjuntos, por empresa: [cotizaciones/](cotizaciones/README.md).**
@@ -56,8 +59,8 @@ Precio para cubrir las ~7 noches del plan (2 en Confluencia y ~5 en Plaza de Mul
 
 | Empresa | Qué hay que contratar | **Total por persona** | Mulas | Lo que hay que saber |
 |---|---|---:|---:|---|
-| [Andesport](cotizaciones/andesport/README.md) | Mulas + baños, agua y lugar para la carpa, sin comidas | **pendiente** | 50 kg por mula | La única sin pensión, justo lo que pedimos. Pedir el presupuesto hoy |
-| [Aconcagua Pared Sur](cotizaciones/pared-sur/README.md) | Pre-Venta Básico, 4 pensiones | **USD 2.550** | 30 kg | La más barata. Falta confirmar las ~3 noches extra, el kilo extra, el seguro y la seña |
+| [Andesport](cotizaciones/andesport/README.md) | Mulas + baños, agua y lugar para la carpa, sin comidas | **pendiente** | 50 kg por mula | La única sin pensión, justo lo que pedimos. No llegó a mandar precio |
+| **✅ [Aconcagua Pared Sur](cotizaciones/pared-sur/README.md)** | Pre-Venta Básico, 4 pensiones | **USD 2.550** (USD 2.950 con el seguro Redpoint) | 30 kg | **Elegida el 23/09.** Falta cerrar las ~3 noches extra y el kilo extra |
 | [AMG](cotizaciones/amg/README.md) | Básico, hasta 4 pensiones | **USD 3.650** | 35 kg | No vende mulas sueltas. Falta confirmar las noches sin pensión. Plazo 25/09 |
 | [Mallku](cotizaciones/mallku/README.md) | BASIC 4 días | **USD 3.800** | 35 kg | Todo por escrito: acceso toda la estadía, cocina propia, AAC Leader aceptado |
 | [Lanko](cotizaciones/lanko/README.md) | Básico Estándar (2 + 5 pensiones) | **USD 4.001** | 40 kg | Todas las comidas, domo en Plaza de Mulas, 40 kg sin costo |
@@ -71,17 +74,14 @@ Precio para cubrir las ~7 noches del plan (2 en Confluencia y ~5 en Plaza de Mul
 
 1. **Aconcagua Visión no incluye el permiso.** Sabrina escribió el 20/09: *«el mismo NO incluye el precio del
    permiso, pido disculpas si me explique mal en el mail anterior»*.
-2. **Pared Sur sigue siendo la más barata** y el 21/09 se le dijo que queremos avanzar. Antes de pagar, cerrar
-   por escrito con Román las noches extra, los kilos, el seguro y la seña ([mensaje listo](cotizaciones/pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)).
-3. **Andesport es la única que vende mulas sin comidas.** Pedirle el presupuesto hoy ([mensaje listo](cotizaciones/andesport/README.md#mensaje-para-pedir-el-presupuesto)).
-4. **Mallku es el respaldo:** USD 3.800, todo confirmado por escrito, se paga con tarjeta.
-5. **El seguro no puede esperar:** Mallku, AMG y Grajales piden la póliza para comprar el permiso nominado.
-   Mallku aceptó el AAC Leader por escrito. Pared Sur (4.500 m en su catálogo) e Inka (5.000 m) piden menos que el
-   mínimo oficial de 5.500 m.
-6. **Plazos:** AMG e Inka el viernes 25/09, Lanko el 28/09, la preventa del parque el 30/09. Una transferencia desde
-   Chile tarda 1-3 días hábiles.
-7. **Andesport y Mallku sugieren entrar antes del 10 de febrero** (fines de enero o principios de febrero) por el
-   frío, el viento y el riesgo de cierre con El Niño.
+2. **Pared Sur era la más barata por lejos** y se eligió. Quedan por cerrar con Román las noches fuera de las 4
+   pensiones, el precio del kilo extra (dan 30 kg) y el certificado del seguro Redpoint.
+3. **Mallku era el respaldo:** USD 3.800 con todo confirmado por escrito. Andesport ofreció mulas sin comidas,
+   pero no llegó a mandar precio.
+4. **El permiso es nominado y no se devuelve.** Pagar con el pasaporte con el que van a cruzar, vigente en
+   febrero de 2027.
+5. **Plazos:** la factura de Pared Sur vence el 25/09 y la preventa del parque cierra el 30/09. Una
+   transferencia internacional desde Chile tarda 1-3 días hábiles; desde un saldo en euros de Wise llega el mismo día.
 
 ---
 
@@ -90,10 +90,10 @@ Precio para cubrir las ~7 noches del plan (2 en Confluencia y ~5 en Plaza de Mul
 | Cuándo | Qué | Detalle |
 |---|---|---|
 | ✅ **17-21 sep 2026** | Pedir cotización a las 11 empresas y seguimiento: respondieron 9; Visión aclaró que el permiso no está incluido | [Cotizaciones](cotizaciones/README.md) |
-| **Hoy, 23 sep** | Cerrar lo que falta con Román (Pared Sur); pedirle el presupuesto a Andesport; comprar el AAC Leader | [Qué hacer esta semana](cotizaciones/README.md#qué-hacer-esta-semana) |
-| **Jue 24 - vie 25 sep 2026** | Elegir empresa, pagar seña + 2 permisos de preventa (AMG e Inka cierran el 25/09) | [Preventa paso a paso](docs/01-permisos.md#la-preventa-2026-2027-paso-a-paso) |
+| ✅ **23 sep 2026** | Elegir empresa: **Aconcagua Pared Sur**, con seguro Redpoint | [Decisión](cotizaciones/README.md#-decisión-aconcagua-pared-sur) |
+| **Antes del vie 25 sep 2026** | Confirmar las cuentas por llamada; pagar la factura VS-2627-005 (dos transferencias en euros, EUR 3.962,61); mandar comprobantes, formularios de aceptación de riesgo firmados y pasaportes | [Qué hacer esta semana](cotizaciones/README.md#qué-hacer-esta-semana) |
 | **30 sep 2026** | Cierra la preventa a USD 950 | Res. 581/2026 |
-| **Esta semana** | Comprar el seguro (AAC Leader): Mallku, AMG y Grajales lo piden para comprar el permiso nominado. Mandar la carta y pedir confirmación por escrito | [Seguro](docs/07-seguro.md) |
+| **Después de pagar** | Pedir a Pared Sur el certificado del seguro Redpoint (póliza, fechas, altura de evacuación); comprar una asistencia en viaje para Argentina | [Seguro](docs/07-seguro.md) |
 | **25-30 oct 2026** | La empresa termina de asignar los permisos a sus nombres | [Plazos](docs/01-permisos.md#fechas-límite) |
 | **Oct-nov 2026** | Sale el decreto 2026-27 con precios y fechas: confirmar que el ingreso sigue abierto hasta el 15 de febrero | [Ventana de ingreso](docs/01-permisos.md#la-ventana-de-ingreso-cierra-el-15-de-febrero) |
 | **Dic 2026 - ene 2027** | Médico de montaña; arrendar y probar botas dobles con crampones; seguro RCI/Mercosur del auto; formulario de salida del vehículo | [Salud](docs/08-salud-y-seguridad.md), [auto](#transporte-en-auto-santiago--penitentes) |
@@ -354,8 +354,9 @@ argentino → Las Cuevas → Puente del Inca → Penitentes. **~195 km**, 3,5-5 
 | Concepto | Mínimo | Máximo | Nota |
 |---|---:|---:|---|
 | Permiso (preventa) | USD 950 | USD 950 | Obligatorio |
-| Logística con asistencia | USD 1.600 | USD 3.520 | Pared Sur → Grajales o Visión (7 días) |
-| Seguro de montaña | USD 250 | USD 650 | AAC Leader → Global Rescue |
+| Logística con asistencia | USD 1.600 | USD 1.600 | Pared Sur Pre-Venta Básico (elegida) |
+| Seguro de montaña | USD 400 | USD 400 | Redpoint vía Pared Sur (elegido) |
+| Recargo por transferencia (5 %) | USD 108 | USD 148 | Pared Sur; el máximo si el saldo también lo lleva |
 | Asistencia en viaje | USD 30 | USD 150 | Estimación |
 | Comida | USD 200 | USD 300 | Estimación |
 | Gas | USD 35 | USD 55 | Estimación |
@@ -365,7 +366,7 @@ argentino → Las Cuevas → Puente del Inca → Penitentes. **~195 km**, 3,5-5 
 | Kilos extra de mula | USD 0 | USD 300 | Si el paquete es de 35 kg |
 | Porteador de bajada (opcional) | USD 0 | USD 420 | Tarifa 2025-26 |
 | Propinas y extras | USD 50 | USD 150 | Estimación |
-| **Total** | **~USD 3.250** | **~USD 7.150** | **Realista: ~USD 3.300-3.800 con Pared Sur; ~USD 4.600-5.000 con Mallku o Lanko** |
+| **Total** | **~USD 3.500** | **~USD 5.100** | **Realista con Pared Sur: ~USD 3.600-4.200** |
 
 Detalle y fuentes: [datos/presupuesto.csv](datos/presupuesto.csv).
 

@@ -16,6 +16,12 @@ equivocarse: casi todos los seguros de viaje "de aventura" dejan de cubrir antes
 
 ## Bottom line / Conclusión
 
+> **Decisión del 23/09/2026:** el seguro de montaña es **Redpoint, comprado con Aconcagua Pared Sur a USD 400
+> por persona** (factura VS-2627-005), con evacuación en helicóptero. Falta el certificado con la altura de
+> evacuación y las fechas; pedirlo apenas se pague ([Pared Sur](../cotizaciones/pared-sur/README.md#reserva-y-factura-23-de-septiembre)).
+> Redpoint Travel Protection es la misma compañía que da la cobertura de la membresía del AAC. La asistencia
+> en viaje para Argentina (punto 3) sigue haciendo falta. El resto de esta página es la investigación del 17/09.
+
 1. **Ni Isapre Colmena ni Fonasa sirven como seguro del Aconcagua.** Colmena solo reembolsa (si el plan
    tiene cobertura internacional) y no cubre rescate. Su "Asistencia en Viaje Internacional" es un producto
    de Assist Card que cubre senderismo **solo hasta 3.000 m**. Fonasa no tiene cobertura en Argentina.
