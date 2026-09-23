@@ -1,14 +1,14 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Aconcagua Pared Sur
 
-Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **jueves 17 de septiembre de 2026** pidiendo seguir por WhatsApp. Por WhatsApp escribió **Javier** y mandó el catálogo *Paquetes Logísticos 2026-2027*. Teléfono del catálogo: **+54 9 2612 50-6186**. Web: [aconcaguaparedsur.com](https://aconcaguaparedsur.com).
+Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **jueves 17 de septiembre de 2026** pidiendo seguir por WhatsApp. Por WhatsApp escribió **Javier** y mandó el catálogo *Paquetes Logísticos 2026-2027*. El **lunes 21 de septiembre** Vlad les dijo que quieren avanzar con el Pre-Venta Básico y los permisos; contestaron el mismo día y quedó en escribir **Román** con los detalles del permiso. Teléfono del catálogo: **+54 9 2612 50-6186**. Web: [aconcaguaparedsur.com](https://aconcaguaparedsur.com).
 
 ## ⚡ En una línea
 
-**Pre-Venta Básico: USD 1.600 por persona + USD 950 del permiso de preventa = USD 2.550.** Javier confirmó por WhatsApp el 19 de septiembre que el permiso sale USD 950 en preventa. Es el precio más bajo de todos, pero el catálogo dice «Tarifas Mayoristas», trae solo 30 kg de mula y tiene condiciones duras. También venden el seguro: USD 400.
+**Pre-Venta Básico: USD 1.600 por persona + USD 950 del permiso de preventa = USD 2.550. Sigue siendo la más barata por lejos** (USD 1.100 menos que la siguiente confirmada). El 21 de septiembre confirmaron **30 kg de mula** y que su seguro de USD 400 *«cubre lo requerido por el parque»*. Siguen sin respuesta las preguntas que definen el precio real: **qué pasa con las ~3 noches fuera del paquete, cuánto cuesta el kilo extra, la seña y cómo se paga.**
 
 ## La oferta
 
@@ -18,10 +18,11 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 | **Condición de la preventa** | *«pagá 90 días antes y fijá el precio más bajo de la temporada»*. Sin fecha exacta: para entrar el 10 de febrero serían ~12 de noviembre |
 | **Precio normal equivalente** | Básico Short **USD 2.295** (mismas inclusiones, 4 días). Básico Long 7 días USD 2.882 |
 | **Permiso** | **No incluido** en ningún paquete. El catálogo lo calcula en «~USD 1.300», pero Javier confirmó por WhatsApp: *«El permiso seria $950 en pre-venta, verdad?» — «Si exacto»* |
-| **Seguro** | Lo venden ellos: *«El seguro lo vendemos nosotros también con un muy buen precio»*, **USD 400**. No dijeron qué cubre. Su catálogo pide evacuación en helicóptero solo **hasta 4.500 m**, bajo el mínimo oficial de 5.500 m |
+| **Seguro** | Lo venden ellos a **USD 400**: *«El seguro cubre lo requerido por el parque y tiene activación inmediata sin trámite, lo usamos hace años.»* No dijeron la compañía, la altura de evacuación ni los días. Su catálogo pide evacuación en helicóptero solo **hasta 4.500 m**, bajo el mínimo oficial de 5.500 m |
 | **Días y comida** | 4 días de pensión completa en campamento base, baños, wifi y gestión del permiso |
-| **No incluye** | Duchas, traslados, hotel, alojamiento de alta montaña, guía, porteadores |
-| **Mulas** | **30 kg por persona**, ida y vuelta (las demás dan 35 kg) |
+| **No incluye** | Duchas (*«lo incluído es lo detallado»*, 21/09), traslados, hotel, alojamiento de alta montaña, guía, porteadores |
+| **Noches fuera de los 4 días** | **Sin respuesta.** Si exigen pagarlas, el Básico Long de 7 días sale USD 2.882 (sin precio de preventa): USD 3.832 con el permiso |
+| **Mulas** | **30 kg por persona**, ida y vuelta, reconfirmado el 21/09: *«El peso de carga es 30kg.»* Las demás dan 35 kg. Kilo extra: sin precio |
 | **Pago** | *«En dólares al valor del dólar blue del día.»* IVA aparte si se pide factura. Costos bancarios del cliente. *«los precios pueden cambiar sin aviso»* |
 | **Cancelación** | Por escrito, con al menos un mes de anticipación y por fuerza mayor o salud certificada: **hasta el 35 %** de lo pagado. Si no, nada |
 | **Reserva** | *«No se envía confirmación por email; se considera confirmada al cumplir los requisitos.»* |
@@ -34,12 +35,13 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 
 ## ⚠️ Cuidado
 
-- **Dice «Tarifas Mayoristas»** en la portada: son precios para agencias y guías. Hay que confirmar que valen para nosotros como clientes directos.
-- **30 kg de mula por persona**, 10 kg menos de lo que calculamos.
-- Confirmó el permiso a USD 950, pero todavía no dijo **qué necesita ni hasta cuándo** para comprarlo antes del 30 de septiembre.
-- **Su seguro de USD 400 puede no servir:** si es el del catálogo (evacuación hasta 4.500 m), no llega al mínimo oficial ni cubre Nido, Cólera o la cumbre. El AAC Leader cuesta USD 250 al año y cubre cualquier altura.
+- **Las ~3 noches fuera del paquete siguen sin respuesta.** Aconcagua Visión y Grajales cobran esas noches como pensión (USD 390 y USD 345); Mallku no. Si Pared Sur exige el Básico Long de 7 días, el total pasa de USD 2.550 a ~USD 3.832.
+- **30 kg de mula firmes**, 10 kg menos de lo que calculamos, y sin precio por kilo extra.
+- **Dice «Tarifas Mayoristas»** en la portada: hay que confirmar que valen para nosotros como clientes directos.
+- **Su seguro de USD 400 sigue sin papel:** ni compañía, ni altura, ni días. Si es el del catálogo (4.500 m), no llega al mínimo oficial. El AAC Leader cuesta USD 250 al año, cubre cualquier altura y Mallku ya lo aceptó por escrito.
+- **Todavía no dijeron qué necesitan para el permiso ni hasta cuándo.** La preventa cierra el 30 de septiembre.
 - **Pago al dólar blue y «los precios pueden cambiar sin aviso»**, lo que choca con «fijá el precio».
-- **Cancelación casi sin devolución** y reserva sin confirmación por email: pedir todo por escrito igual.
+- **Cancelación casi sin devolución** (hasta 35 % como crédito) y reserva sin confirmación por email. La única reseña mala es justo por una cancelación sin devolución ni factura: pedir factura o recibo de cada pago.
 
 ## Qué se verificó por fuera
 
@@ -108,27 +110,26 @@ Respondió **Román Ruberti Godoy** (Commercial & Administrative Manager) el **j
 
 ## Mensaje para confirmar lo que falta
 
-Listo para copiar y mandar por WhatsApp o email.
+Para Román, antes de pagar. Listo para copiar y mandar por WhatsApp.
 
 ```text
-Gracias Javier! Algunas cosas más antes de decidir:
-1. El Pre-Venta Básico de 4 noches: son 1 en Confluencia y 3 en Plaza de Mulas? Las otras noches (tenemos unas 7 en total) podemos estar en nuestra carpa y cocinar nosotros, usando los baños? Tiene costo?
-2. El seguro de USD 400: de qué compañía es, qué cubre y hasta qué altura (el Parque pide 5.500 m como mínimo; nosotros queremos que cubra la cumbre)? Cuántos días?
-3. Si traemos nuestro seguro (American Alpine Club Leader, rescate a cualquier altura), lo aceptan?
-4. Para el permiso en preventa: qué necesitan de nosotros y hasta qué fecha? Es nominado o innominado?
-5. Los precios del catálogo dicen "Tarifas Mayoristas". Los USD 1.600 valen para nosotros dos como clientes directos? Cuánto es el anticipo y hasta cuándo se paga el resto para mantener el precio de preventa?
-6. Se paga en USD por transferencia desde Chile, o en pesos al dólar blue?
-7. Llevamos unos 40 kg cada uno. Cuánto cuestan los 10 kg extra por persona? Las mulas dejan carga en Confluencia?
-8. Dónde entregamos los bolsos y dónde dejamos el auto unas dos semanas? El traslado a Horcones está incluido?
+Hola Román, gracias! Queremos avanzar con el Pre-Venta Básico para los dos (Vlad y Felipe). Antes de pagar necesitamos cerrar esto por escrito:
+1. Noches: vamos a estar unas 2 noches en Confluencia y 5 en Plaza de Mulas. Las 4 pensiones las repartimos nosotros? Las otras 3 noches podemos quedarnos en nuestra carpa, cocinando nosotros y usando baños y agua? Tiene costo?
+2. Mulas: son 30 kg por persona. Cuánto sale cada kilo extra, o una mula extra para los dos?
+3. Permiso: qué necesitan de nosotros (pasaporte, formularios, seguro) y hasta qué fecha? Es nominado o innominado, y dónde nos lo entregan?
+4. Seguro: de qué compañía es el de USD 400, hasta qué altura evacúa y cuántos días cubre? Si traemos el American Alpine Club Leader (rescate sin límite de altura), lo aceptan?
+5. Pago: cuánto es el anticipo, hasta cuándo se paga el resto y a qué cuenta? Podemos pagar en USD desde Chile? Nos mandan factura o recibo de cada pago?
+6. Los USD 1.600 del catálogo dicen "Tarifas Mayoristas": nos confirmas que valen para nosotros?
+Gracias!
 ```
 
-## WhatsApp con Javier (sábado 19 de septiembre de 2026)
+## WhatsApp con Pared Sur (19-21 de septiembre de 2026)
 
-Transcrito de una captura de pantalla. El catálogo que reenvió está en [Adjuntos](#adjuntos).
+Transcrito de dos capturas de pantalla. El catálogo que reenvió Javier está en [Adjuntos](#adjuntos).
 
-| Quién | Hora | Mensaje |
+| Quién | Cuándo | Mensaje |
 |---|---|---|
-| Javier (Pared Sur) | 11:31 | Cada uno tiene tildado lo que incluye |
+| Javier (Pared Sur) | sáb 19 sep, 11:31 | Cada uno tiene tildado lo que incluye |
 | Javier (Pared Sur) | 11:31 | [Reenvía el PDF «Aconcagua Pared Sur Paquetes Logisticos 2026-2027», 20 páginas] |
 | Javier (Pared Sur) | 11:31 | Quedo atento a cualquier consulta |
 | Javier (Pared Sur) | 11:32 | El seguro lo vendemos nosotros también con un muy buen precio |
@@ -137,6 +138,9 @@ Transcrito de una captura de pantalla. El catálogo que reenvió está en [Adjun
 | Javier (Pared Sur) | 12:39 | Si exacto |
 | Javier (Pared Sur) | 12:39 | 400 el seguro |
 | Vlad | 12:40 | Pre-Venta Basico: 4 noches. Son 1 día Confluencia y 3 en Plaza de Mulas? |
+| Vlad | 19-20 sep, 13:13 (editado) | *(la parte de arriba del mensaje no se ve en la captura)* **Duchas:** vimos otra propuesta parecida en precio que incluye duchas calientes en campo base. En el Pre-Venta Basico hay ducha en Plaza de Mulas o es un extra? Cuanto sale? **Seguro:** el de USD 400 de que compania es y que cubre exactamente? Hasta que altura evacua (el Parque pide cubrir la cota de 5.500 m), cuantos dias dura y cubre gastos medicos? Sirve para extranjeros? **Mulas:** llevamos unos 35 kg cada uno y el paquete trae 30. Podria ser, o hay que pagar extra? **Permiso:** que necesitan de nosotros y hasta que fecha para comprarlo en la preventa? Es nominado o innominado, y donde nos lo entregan? **Pago:** cuanto es el anticipo y hasta cuando se paga el resto para mantener el precio de preventa? Podemos transferir en USD desde Chile? |
+| Vlad | lun 21 sep, 14:07 | Javier, buenas tardes! Quedo atento a las respuestas; querriamos avanzar con el pack pre-venta $1,600 + con los permisos mientras tengan los precios mas bajos |
+| Pared Sur | lun 21 sep, 15:21 | Hola lo incluído es lo detallado. El peso de carga es 30kg. El seguro cubre lo requerido por el parque y tiene activación inmediata sin trámite, lo usamos hace años. En cuanto a los permisos te va a escribir Román por este medio y te dará los detalles en cuanto vos nos digas que estás de acuerdo. |
 
 ## Correspondencia completa
 

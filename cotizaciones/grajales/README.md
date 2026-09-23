@@ -1,14 +1,14 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Fernando Grajales Expeditions
 
-Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, con el PDF de paquetes 2026-27, una presentación de la empresa y el folleto de Global Rescue. Email: expediciones@grajales.net. Web: [grajales.net](https://grajales.net).
+Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, con el PDF de paquetes 2026-27, una presentación de la empresa y el folleto de Global Rescue. El **lunes 21** contestó el seguimiento. Email: expediciones@grajales.net. Web: [grajales.net](https://grajales.net).
 
 ## ⚡ En una línea
 
-**Básico de 4 días: USD 2.830 por persona, sin permiso.** Con el permiso de preventa son **USD 3.780 por persona**. Es el mismo número que cotizó Aconcagua Visión, y Grajales dice explícitamente que el permiso va aparte.
+**El Básico de 4 días (USD 3.780 con el permiso) está pensado para quien pasa solo 4 días en los campamentos base. Para nuestro plan, Grajales recomienda el de 7 días: USD 3.520 + 950 = USD 4.470 por persona**, empatada con Aconcagua Visión como la más cara. Días sueltos: USD 345 en Plaza de Mulas y USD 228 en Confluencia.
 
 ## La oferta
 
@@ -17,11 +17,15 @@ Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, 
 | **Paquetes** | **Básico 4 días USD 2.830** · Básico 7 días USD 3.520 · Regular USD 4.060 · Premium USD 5.140 (tarifas de grupo *«sin importar la cantidad de integrantes»*) |
 | **Permiso** | **No incluido**: *«nuestros servicios incluyen la asistencia para obtener el permiso, pero no el precio del permiso ni el seguro»* |
 | **El Básico 4 días incluye** | **Traslado privado Penitentes ↔ Horcones**, asistencia con el permiso, mulas, todas las comidas y bebidas en Confluencia y Plaza de Mulas por un máximo de 4 días, agua potable, **duchas**, baños, guardería de equipos, oxígeno de emergencia, radio, reportes del clima, **wifi** y carga |
-| **Mulas** | Máximo **35 kg por persona** |
+| **Noches fuera del paquete** | No hay precio para baños o duchas sueltos: *«El paquete de 4 días esta diseñado para expediciones que estarán únicamente 4 días en los campamentos»*. Pensión extra: **USD 345** por persona por día en Plaza de Mulas y **USD 228** en Confluencia. Para nuestro plan sugieren el de 7 días |
+| **Reparto de los días** | Libre |
+| **Mulas** | **35 kg «estimativos»**: *«si no se exceden por mucho no se les cobrara un adicional»*. Bolsos de **máximo 20 kg**. Subiendo, las mulas paran en Confluencia (un bolso para esas noches y otro directo a Plaza de Mulas); **bajando no paran en Confluencia** y van directo a Penitentes |
+| **Baños de altura** | **USD 150** por persona, con bolsas y traslado de los residuos |
 | **Carpas** | Propias: en el PDF, carpas y alojamiento en la montaña van como no incluidos |
 | **Servicios sueltos** | No: *«Nuestra empresa no ofrece servicios a la carta o individuales»* |
-| **Pago** | **Depósito no reembolsable de USD 400** (no dice si es por persona); el saldo en dos cuotas, a 60 y 30 días de la expedición |
-| **Seguro** | Recomiendan Global Rescue. Sirve cualquiera con cobertura sobre 6.000 m hasta 7.000 m y evacuación aérea hasta 5.400 m |
+| **Pago** | **Depósito no reembolsable de USD 400 por persona**, que se descuenta del total; se paga por un link de reserva de **WeTravel** con comprobante y recibo. El saldo en dos cuotas, a 60 y 30 días de la expedición |
+| **Permiso** | Lo gestionan con el depósito pagado. Nominado, entregado en **Penitentes** (el email dice *«El deposito es nominado y se lo entregaremos en Penitentes»*; por el contexto se refiere al permiso). Todo antes del 30/09, *«preferentemente con algunos días de margen»* |
+| **Seguro** | Recomiendan Global Rescue. Sirve cualquiera con cobertura sobre 6.000 m hasta 7.000 m y evacuación aérea hasta 5.400 m. Del AAC: el parque pide una póliza; su equipo revisa la membresía después de la reserva, y *«probablemente el Club del que es miembro debera generar una póliza o algun comprobante de la cobertura»* |
 | **Fechas** | El 10 de febrero *«no habría problema»*; siguen operando a fines de febrero |
 | **Auto** | Estacionamiento de Horcones, en la entrada del parque |
 
@@ -33,11 +37,11 @@ Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, 
 
 ## ⚠️ Cuidado
 
-- Mismo precio de lista que Aconcagua Visión: si Visión confirma que su precio incluye el permiso, Grajales queda USD 950 más caro por persona; si no, empatan.
-- Los precios del email son la tarifa de 6-15 personas del PDF, que dice *«Tarifas de reserva anticipada, válidas hasta el 30/06»*. No dijeron hasta cuándo los mantienen.
-- Depósito de USD 400 no reembolsable, y el PDF dice que no hay reembolso por comidas no usadas.
-- No respondieron cómo ni cuándo compran el permiso en la preventa.
-- No dijeron qué pasa con las noches fuera de los 4 días.
+- **Para 7 noches son USD 4.470 por persona con el permiso**, USD 670 más que Mallku y USD 1.920 más que Pared Sur.
+- Sumar días sueltos al de 4 días sale más caro que el de 7 (USD 345 cada noche en Plaza de Mulas).
+- Depósito de USD 400 por persona no reembolsable, y el PDF dice que no hay reembolso por comidas no usadas.
+- No confirman el AAC hasta después de reservar: se paga el depósito antes de saber si el seguro sirve.
+- Bajando, las mulas no paran en Confluencia.
 
 ## Qué se verificó por fuera
 
@@ -99,16 +103,14 @@ Respondió **Laura Cardon** (reservas) el **viernes 18 de septiembre de 2026**, 
 
 ## Mensaje para confirmar lo que falta
 
-Listo para copiar y mandar por WhatsApp o email.
+Listo para copiar y mandar por email, si la eligen.
 
 ```text
-Hola Laura, muchas gracias por la respuesta! Algunas preguntas:
-1. El Básico de 4 días a USD 2.830 por persona: hasta qué fecha vale ese precio?
-2. Nos compran los dos permisos en la preventa del Parque (USD 950) antes del 30 de septiembre? Qué necesitan y hasta cuándo?
-3. El depósito de USD 400 es por persona o por el grupo, y se descuenta del total?
-4. Nuestro plan tiene 2 noches en Confluencia y unas 5 en Plaza de Mulas. Las noches fuera de los 4 días podemos estar en nuestra carpa y cocinar nosotros? Tiene costo?
-5. Llevamos unos 40 kg cada uno. Cuánto cuestan los 5 kg extra por persona?
-6. Aceptan la carta de membresía del American Alpine Club como seguro?
+Hola Laura, muchas gracias por las respuestas! Si vamos con ustedes, sería el Básico de 7 días para los dos. Nos confirmas:
+1. El total: USD 3.520 por persona más el permiso de USD 950, y cuánto pagamos ahora (depósito de USD 400 por persona + permiso) para llegar a la preventa?
+2. Tenemos el American Alpine Club Leader (rescate sin límite de altura). Antes de pagar el depósito, ¿nos pueden decir si la carta de cobertura del club les sirve para el permiso?
+3. El permiso es nominado y nos lo entregan en Penitentes, correcto?
+Gracias!
 ```
 
 ## Correspondencia completa
@@ -201,6 +203,104 @@ Texto tal como llegó, sin el historial citado. Se omitieron los datos personale
 > Laura  
 
 **Adjuntos:** [GRA_Paq.Logistica26-27_05-27.pdf](adjuntos/GRA_Paq.Logistica26-27_05-27.pdf) (1120 KB) · [GRA_DiferenciaGrajales22-23_06-24.pdf](adjuntos/GRA_DiferenciaGrajales22-23_06-24.pdf) (3677 KB) · [G_Global Rescue Safe Travel Partner.pdf](adjuntos/G_Global-Rescue-Safe-Travel-Partner.pdf) (437 KB)
+
+---
+
+### 3. Vlad → Fernando Grajales Expeditions · sáb 19 sep 2026, 13:17 (hora de Chile/Argentina)
+
+**De:** Vlad · **Para:** expediciones@grajales.net · **Cc:** [email de Felipe]
+
+**Asunto:** Re: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Laura, como estas?  
+>
+> Gracias por la propuesta y por el PDF. Estamos decidiendo esta semana y nos quedan estas dudas del paquete Basico de 4 dias:  
+>
+> *1. Las noches que no cubre el paquete*  
+>
+> * Nuestro plan son *2 noches en Confluencia y unas 5 en Plaza de Mulas* , y el paquete cubre 4 dias de comidas. Las otras noches podemos quedarnos en nuestra carpa y cocinar nosotros, usando *banos, agua y duchas* ? Tiene costo por noche?  
+>
+> * Como se reparten los 4 dias entre Confluencia y Plaza de Mulas, y los podemos elegir nosotros? Nos importa sobre todo tener comida el dia que salimos del parque.  
+>
+> *2. Mulas*  
+>
+> * Llevamos *unos 40 kg cada uno* y el paquete incluye 35. Cuanto cuesta el kilo extra o una mula extra?  
+>
+> * Las mulas dejan carga en *Confluencia* o van directo a Plaza de Mulas?  
+>
+> * Donde y a que hora entregamos los bolsos, y las mulas de bajada operan el *23 y 24 de febrero* ?  
+>
+> *3. Altura*  
+>
+> * Cuanto cuesta el *bano en los campamentos de altura* y que incluye? Vimos que es un servicio aparte.  
+>
+> *4. Seguro*  
+>
+> * Nos sirve la membresia *Leader del American Alpine Club* , que cubre rescate y evacuacion sin limite de altura? Si mandamos el certificado, nos lo confirman por escrito?  
+>
+> * Hasta que fecha necesitan tenerlo?  
+>
+> *5. Permiso y pago*  
+>
+> * Nos pueden comprar los *dos permisos en la preventa antes del 30 de septiembre* ? Que necesitan de nosotros y para cuando?  
+>
+> * El permiso es nominado o innominado, y donde nos lo entregan: Mendoza, Penitentes o Horcones?  
+>
+> * El deposito de USD 400 es por persona o por el grupo, y se descuenta del total?  
+>
+> * Nos emiten factura o recibo de cada pago? Y donde podemos dejar el auto unos 14 dias?  
+>
+> Si nos podes contestar antes del martes 23 nos ayudas un monton, asi llegamos con los tiempos de la preventa.  
+>
+> Muchas gracias!  
+>
+> Vlad Shvets  
+
+
+---
+
+### 4. Fernando Grajales Expeditions → Vlad · lun 21 sep 2026, 09:06 (hora de Chile/Argentina)
+
+**De:** Expediciones Grajales <expediciones@grajales.net> · **Para:** Vlad
+
+**Asunto:** Re: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Vlad,  
+>
+> Un gusto saber de ti, y gracias por considerarnos para tu expedición:  
+>
+> 1) El paquete de 4 días esta diseñado para expediciones que estarán únicamente 4 días en los campamentos y los demás días en los campamentos de altura donde podrán manejarse de manera independiente.  
+>
+> Al no ofrecer servicios no tenemos un precio específico para los servicios de duchas y baños. Considerando los días que quieren pasar en el campamento base, el paquete de servicios logísticos básicos de 7 días encajaría con sus planes. Por otro lado ustedes pueden decidir como quieren distribuir los días de su paquete.  
+>
+> Si quisieran sumar días a sus paquetes el precio por pension completa es el siguiente:  
+>
+> - Pension completa en Plaza de Mulas: 345 USD por persona por dia.  
+> - Pension completa en Confluencia: 228 USD por persona por dia.  
+>
+> 2) Los 35 kilos son estimativos, si no se exceden por mucho no se les cobrara un adicional. Por favor tengan en cuenta que les pediremos armar bolsos de no mas de 20 kilos cada uno para cuidar a nuestras mulas.  
+>
+> Las mulas dejan carga en Confluencia y en Plaza de Mulas. Les pediremos armar su equipaje con cargas que irán directamente a Plaza de Mulas, con su equipo y comida de altura y otra carga que frenará en Confluencia con lo necesario para los días que pasen en el campamento de aproximación. Una vez que se muevan de Confluencia a Plaza de Mulas, las mulas frenaran en Confluencia para recoger sus bolsos y llevarlos a Plaza de Mulas, para que hagan la caminata al campamento base lo mas livianos posible.  
+>
+> Por favor tengan en cuenta que cuando descienden las mulas, NO frenan en Confluencia, por lo que el descenso a Plaza de Mulas generalmente se hace de manera directa a Penitentes.  
+>
+> 3) El servicio de baños en altura cuesta 150 USD, por persona, le da acceso a los baños de altura, con inodoros y bolsas específicamente diseñadas para el entorno y el traslado y gestión de los residuos.  
+>
+> 4) En cuanto a su membresía, el Parque les pedirán una póliza de seguro para aprobar su permiso. Una vez que aseguren su lugar con nosotros nuestros equipo de permisos puede revisar las condiciones de su membresía y confirmar si sera valida para el ascenso, probablemente el Club del que es miembro debera generar una póliza o algun comprobante de la cobertura.  
+>
+> Si quiere acceder al precio de preventa de los permisos deberemos tenerlo antes del 30 de Septiembre, preferentemente con algunos días de margen para permitir tiempo a nuestro equipo de Permisos para controlar que todo se presente de manera correcta.  
+>
+> 5) Para gestionar su permiso necesitaremos el deposito de confirmación de contratación de nuestros servicios. El deposito es por persona y se descuenta del monto total de la expedición. Una vez que nos confirmen que servicio quieren contratar, le enviare un link de reserva de WeTravel que le enviara un comprobante de reserva y recibo.  
+> El deposito es nominado y se lo entregaremos en Penitentes.  
+>
+> El auto pueden dejarlo en el estacionamiento del Parque Aconcagua, en la quebrada de Horcones, a la entrada donde comienzan el trekking.  
+>
+> Espero tus comentarios y si te surge alguna duda, estoy aqui para asistirte.  
+>
+> Saludos  
+>
+> Laura  
+
 
 ## Adjuntos
 
