@@ -1,6 +1,6 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Zurbriggen 6962
 
@@ -8,7 +8,7 @@ Respondió **Pablo Vitale Mosso** el **jueves 17 de septiembre de 2026**. Email:
 
 ## ⚡ En una línea
 
-**No venden mulas sueltas.** Vlad preguntó qué opciones hay y todavía no contestaron (al 19 de septiembre).
+**No venden mulas sueltas.** Vlad preguntó qué opciones hay y todavía no contestaron (al 23 de septiembre).
 
 ## La oferta
 

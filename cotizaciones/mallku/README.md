@@ -1,14 +1,14 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Mallku Expediciones
 
-Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de septiembre de 2026**, con el PDF de paquetes para la Ruta Normal y una presentación de la empresa. Email: mallku@aconcaguaexperts.com. Web: [aconcaguaexperts.com](https://www.aconcaguaexperts.com/).
+Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de septiembre de 2026**, con el PDF de paquetes para la Ruta Normal y una presentación de la empresa. El **sábado 19** contestó el seguimiento punto por punto (desde info@mallkuexpediciones.com.ar) y el **lunes 21** confirmó por escrito que el seguro del American Alpine Club sirve. Email: mallku@aconcaguaexperts.com. Web: [aconcaguaexperts.com](https://www.aconcaguaexperts.com/).
 
 ## ⚡ En una línea
 
-**Paquete BASIC de 4 días: USD 2.850 por persona, sin permiso.** Con el permiso de preventa son **USD 3.800 por persona**. Es la única que dijo por escrito que se puede cocinar propio los días que no cubre el paquete.
+**BASIC de 4 días: USD 2.850 + 950 = USD 3.800 por persona, y es la única que confirmó por escrito que ese paquete cubre nuestras ~7 noches:** con el paquete hay baño, agua potable, wifi y 2 duchas *«durante todo la estadía»*, cocinando propio las noches sin pensión. También **aceptó por escrito el AAC Leader**. Kilo extra: USD 12 por kilo y por tramo.
 
 ## La oferta
 
@@ -16,30 +16,38 @@ Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de se
 |---|---|
 | **Paquetes** | **BASIC** 4 días USD 2.850 / 7 días USD 3.450 · REGULAR 4 días USD 3.480 / 7 días USD 3.980 · FULL (con hotel y porteos) |
 | **Permiso** | **No incluido** en ningún paquete (PDF: *«Costo del Permiso de ascenso»* en no incluidos) |
-| **El BASIC incluye** | Trámite del permiso, mulas, depósito de equipos, **retiro de basura y materia fecal de los campamentos base**, pensión completa, hasta 2 noches en dormitorio compartido en Confluencia, agua, baños, **2 duchas por persona** y **wifi** en campo base |
-| **Mulas** | **35 kg por persona en total**. El PDF detalla: Puente del Inca → Confluencia 10 kg, Confluencia → Plaza de Mulas 10 kg y Puente del Inca → Plaza de Mulas 25 kg; lo más probable es que los 10 kg de Confluencia sigan a Plaza de Mulas (hay que confirmarlo). Bajada: 35 kg. Cargan en **Puente del Inca** |
-| **Días de comida** | Se eligen con anticipación. Sugieren 2 días en Confluencia, cocinar propio en Plaza de Mulas y usar 1 día antes de la cumbre y 1 al volver |
-| **No incluye** | Traslados desde Mendoza, carpas, comida y campamentos de altura, porteadores. Si ellos bajan basura o desechos de altura: **USD 40 por kg** |
-| **Reserva** | **Depósito de USD 300 por persona**, no reembolsable. Por fuerza mayor avisada 15 días antes, el depósito queda como crédito para la temporada siguiente |
-| **Seguro** | Recomiendan Global Rescue. Del AAC: *«les sugiero verificar bien los límites de altitud y los montos de cobertura»*. **Lo necesitan al tramitar el permiso**, o sea antes del 30 de septiembre |
-| **Fechas** | **Último ingreso 14 de febrero.** Sugieren entrar en enero, porque con el «Super Niño» el gobierno podría cerrar el parque antes |
-| **Auto** | Estacionamiento de Horcones, cerca del helipuerto |
+| **Total con permiso** | BASIC 4 días **USD 3.800** por persona |
+| **Noches sin pensión** | **Sin costo extra.** *«Con la compra del paquete tienen acceso al baño, agua potable en el campamento, Wifi, 2 duchas etc. como escrito en "servicios incluidos" durante todo la estadía.»* Las comidas de esas noches, propias |
+| **El BASIC incluye** | Trámite del permiso, mulas, depósito de equipos, **retiro de basura y materia fecal de los campamentos base**, 4 pensiones completas, hasta 2 noches en dormitorio compartido en Confluencia, agua, baños, **2 duchas por persona** y **wifi** en campo base |
+| **Días de pensión** | Se eligen con anticipación y **se pueden mover en la montaña** avisando al encargado del campamento. Sugieren 2 días en Confluencia, 1 antes de la cumbre y 1 al volver |
+| **Mulas** | **35 kg por persona** en dos bultos que se dejan en su casita de **Puente del Inca**: **10 kg a Confluencia** (día 1) y **25 kg** que sube el día 3 y recoge en el camino los 10 kg de Confluencia. Todo termina en Plaza de Mulas. **Kilo extra: USD 12 por kilo y por tramo** (5 kg de subida y bajada ≈ USD 120). Bajada: se pide la mula cualquier día antes de las 17 h en Plaza de Mulas |
+| **Entrega de bolsos** | En Puente del Inca, normalmente la tarde anterior (las mulas entran solo de mañana), o temprano ese mismo día |
+| **Altura** | Pueden usar los baños de altura bajando ustedes su materia fecal y basura al campo base; desde ahí se encarga Mallku. Si la bajan ellos: **USD 40 por kg** (PDF) |
+| **Seguro** | Dicen que el decreto pide **5.600 m** (Nido de Cóndores). **AAC Leader aceptado por escrito** el 21/09: *«el "Leader" de American Alpine Club está bien, tiene 300 mil de cobertura y 5 mil por tratamientos medicos»*. Piden la confirmación del nivel con el monto de rescate y la tarjeta de miembro válida para febrero de 2027. **La póliza la necesitan ya**, para comprar el permiso |
+| **Permiso** | **Nominado.** No se devuelve; el titular puede usarlo la temporada siguiente. Se entrega en **Puente del Inca** |
+| **Reserva y pago** | **Depósito de USD 300 por persona** (seña), que se descuenta: quedan USD 2.550. Permiso y depósito **en USD con tarjeta**, con link de pago y factura; o en efectivo en Puente del Inca para evitar comisiones |
+| **Fechas** | Último ingreso **14 de febrero** según ellos. Sugieren entrar en enero, porque con el «Super Niño» el gobierno podría cerrar el parque antes |
+| **Auto** | En **Horcones**, cerca del helipuerto, donde hay guardaparques. En Puente del Inca no hay lugar. Traslado incluido solo si llegan en micro |
 
 ## A favor
 
-- La única que resolvió cómo encaja un paquete de 4 días en nuestro plan: cocinar propio y usar las comidas donde convienen.
+- **La única que confirmó por escrito que el paquete de 4 días cubre toda la estadía** (baño, agua, wifi y 2 duchas), cocinando propio el resto.
+- **La única que aceptó por escrito el AAC Leader.**
+- Explicó el reparto real de las mulas y deja mover las pensiones en la montaña.
+- Se paga con tarjeta en USD (o efectivo en Puente del Inca), con factura: la forma más simple de pagar desde Chile.
 - Incluye explícitamente el retiro de basura y materia fecal de los campamentos base.
-- Advertencia honesta sobre el Niño y la fecha de ingreso.
 
 ## ⚠️ Cuidado
 
-- Con el permiso son **USD 3.800 por persona**, la más cara de las cotizaciones de 4 días.
-- **Piden el seguro para tramitar el permiso**, o sea hay que comprarlo esta semana.
-- Último ingreso el **14 de febrero** según ellos (el resto dice 15): entrando el 10 quedan 4 días de margen.
-- Sin reembolsos por servicios contratados ni por servicios no usados.
+- Con el permiso son **USD 3.800 por persona**: USD 1.250 más que Pared Sur, pero ~USD 200 menos que Lanko Estándar y USD 540-670 menos que los paquetes de 7 días de Inka, Grajales y Visión.
+- **Piden la póliza ya**, para comprar el permiso nominado: hay que comprar el AAC Leader esta semana.
+- Kilos extra a USD 12 por kilo y por tramo, y el permiso no se devuelve nunca.
+- Dicen «5.600 m» y «último ingreso el 14 de febrero»; la norma dice 5.500 m y 15 de febrero (ver abajo).
+- Es la más chica de las grandes: 23 unidades en Plaza de Mulas y 11 reseñas en Google.
 
 ## Qué se verificó por fuera
 
+- Su «5.600 m dice el decreto» no coincide con la resolución de preventa, que pide cubrir la cota de **5.500 m** ([Res. 581/2026, Anexo II](https://boe.mendoza.gov.ar/publico/verpdf/8a91a03494e4475255c9b6c8d04ae9526b7d07fa38/anexo)). Con el AAC Leader, que no tiene límite de altura, da igual.
 - Su «último ingreso el 14 de febrero» no coincide con la regla vigente (15 de febrero inclusive, [Decreto 2322/2025, art. 5](https://media.mendoza.gob.ar/informacion-oficial/uploads/sites/12/2025/10/DECRETO-No-2322-2025.pdf)), pero no cambia nada entrando el 10.
 - El riesgo de cierre por el Super Niño es real y está escrito en la norma ([Res. 581/2026, art. 8](https://boe.mendoza.gov.ar/default/public/publico/verpdf/32678)). Si el parque cierra, el permiso no se devuelve, pero se puede usar en otra temporada renovando el seguro.
 - Pedir el seguro al tramitar el permiso es correcto si usan la modalidad **nominada** (todo junto antes del 30 de septiembre). La modalidad la define la Dirección de Áreas Protegidas.
@@ -74,17 +82,14 @@ Respondió **Sybille**, del equipo de **Víctor Herrera**, el **viernes 18 de se
 
 ## Mensaje para confirmar lo que falta
 
-Listo para copiar y mandar por WhatsApp o email.
+Listo para copiar y mandar por email, si la eligen.
 
 ```text
-Hola Sybille, muchas gracias por la propuesta tan clara! Algunas preguntas:
-1. Para la preventa necesitan la póliza del seguro antes del 30 de septiembre, o se puede mandar después (hasta el 25 de octubre)?
-2. Aceptan la carta de membresía del American Alpine Club Leader (rescate a cualquier altura)?
-3. Llevamos unos 40 kg cada uno. Cuánto cuestan los 5 kg extra por persona?
-4. Las noches en Plaza de Mulas fuera de los 4 días, en nuestra carpa y cocinando nosotros: tienen algún costo por uso del campamento y los baños?
-5. Incluyen el traslado Penitentes o Puente del Inca - Horcones?
-6. Los tramos de mulas del PDF suman 45 kg (10 + 10 + 25) y el total dice 35. Cómo es el reparto real? Los 10 kg de Confluencia siguen a Plaza de Mulas?
-7. Las mulas de bajada operan el 23-24 de febrero? Qué altura mínima exigen en el seguro?
+Hola Sybille, muchas gracias por las respuestas tan claras! Queremos reservar el BASIC de 4 días para los dos (Vlad y Felipe), con ingreso el [9 o 10] de febrero de 2027.
+1. Nos mandas el link de pago para el depósito (USD 300 por persona) y el permiso de preventa (USD 950 por persona)?
+2. Te mandamos esta semana la carta del American Alpine Club Leader con el monto de rescate y las tarjetas de miembro. Qué más necesitas para el permiso (pasaporte, formularios)?
+3. Llevamos unos 40 kg cada uno: los 5 kg extra por persona los pagamos allá a USD 12 por kilo y por tramo, correcto?
+Gracias!
 ```
 
 ## Correspondencia completa
@@ -181,6 +186,110 @@ Texto tal como llegó, sin el historial citado. Se omitieron los datos personale
 > https://www.aconcaguaexperts.com  
 
 **Adjuntos:** [PL_PM_Normal.pdf](adjuntos/PL_PM_Normal.pdf) (313 KB) · [MALLKU EXPEDICIONES_Nosotros.pdf](adjuntos/MALLKU-EXPEDICIONES_Nosotros.pdf) (1241 KB)
+
+---
+
+### 3. Vlad → Mallku Expediciones · sáb 19 sep 2026, 13:17 (hora de Chile/Argentina)
+
+**De:** Vlad · **Para:** mallku@aconcaguaexperts.com · **Cc:** info@mallkuexpediciones.com.ar, [email de Felipe]
+
+**Asunto:** Re: Mallku Expediciones: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Sybille, como estas?  
+>
+> Gracias por la propuesta y por la sugerencia de repartir los dias de pension. Estamos decidiendo esta semana y nos quedan estas dudas del paquete BASIC de 4 dias:  
+>
+> *1. Las noches que no cubre el paquete*  
+>
+> * Nos quedo claro que podemos cocinar por nuestra cuenta. Esas noches en *Plaza de Mulas* , con nuestra carpa, tenemos acceso a *banos y agua* sin costo extra? Lo preguntamos porque el parque exige tener contratado el servicio de banos por cada noche.  
+>
+> * Los dias de pension se pueden mover una vez en la montana si cambia el clima?  
+>
+> *2. Mulas*  
+>
+> * En el PDF los tramos suman 45 kg (10 + 10 + 25) y el total dice *35 kg por persona*. Como es el reparto real? Los 10 kg que van a Confluencia despues siguen a Plaza de Mulas?  
+>
+> * Llevamos *unos 40 kg cada uno*. Cuanto cuesta el kilo extra o una mula extra?  
+>
+> * Entendemos que cargan en *Puente del Inca*. Donde y a que hora entregamos los bolsos? Vamos en auto propio desde Santiago.  
+>
+> * Las mulas de bajada operan el *23 y 24 de febrero* ?  
+>
+> *3. Seguro*  
+>
+> * Que altura minima de evacuacion exigen? La resolucion de preventa pide cubrir la cota de *5.500 m*.  
+>
+> * Nos sirve la membresia *Leader del American Alpine Club* , que cubre rescate sin limite de altura? Si mandamos el certificado y la carta de cobertura, nos lo confirman por escrito?  
+>
+> * Necesitan la poliza antes del 30 de septiembre para tramitar el permiso, o se puede mandar en octubre?  
+>
+> *4. Permiso y pago*  
+>
+> * El permiso es *nominado o innominado* , y donde nos lo entregan: Mendoza, Penitentes o Horcones?  
+>
+> * El deposito de USD 300 por persona se descuenta del precio del paquete?  
+>
+> * Como se paga desde Chile (transferencia en USD?), y nos emiten factura o recibo?  
+>
+> * El traslado *Penitentes o Puente del Inca - Horcones* esta incluido, y donde podemos dejar el auto unos 14 dias?  
+>
+> Si nos podes contestar antes del martes 23 nos ayudas un monton.  
+>
+> Muchas gracias!  
+>
+> Vlad Shvets  
+
+---
+
+### 4. Mallku Expediciones → Vlad · sáb 19 sep 2026, 14:58 (hora de Chile/Argentina)
+
+**De:** info@mallkuexpediciones.com.ar · **Para:** Vlad · **Cc:** mallku@aconcaguaexperts.com, [email de Felipe]
+
+**Asunto:** Re: Mallku Expediciones: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Vlad,  
+>
+> gracias para contestar! Te contesto directamente abajo en azul.  
+>
+> Por cualquier pregunta más, escribirme!  
+> Saludos,  
+> Sybille  
+
+Las respuestas vinieron en azul, intercaladas en el email de Vlad. Acá, cada pregunta con su respuesta textual:
+
+| Pregunta de Vlad | Respuesta de Sybille |
+|---|---|
+| Esas noches en Plaza de Mulas, con nuestra carpa, tenemos acceso a baños y agua sin costo extra? | Siempre pueden usar los baños en nuestros campamentos. Con la compra del paquete tienen acceso al baño, agua potable en el campamento, Wifi, 2 duchas etc. como escrito en "servicios incluidos" durante todo la estadía. El baño en los campamentos de altura (carpa) se puede usar también, solo tienen que bajar su mf y basura hasta el campo base. No pueden dejar nada de basura o mf en la altura, es importante porque los Guardaparques multan. Desde el base hacemos cargo nosotros. |
+| Los días de pensión se pueden mover una vez en la montaña si cambia el clima? | Si. Hablan con el encargado del campamento y avisan por cualquier cambio del plan. |
+| En el PDF los tramos suman 45 kg (10 + 10 + 25) y el total dice 35 kg por persona. Los 10 kg que van a Confluencia después siguen a Plaza de Mulas? | SI! Ustedes dejan su equipaje total de 35 kg en Puente del Inca, separado en dos bultos. 1 bulto para Confluencia 10 kg y 1 bulto para base Plaza de Mulas 25 kg. Dia 1 entran a Confluencia y nosotros mandamos 10 kg hasta Confluencia,. Normalmente quedan 2 noches en Confluencia, Dia 3 temprano a la mañana pasa la mula con 25 kg (el bulto cual quedó en Puente del Inca en nuestro deposito) y busca 10 kg, el bulto que tenían en Confluencia. Todo el equipaje va a Plaza de Mulas. |
+| Llevamos unos 40 kg cada uno. Cuánto cuesta el kilo extra o una mula extra? | Precio por kilo/por tramo: 12 USD. La mayoría de los escaladores están bien con 35 kilos cada uno. Hay muchas cosas que se compartan. |
+| Dónde y a qué hora entregamos los bolsos? | Tenemos una casita en el pueblo en Puente del Inca donde se pueden entregar su equipaje. El horario fijamos, normalmente el día anterior a las tardes entregan los bolsos porque nosotros solo podemos entrar a la mañana con las mulas, o llegan temprano a la mañana al Puente del Inca. A veces esta bien tener esta noche como extra noche para aclimatarse. |
+| Las mulas de bajada operan el 23 y 24 de febrero? | Si. Ustedes pueden pedir la mula de bajada todos los días antes de las 17 horas en el campamento base Plaza de Mulas. No tenemos la fecha fijada, tenemos un plan pero adaptamos al progreso de ustedes. |
+| Qué altura mínima de evacuación exigen? La resolución de preventa pide cubrir la cota de 5.500 m. | 5.600 m dice el decreto, es la zona de Nido de Condores. |
+| Nos sirve la membresía Leader del American Alpine Club? | La membresía con servicio de rescate tiene que ser, y con cobertura adecuada. Cualquier costo sobre el monto de cobertura tienen que pagar ustedes. Necesitamos la confirmación donde se ve "Level" con cobertura para rescates (USD) y la tarjeta de miembro, con validez para la entrada en Febrero 2027. El "Leader" tiene una cobertura mas alta? Hay un level sin rescate y uno con 7.500, creo el Leader es mejor, fijate cual monto tiene. |
+| Necesitan la póliza antes del 30 de septiembre para tramitar el permiso, o se puede mandar en octubre? | Si, la poliza pide el parque para la venta del permiso, necesitamos ahora. |
+| El permiso es nominado o innominado, y dónde nos lo entregan? | Nominado. Por cualquier eventualidad se puede usar el titular en la temporada siguiente, pero no vuelven el pago. Una vez pagado esta hecho. Podemos juntar en Puente del Inca y entregamos permiso y ustedes el pago, cuando quieren pagar en efectivo para evitar costos de transacciones. |
+| El depósito de USD 300 por persona se descuenta del precio del paquete? | Si. Es una seña. Pagan el deposito y después quedan 2.550 USD para el paquete BASIC con 4 días de pension. |
+| Cómo se paga desde Chile, y nos emiten factura o recibo? | Permiso y deposito pueden pagar en USD con tarjeta. Nos mandamos un link de pago y la factura. |
+| El traslado a Horcones está incluido, y dónde podemos dejar el auto unos 14 días? | La mejor opción es subir con el Auto a Horcones. Expedicionarios pueden estacionar cerca del helipuerto. Allá también hay Guardaparques. Es la opción mas cómoda para ustedes. En Puente del Inca no hay lugar para estacionar. En caso que llegan con micro, buscamos en la parada y llevamos a Horcones, ida y vuelta, incluido. |
+
+---
+
+### 5. Mallku Expediciones → Vlad · lun 21 sep 2026, 08:41 (hora de Chile/Argentina)
+
+**De:** info@mallkuexpediciones.com.ar · **Para:** Vlad · **Cc:** mallku@aconcaguaexperts.com, [email de Felipe]
+
+**Asunto:** Re: Mallku Expediciones: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Vlad,  
+>
+> solo para confirmar la consulta sobre el seguro, el "Leader" de American  
+> Alpine Club está bien, tiene 300 mil de cobertura y 5 mil por  
+> tratamientos medicos.  
+>
+> Saludos,  
+> Sybille  
+
 
 ## Adjuntos
 

@@ -8,7 +8,7 @@ Tablas planas en CSV (se abren en Excel o Google Sheets). Precios en la moneda i
 |---|---|
 | [precios-permisos.csv](precios-permisos.csv) | Tarifas oficiales de permisos: preventa 2026-27, temporada 2025-26 y preventa 2025-26 |
 | [proveedores.csv](proveedores.csv) | Las 11 empresas habilitadas: contactos, unidades por campamento, paquete y precio conocido |
-| **[cotizaciones.csv](cotizaciones.csv)** | Las cotizaciones que mandaron las empresas (18-19 sep 2026): un paquete por fila, con el total con permiso para comparar |
+| **[cotizaciones.csv](cotizaciones.csv)** | Las cotizaciones que mandaron las empresas (17-23 sep 2026): un paquete por fila, con el total con permiso y si cubre el plan de 7 noches |
 | [campamentos.csv](campamentos.csv) | Puntos de la Ruta Normal con alturas (usada y rango), tiempos y servicios |
 | [equipo.csv](equipo.csv) | Lista de equipo por persona con pesos aproximados y dónde va |
 | [comida.csv](comida.csv) | Plan de comida por tipo de día con totales para dos personas |

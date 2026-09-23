@@ -1,133 +1,122 @@
 [← volver al inicio](../README.md) · [Mulas y proveedores](../docs/02-mulas-y-proveedores.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Cotizaciones de las empresas (septiembre 2026)
 
-**Actualizado al 19 de septiembre de 2026.** El jueves 17 de septiembre se mandó el mismo pedido de
-cotización a las 11 empresas habilitadas. Respondieron 7 en un día. Esta página compara lo que ofrecieron;
-cada empresa tiene su carpeta con los emails completos, los adjuntos y un mensaje listo para aclarar lo que falta.
+**Actualizado al 23 de septiembre de 2026.** El jueves 17 de septiembre se mandó el mismo pedido de
+cotización a las 11 empresas habilitadas. **Respondieron 9** (Andesport y AMG el 20-21); faltan Backpack
+Logística y Juan Herrera. El sábado 19 se mandaron preguntas de seguimiento a 5: contestaron todas menos Inka.
+Con Pared Sur se sigue por WhatsApp. Cada empresa tiene su carpeta con la correspondencia completa, los
+adjuntos y un mensaje listo para lo que falta.
 
-**Contenido:** [Resumen](#-resumen) · [Comparación](#comparación-precio-total-por-persona) ·
-[Qué incluye cada una](#qué-incluye-cada-una) · [Pared Sur vs Visión](#pared-sur-vs-aconcagua-visión-lado-a-lado) · [Reseñas](#qué-dicen-las-reseñas) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) · [Creencias verificadas](#creencias-verificadas) ·
-[Qué hacer esta semana](#qué-hacer-esta-semana) · [Carpetas](#carpetas-por-empresa) · [Método](#cómo-se-armó)
+**Contenido:** [Resumen](#-resumen) · [Precio para nuestro plan](#precio-para-nuestro-plan-7-noches) ·
+[Paquete de 4 días](#el-paquete-más-chico-de-cada-una) · [Qué incluye cada una](#qué-incluye-cada-una) ·
+[Cómo decidir](#cómo-decidir) · [Reseñas](#qué-dicen-las-reseñas) · [Lo que puede subir el precio](#lo-que-puede-subir-el-precio) ·
+[Creencias verificadas](#creencias-verificadas) · [Qué hacer esta semana](#qué-hacer-esta-semana) · [Carpetas](#carpetas-por-empresa) · [Método](#cómo-se-armó)
 
 ---
 
 ## ⚡ Resumen
 
-1. **Nadie incluye el permiso, salvo Aconcagua Visión, y solo en el email.** Sabrina escribió *«El costo del
-   permiso está incluido»* en sus USD 2.830, pero la web de la empresa dice *«no incluye el costo del permiso»*.
-   Si lo confirma por escrito, es la mejor opción entre las empresas grandes. Si no, cuesta USD 3.780 por persona.
-2. **Lo más barato es Aconcagua Pared Sur: USD 2.550 por persona con el permiso** (Javier confirmó el permiso a
-   USD 950 por WhatsApp), pero es una lista mayorista de mayo, con 30 kg de mula, sin duchas, pago al dólar blue
-   y cancelación de hasta 35 %. Venden su propio seguro a USD 400, sin decir todavía qué cubre.
-3. **Sin contar a Visión, la empresa grande más barata es Lanko: USD 3.380 por persona** con el permiso
-   (10 % de descuento ofrecido). Inka USD 3.650, Grajales USD 3.780 y Mallku USD 3.800.
-4. **Andesport y AMG todavía no respondieron**, y sus webs siguen ofreciendo **solo mulas**. Andesport era la
-   más barata de la investigación (~USD 1.295 sin permiso). Hay que escribirles por WhatsApp hoy.
-5. **Todos los paquetes cubren 4 días** y el plan tiene ~7 noches en campamentos base. El parque dice que
-   *«Ninguna persona puede permanecer en el campamento sin la contratación»* del servicio de baños: las otras 3
-   noches hay que confirmarlas con cada empresa.
-6. **Todas dan 35 kg de mula por persona** (Pared Sur 30 kg). Calculamos ~40 kg: hay que bajar peso o pagar extra.
+1. **Aconcagua Visión NO incluye el permiso.** El 20 de septiembre Sabrina se corrigió: *«el mismo NO incluye el
+   precio del permiso, pido disculpas si me explique mal en el mail anterior»*. Con el permiso son USD 3.780 (4 días),
+   y como no deja acampar sin pagar pensión (USD 390 la noche extra), para nuestras ~7 noches son **USD 4.470**.
+2. **Pared Sur sigue siendo la más barata: USD 2.550 por persona con el permiso**, y el 21/09 Vlad le dijo que
+   quieren avanzar. Antes de pagar hay que cerrar por escrito las ~3 noches fuera del paquete, los kilos
+   (30 kg firmes), su seguro de USD 400 y la seña ([mensaje para Román](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)).
+3. **Andesport es la única que ofrece lo que pedimos: mulas y servicios de campamento, sin comidas**, con 50 kg por
+   mula. Falta el precio: Paloma lo arma cuando le digamos que sí ([mensaje](andesport/README.md#mensaje-para-pedir-el-presupuesto)).
+4. **La mejor confirmada por escrito es Mallku: USD 3.800 por persona.** Su paquete de 4 días da baño, agua, wifi y
+   2 duchas toda la estadía, se cocina propio el resto, y aceptó por escrito el AAC Leader.
+5. **La más cómoda es Lanko Básico Estándar: USD 4.001**, con las 7 pensiones justas (2 + 5), domo en Plaza de
+   Mulas, traslado y 40 kg de mula sin costo.
+6. **AMG no vende mulas sueltas: Básico USD 3.650 con el permiso**, y su plazo es el **viernes 25**. Los de 7 días de
+   las grandes: Inka USD 4.340, Grajales y Visión USD 4.470.
+7. **Seguro ya:** Mallku, AMG y Grajales piden la póliza para comprar el permiso nominado. Mallku aceptó el AAC
+   Leader por escrito y AMG dice que el parque lo acepta.
 
 ---
 
-## Comparación: precio total por persona
+## Precio para nuestro plan (7 noches)
 
-Total = precio del paquete + **USD 950** del permiso de preventa (igual para Vlad y Felipe: en la preventa
-2026-27 no hay tarifa latinoamericana, [Res. 581/2026, art. 4](https://boe.mendoza.gov.ar/default/public/publico/verpdf/32678)).
-Ordenado de menor a mayor.
+El plan tiene ~7 noches en campamentos base: 2 en Confluencia y ~5 en Plaza de Mulas
+([itinerario](../docs/04-itinerario.md)). Esta tabla muestra qué hay que contratar en cada empresa para cubrirlas.
+Total = paquete + **USD 950** del permiso de preventa (igual para Vlad y Felipe,
+[Res. 581/2026, art. 4](https://boe.mendoza.gov.ar/default/public/publico/verpdf/32678)). Ordenado de menor a mayor.
 
-| Empresa | Paquete | Precio cotizado | ¿Permiso incluido? | **Total por persona** | Los dos | Mulas | Google Maps |
-|---|---|---:|---|---:|---:|---:|---|
-| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico (4 días) | USD 1.600 | No (USD 950 confirmado por WhatsApp) | **USD 2.550** | USD 5.100 | 30 kg | 4,8 (39) |
-| [Aconcagua Visión](aconcagua-vision/README.md) | Básico (4 días) | USD 2.830 | ⚠️ Email: sí · Web: no | **USD 2.830 o 3.780** | USD 5.660 o 7.560 | 35 kg | sin ficha propia · B Corp |
-| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico + Altura (4 días + 4 noches domo) | USD 2.100 | No | **USD 3.050** | USD 6.100 | 30 kg | 4,8 (39) |
-| [Lanko Altas Montañas](lanko/README.md) | Básico Corto (4 días) | USD 2.430 (regular 2.700) | No | **USD 3.380** | USD 6.760 | 35 kg | 4,5 |
-| [Inka Expediciones](inka/README.md) | Básico (4 días) | USD 2.700 (regular 3.500) | No | **USD 3.650** | USD 7.300 | 35 kg | 4,4 (159) |
-| [Fernando Grajales](grajales/README.md) | Básico (4 días) | USD 2.830 | No | **USD 3.780** | USD 7.560 | 35 kg | 4,7 (93) |
-| [Mallku Expediciones](mallku/README.md) | BASIC (4 días) | USD 2.850 | No | **USD 3.800** | USD 7.600 | 35 kg | 5,0 (11) |
-| [Andesport](andesport/README.md) | Solo mulas (según su web) | sin respuesta | — | ~USD 2.245¹ | ~USD 4.490¹ | 50-60 kg por mula | — |
-| [AMG](amg/README.md) | Mulas o logística sin guía | sin respuesta | — | «desde USD 2.700»² | — | — | — |
-| [Zurbriggen 6962](zurbriggen/README.md) | — | no vende mulas sueltas | — | — | — | — | — |
-| [Backpack Logística](backpack-logistica/README.md) · [Juan Herrera](juan-herrera/README.md) | — | sin respuesta | — | — | — | — | — |
+| Empresa | Qué hay que contratar | Paquete | **Total por persona** | Los dos | Kilos para ~40 kg | ¿Confirmado por escrito? |
+|---|---|---:|---:|---:|---|---|
+| [Andesport](andesport/README.md) | Mulas + baños, agua y lugar para la carpa, sin comidas | pendiente | **pendiente** (ref. ~USD 2.245¹) | — | 50 kg por mula: 2 mulas | Falta el presupuesto |
+| [Aconcagua Pared Sur](pared-sur/README.md) | Pre-Venta Básico, 4 pensiones | USD 1.600 | **USD 2.550** | USD 5.100 | 30 kg firmes; kilo extra sin precio | ⚠️ Falta: las otras ~3 noches². Si piden el de 7 días: USD 3.832 |
+| [AMG](amg/README.md) | Básico, hasta 4 pensiones | USD 2.700 | **USD 3.650** | USD 7.300 | 35 kg; kilo extra sin precio | ⚠️ Falta: las noches sin pensión. **Plazo 25/09** |
+| [Mallku](mallku/README.md) | BASIC 4 días: 4 pensiones + acceso toda la estadía | USD 2.850 | **USD 3.800** | USD 7.600 | USD 12 por kilo y tramo (~USD 120) | ✅ Sí |
+| [Lanko](lanko/README.md) | Básico Estándar: 2 + 5 pensiones | USD 3.051 | **USD 4.001** | USD 8.002 | 40 kg sin costo | ✅ Sí |
+| [Inka](inka/README.md) | Básico 7 días | USD 3.390 | **USD 4.340** | USD 8.680 | No venden kilos extra | ⚠️ No contestó el seguimiento. **Plazo 25/09** |
+| [Fernando Grajales](grajales/README.md) | Básico 7 días | USD 3.520 | **USD 4.470** | USD 8.940 | Sin cargo *«si no se exceden por mucho»* | ✅ Sí |
+| [Aconcagua Visión](aconcagua-vision/README.md) | Básico 7 días | USD 3.520 | **USD 4.470** | USD 8.940 | USD 21 por kilo (USD 105) | ✅ Sí |
+| [Zurbriggen 6962](zurbriggen/README.md) | — | no vende mulas sueltas | — | — | — | — |
+| [Backpack Logística](backpack-logistica/README.md) · [Juan Herrera](juan-herrera/README.md) | — | sin respuesta | — | — | — | — |
 
 ¹ Estimación: USD 1.295 de una cotización publicada por un tercero ([Brooke Beyond](https://brookebeyond.com/solo-climbing-aconcagua)) + USD 950 del permiso. No es una cotización de Andesport.
-² Anuncio de su portada ([AMG](https://aconcaguamountainguides.com/)), sin temporada ni aclaración sobre el permiso.
+² Aconcagua Visión y Grajales cobran esas noches como pensión (USD 390 y USD 345); Mallku no. El Básico Long de 7 días de Pared Sur sale USD 2.882, sin precio de preventa.
 
 Todos los precios son por persona y en dólares. Ninguno incluye el seguro de evacuación. Datos en
 [datos/cotizaciones.csv](../datos/cotizaciones.csv).
+
+## El paquete más chico de cada una
+
+Para comparar con lo que cotizaron el 18 de septiembre: el paquete de 4 días, con el permiso.
+
+| Empresa | Paquete | Precio | Con permiso |
+|---|---|---:|---:|
+| Pared Sur | Pre-Venta Básico · + Altura (4 noches de domo en Nido o Berlín) | USD 1.600 · 2.100 | **USD 2.550 · 3.050** |
+| Lanko | Básico Corto (regular USD 2.700) | USD 2.430 | USD 3.380 |
+| Inka | Básico (regular USD 3.500) | USD 2.700 | USD 3.650 |
+| AMG | Básico (hasta 4 pensiones) | USD 2.700 | USD 3.650 |
+| Grajales | Básico | USD 2.830 | USD 3.780 |
+| Aconcagua Visión | Básico | USD 2.830 | USD 3.780 |
+| Mallku | BASIC | USD 2.850 | USD 3.800 |
 
 ---
 
 ## Qué incluye cada una
 
-| | [Visión](aconcagua-vision/README.md) | [Pared Sur](pared-sur/README.md) | [Lanko](lanko/README.md) | [Inka](inka/README.md) | [Grajales](grajales/README.md) | [Mallku](mallku/README.md) |
-|---|---|---|---|---|---|---|
-| Días de pensión completa | 4 (1 Confluencia + 3 Plaza de Mulas) | 4 | 4 (1 + 3) | 4 | 4 | 4, a elegir |
-| Cocinar propio las otras noches | no dijo | no dijo | no dijo | no dijo | no dijo | **sí, por escrito** |
-| Duchas | sí, agua caliente | no | no mencionadas | no (solo Full) | sí | 2 por persona |
-| Wifi en campo base | sí | sí | no mencionado | no (solo Full) | sí | sí |
-| Traslado Penitentes ↔ Horcones | no (según su web) | no | **sí** | no indicado | **sí, privado** | no indicado |
-| Seña para reservar | 50 % (web) | anticipo sin monto | 10 % del paquete | USD 150 por persona | USD 400 | USD 300 por persona |
-| ¿Se devuelve la seña? | no dicho | hasta 35 % como crédito | no dicho | no | no | no (crédito si hay fuerza mayor) |
-| Seguro que piden | 5.500 m | 4.500 m ⚠️ | 5.400 / 6.000 m | 5.000 m ⚠️ | 6.000-7.000 m | no dice altura |
-| Seguro para la preventa | antes de entrar | no dicho | antes de entrar | **hasta el 30/09** | no dicho | **al tramitar** |
-| Plazo propio | 30/09 | «90 días antes» | documentos 28/09 | **pago 25/09** | no dicho | no dicho |
-| Unidades en Plaza de Mulas | 132 | 31 | 148 | 169 | 138 | 23 |
+| | [Andesport](andesport/README.md) | [Pared Sur](pared-sur/README.md) | [AMG](amg/README.md) | [Mallku](mallku/README.md) | [Lanko Estándar](lanko/README.md) | [Inka](inka/README.md) | [Grajales](grajales/README.md) | [Visión](aconcagua-vision/README.md) |
+|---|---|---|---|---|---|---|---|---|
+| Comidas | ninguna | 4 pensiones | hasta 4 | 4 | 7 (2 + 5) | 4 o 7 | 4 o 7 | 4 o 7 |
+| Noches sin pensión en carpa propia | sí, es el paquete | sin respuesta | sin respuesta | **sí, sin costo** | no hace falta | sin respuesta | no: pensión extra USD 345 / 228 | **no**: pensión extra USD 390 |
+| Dónde duermen en Plaza de Mulas | carpa propia | carpa propia | carpa propia | carpa propia | **domo** | carpa propia | carpa propia | carpa propia |
+| Duchas | no mencionadas | no | no mencionadas | 2 por persona | USD 30 c/u o 50 por 3 | no (solo Full) | sí | sí, caliente |
+| Wifi | internet satelital | sí | sí | sí | USD 100 | no (solo Full) | sí | sí |
+| Mulas | 50 kg por mula | 30 kg | 35 kg | 35 kg | **40 kg sin costo** | 35 kg | 35 kg «estimativos» | 35 kg |
+| Parada en Confluencia | extra | no dijo | sí | sí (10 kg) | no, directo | no dijo | sí, solo subiendo | sí |
+| Traslado Penitentes ↔ Horcones | sí + 1 noche en Penitentes | no | sí, desde Los Puquios | solo si llegan en micro | sí | no indicado | sí, privado | no |
+| Permiso | no dijo | no dijo | no dijo | nominado, en Puente del Inca | en Mendoza (o Penitentes con aviso) | en Mendoza | nominado, en Penitentes | nominado, en Puente del Inca |
+| Seña | no dijo | no dijo | no dijo | USD 300 | 10 % | USD 150 | USD 400 | 30 % |
+| ¿Se devuelve? | no dijo | hasta 35 % como crédito | no dijo | no (crédito por fuerza mayor) | no (crédito para la próxima temporada) | no | no | queda para la temporada siguiente; con reintegro, 60 % de penalidad |
+| Pago | no dijo | USD al dólar blue | no dijo | **USD con tarjeta** o efectivo | transferencia + USD 17 | Stripe | WeTravel | USD a cuenta argentina |
+| Seguro que piden | recomiendan el AAC | el suyo, USD 400 | acepta el AAC | 5.600 m; **AAC Leader aceptado** | 6.000 m; AAC con nota firmada | 5.000 m ⚠️ | póliza; revisan el AAC al reservar | 5.500 m; revisan el AAC |
+| Plazo propio | *«lo antes posible»* | no dijo | **25/09** | póliza ya | documentos 28/09 | **pago 25/09** | 30/09 con margen | paquete 10/10; permiso 30/09 |
+| Unidades en Plaza de Mulas | 31 | 31 | 127 | 23 | 148 | 169 | 138 | 132 |
 
 ⚠️ = bajo el mínimo oficial de **5.500 m** que exige la preventa ([Res. 581/2026, Anexo II](https://boe.mendoza.gov.ar/publico/verpdf/8a91a03494e4475255c9b6c8d04ae9526b7d07fa38/anexo)).
 Unidades según la adjudicación de 2026 ([MDZ](https://www.mdzol.com/politica/el-aconcagua-tiene-nuevos-concesionarios-quienes-son-y-como-se-dividieron-el-parque-n1603771)).
 
 ---
 
-## Pared Sur vs Aconcagua Visión, lado a lado
+## Cómo decidir
 
-Las dos más baratas. Pared Sur según su catálogo y el WhatsApp con Javier; Visión según el email de Sabrina y su
-[página de logística 2026-27](https://aconcaguavision.com/es/logistica/en-aconcagua).
+| Si lo que más importa es… | Empresa | Por persona | Qué falta |
+|---|---|---:|---|
+| **El precio más bajo** | [Pared Sur](pared-sur/README.md) | USD 2.550 | Que confirme por escrito las ~3 noches sin costo, el precio del kilo extra, el seguro y la seña |
+| **Justo lo que pedimos (solo mulas)** | [Andesport](andesport/README.md) | pendiente | El presupuesto, hoy |
+| **Todo confirmado por escrito** | [Mallku](mallku/README.md) | USD 3.800 | Nada: link de pago y el AAC |
+| **Comodidad** (todas las comidas, domo, 40 kg) | [Lanko Estándar](lanko/README.md) | USD 4.001 | Datos bancarios y modalidad del permiso |
 
-| | [Pared Sur](pared-sur/README.md) · Pre-Venta Básico | [Aconcagua Visión](aconcagua-vision/README.md) · Básico Standard 4 días |
-|---|---|---|
-| **Precio del paquete** | USD 1.600 | USD 2.830 |
-| **Permiso (USD 950)** | Aparte. Javier confirmó los USD 950: *«Si exacto»* | Email: incluido. Web: *«no incluye el costo del permiso»* |
-| **Total por persona** | **USD 2.550** | **USD 2.830** si el permiso está incluido, **USD 3.780** si no |
-| **Días de pensión completa** | 4 (preguntado si es 1 Confluencia + 3 Plaza de Mulas, sin respuesta) | 4: 1 Confluencia + 3 Plaza de Mulas |
-| **Mulas** | **30 kg** por persona, ida y vuelta, desde Puente del Inca | **35 kg** por persona, ida y vuelta, con parada en Confluencia |
-| **Duchas** | No (solo en los paquetes Full) | **Sí, con agua caliente** |
-| **Wifi** | Sí | Sí |
-| **Baños en campo base** | Sí | Sí |
-| **Electricidad para cargar** | No lo dice | Sí |
-| **Agua potable** | No lo dice | Sí |
-| **Dónde duermen** | Carpa propia (el alojamiento en campamento es solo del Full) | Cama en dormitorio en Confluencia; carpa propia en Plaza de Mulas (domo doble es un extra) |
-| **Guarda de equipo** | Depósito en Puente del Inca | En los campamentos base |
-| **Basura** | No lo detalla (el parque lo exige) | Gestión y traslado fuera del parque |
-| **Oxígeno de emergencia** | No lo dice | En Nido de Cóndores y Berlín, con cargo si se usa |
-| **Altura (opcional)** | **+USD 500:** 4 noches en domo compartido en Nido o Berlín (Pre-Venta Básico + Altura) | **+USD 600:** comedor, cocina, gas, baños, wifi y electricidad en altura. **+USD 150:** solo baños |
-| **Traslado Penitentes ↔ Horcones** | No | No |
-| **Seguro** | Lo venden: USD 400 (no dijeron qué cubre; el catálogo pide solo 4.500 m) | Cualquiera con evacuación en helicóptero hasta 5.500 m |
-| **Seña** | Anticipo sin monto; precio de preventa si se paga 90 días antes | 50 % del paquete |
-| **Cancelación** | Hasta 35 % como crédito | No informada. Si cierra el parque, no hay descuentos |
-| **Pago** | USD al dólar blue; IVA aparte con factura | No informado |
-| **Tamaño** | 31 unidades en Plaza de Mulas, 21 en Confluencia | 132 en Plaza de Mulas, 44 en Confluencia |
-| **Reseñas** | Google 4,8 (39) | Sin ficha pública en Google; empresa B Corp |
-
-**En resumen:** por USD 280 más por persona (si el permiso está incluido) o USD 1.230 más (si no), Visión da
-5 kg más de mula, duchas calientes, electricidad, cama en Confluencia, parada de mulas en Confluencia y una
-estructura cuatro veces más grande. Pared Sur es más barata y tiene la opción de altura más económica: USD 500
-por 4 noches de domo en Nido o Berlín.
-
----
-
-## Lo que puede subir el precio
-
-| Tema | Cuánto | Detalle |
-|---|---|---|
-| **Noches fuera de los 4 días** | ~USD 200-230 por persona por día, si se cobran como día de pensión | Nadie cotizó la noche suelta. La diferencia entre 4 y 7 días lo sugiere: Inka +USD 690, Grajales +USD 690, Mallku +USD 600, Pared Sur (Short a Long) +USD 587. Con 3 noches extra, hasta ~USD 600-700 más por persona. Paquetes de 7 días: Inka USD 3.390, Mallku USD 3.450, Grajales USD 3.520, Pared Sur Básico Long USD 2.882 (sin precio de preventa) |
-| **Kilos de mula** | 0 si se ajusta la carga | Los ~40 kg incluyen ~17 kg de comida por persona ([comida.csv](../datos/comida.csv)). Si se comen las 4 pensiones incluidas se ahorran ~4 kg (queda ~36 kg); con 7 pensiones, ~6,5 kg (queda ~33 kg). Inka no lleva kilos extra; Pared Sur da 30 kg |
-| **Desechos en altura** | USD 150 en Visión, o bajarlos ustedes | Sin el servicio de baños de altura hay que bajar las bolsas a Plaza de Mulas. Si las baja Mallku, cobra USD 40 por kg |
-| **Seguro** | USD 250 por persona (AAC Leader) | Además, Argentina exige un seguro de viaje con gastos médicos ([Seguro](../docs/07-seguro.md)) |
-| **Transferencias** | USD 17 por transferencia en Lanko; costos bancarios del cliente en todas | Una transferencia internacional desde Chile tarda 1-3 días hábiles |
+**En resumen:** si Pared Sur confirma que las otras noches no se pagan, es USD 1.250 más barata que Mallku por
+persona. Si no lo confirma, o si Andesport llega con un precio cercano, la decisión cambia. Mallku es el respaldo
+seguro: todo por escrito y se paga con tarjeta.
 
 ---
 
@@ -147,8 +136,22 @@ página de cada empresa.
 | [Mallku](mallku/README.md#qué-dice-la-gente) | **5,0** (11) | Trato personal y logística a medida, coherente con su respuesta por email | Once reseñas en siete años no alcanzan para juzgar a una empresa |
 
 **Dos cosas que aparecen en las reseñas y no en las cotizaciones:** el baño en los campamentos de altura es un
-extra que se paga aparte (unos USD 100 en Grajales, USD 150 en Visión), y las mulas de bajada se atrasan cuando
-uno no va con una empresa de guiado.
+extra que se paga aparte (USD 150 en Grajales y en Visión, confirmado en sus emails), y las mulas de bajada se
+atrasan cuando uno no va con una empresa de guiado. Andesport y AMG no entraron en la búsqueda de reseñas (no
+habían respondido cuando se hizo).
+
+---
+
+## Lo que puede subir el precio
+
+| Tema | Cuánto | Detalle |
+|---|---|---|
+| **Noches fuera del paquete** | USD 0 a USD 390 por noche | Mallku: gratis. Aconcagua Visión: USD 390 por noche. Grajales: USD 345 en Plaza de Mulas y USD 228 en Confluencia. Lanko, Inka, Grajales y Visión venden paquetes de 7 días. Pared Sur y AMG: sin respuesta |
+| **Kilos de mula** | USD 0 a USD 120 por persona | Lanko: 40 kg sin costo. Grajales: sin cargo si no se exceden por mucho. Mallku: USD 12 por kilo y tramo. Visión: USD 8 por kilo a Confluencia y USD 21 a Plaza de Mulas. Inka no vende kilos extra. Pared Sur: 30 kg, sin precio. Andesport: 50 kg por mula. Los ~40 kg incluyen ~17 kg de comida por persona ([comida.csv](../datos/comida.csv)): con 4 pensiones incluidas se ahorran ~4 kg, con 7 ~6,5 kg |
+| **Wifi y duchas** | hasta USD 150 | Lanko: wifi USD 100 por la estadía, duchas USD 30 o USD 50 el pack de 3 |
+| **Desechos en altura** | USD 150, o bajarlos ustedes | Visión y Grajales cobran USD 150 por el baño de altura. Mallku: los bajan ustedes al campo base (o USD 40 por kg si los bajan ellos) |
+| **Seguro** | USD 250 por persona (AAC Leader) | Pared Sur vende el suyo a USD 400. Además, Argentina exige un seguro de viaje con gastos médicos ([Seguro](../docs/07-seguro.md)) |
+| **Transferencias** | USD 17 por transferencia en Lanko | Mallku acepta tarjeta en USD o efectivo en Puente del Inca. Una transferencia internacional desde Chile tarda 1-3 días hábiles |
 
 ---
 
@@ -156,15 +159,16 @@ uno no va con una empresa de guiado.
 
 | Creencia | Veredicto |
 |---|---|
-| "Aconcagua Visión es la única que incluye el permiso en USD 2.830" | 🟡 **Eso dice el email, pero su web dice lo contrario** (*«no incluye el costo del permiso»*, temporada 2026-27). Grajales cotizó el mismo USD 2.830 **sin** permiso. Pedir la confirmación por escrito. |
-| "Ya nadie vende solo mulas" | ❌ **Falso según sus webs.** Andesport (editada el 18/09) y AMG siguen ofreciendo mulas por separado. Falta su precio. |
-| "Pared Sur es la más barata" | 🟡 **En papel sí** (USD 2.550 con permiso), pero el catálogo es mayorista, es de mayo, trae 30 kg y cobra al dólar blue. |
-| "Con un paquete de 4 días, las otras noches acampamos gratis" | 🟡 **Nadie lo confirmó, salvo Mallku.** El parque exige contratar baños para cada noche en un campamento. |
-| "El seguro se entrega recién antes de entrar al parque" (Visión, Lanko) | ❌ **No para la preventa.** Con permiso nominado va antes del 30/09; con innominado, antes del 25/10. Si no, se pierde el permiso. |
+| "Aconcagua Visión es la única que incluye el permiso en USD 2.830" | ❌ **Falso.** Sabrina se corrigió el 20/09: *«el mismo NO incluye el precio del permiso»*. Era un error del primer email, como decía su web. |
+| "Ya nadie vende solo mulas" | 🟡 **Casi.** AMG, Visión, Inka, Grajales y Zurbriggen no. **Andesport sí:** mulas + baños, agua y lugar para la carpa, sin comidas. Falta su precio. |
+| "Pared Sur es la más barata" | ✅ **Sí, USD 2.550 con el permiso**, siempre que no cobre las noches fuera del paquete. Si pide el de 7 días, sube a ~USD 3.832. |
+| "Con un paquete de 4 días, las otras noches acampamos gratis" | 🟡 **Depende de la empresa.** Mallku sí, por escrito. Visión y Grajales no (cobran la noche como pensión). Pared Sur, AMG e Inka no respondieron. |
+| "El seguro se entrega recién antes de entrar al parque" (Visión) | ❌ **No para la preventa.** Con permiso nominado va antes del 30/09. Mallku (*«necesitamos ahora»*), AMG y Grajales piden la póliza para comprar el permiso. |
+| "Sirve el AAC Leader" | ✅ **Mallku lo aceptó por escrito** (*«está bien, tiene 300 mil de cobertura»*); AMG dice que el parque lo acepta; Andesport lo recomienda. Lanko pide una nota firmada de cobertura; Grajales y Visión lo revisan. |
 | "Felipe paga menos por ser latinoamericano" | ❌ **No en esta preventa.** Extranjeros USD 950, sin categoría latinoamericana. |
-| "35 kg de mula nos alcanza" (Lanko: *«estarán más que bien»*) | ❌ Calculamos ~40 kg cada uno. Hay 5 kg de más por persona. |
-| "Sirve el seguro que pide cada empresa" | ❌ Pared Sur (4.500 m) e Inka (5.000 m) piden menos que el mínimo oficial de 5.500 m. |
-| "El último ingreso es el 14 de febrero" (Mallku) | 🟡 La regla vigente dice **15 de febrero inclusive**, pero las fechas 2026-27 todavía no se publican. |
+| "35 kg de mula nos alcanza" | ❌ Calculamos ~40 kg. Lanko los sube sin costo y Grajales no cobra si no es mucho; Mallku y Visión cobran por kilo; Pared Sur da 30 kg. |
+| "Sirve el seguro que pide cada empresa" | ❌ Pared Sur (4.500 m en el catálogo) e Inka (5.000 m) piden menos que el mínimo oficial de 5.500 m. Mallku dice 5.600 m. |
+| "El 10 de febrero es buena fecha" | 🟡 AMG, Grajales, Visión y Lanko dicen que sí. **Andesport y Mallku sugieren entrar antes** (fines de enero o principios de febrero) por el frío, el viento y el riesgo de cierre con El Niño. |
 
 ---
 
@@ -172,17 +176,15 @@ uno no va con una empresa de guiado.
 
 | Cuándo | Qué | Con quién |
 |---|---|---|
-| **Hoy** | Pedirle a Sabrina por escrito el total por persona **con** el permiso ([mensaje](aconcagua-vision/README.md#mensaje-para-confirmar-lo-que-falta)) | Aconcagua Visión |
-| **Hoy** | WhatsApp a Andesport (+54 9 261 614-4740) y a AMG (+54 9 261 471-1664) pidiendo precio de solo mulas ([mensaje Andesport](andesport/README.md#mensaje-de-seguimiento), [mensaje AMG](amg/README.md#mensaje-de-seguimiento)) | Andesport, AMG |
-| **Hoy** | Mandarle a Javier las preguntas sobre precio mayorista, permiso y kilos ([mensaje](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)) | Pared Sur |
-| **Antes del 22 sep** | Fijar **una** fecha de ingreso para todas: el itinerario dice martes 9 de febrero y los emails dijeron miércoles 10 | [Itinerario](../docs/04-itinerario.md) |
-| **Antes del 22 sep** | Elegir empresa con las respuestas por escrito. **El permiso queda atado a esa empresa**: no se puede comprar el permiso en una y la logística en otra | — |
-| **Antes de transferir** | Confirmar los datos bancarios llamando al teléfono de la [lista oficial del parque](../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos), no al del email. Pedir factura o recibo | La elegida |
-| **22-23 sep** | Mandar la transferencia (tarda 1-3 días hábiles) | La elegida |
-| **Antes del 25 sep** | Que la seña y el permiso estén pagados (Inka cierra el 25; Lanko pide documentos hasta el 28; el parque cierra el 30). Usar el pasaporte con el que van a cruzar, vigente en febrero de 2027 | La elegida |
-| **Con la reserva** | Preguntar dónde entregan el permiso impreso: Inka lo da en Mendoza, lo que obliga al [Plan C](../docs/04-itinerario.md#plan-c-si-el-permiso-hay-que-retirarlo-en-mendoza) | La elegida |
-| **Esta semana** | Comprar el **AAC Leader** (cubre cualquier altura) por si la empresa usa permiso nominado | [Seguro](../docs/07-seguro.md) |
-| **Siempre** | Pedir por escrito que el paquete cubre **baños y residuos todas las noches** en Confluencia y Plaza de Mulas | La elegida |
+| **Hoy, mié 23** | Contestarle a Román con lo que falta antes de pagar: noches, kilos, seguro, seña ([mensaje](pared-sur/README.md#mensaje-para-confirmar-lo-que-falta)) | Pared Sur |
+| **Hoy** | Decirle a Paloma que sí y pedir el presupuesto ([mensaje](andesport/README.md#mensaje-para-pedir-el-presupuesto)) | Andesport |
+| **Hoy** | Comprar el **AAC Leader** (USD 250 cada uno): la póliza hace falta para comprar el permiso nominado | [Seguro](../docs/07-seguro.md) |
+| **Hoy** | Fijar **una** fecha de ingreso: el itinerario dice martes 9 de febrero y los emails dijeron miércoles 10 | [Itinerario](../docs/04-itinerario.md) |
+| **Jue 24** | Elegir. Pared Sur si confirma las noches y los kilos; si no, Andesport si su precio conviene; si no, Mallku. **El permiso queda atado a esa empresa** | — |
+| **Vie 25** | Último día de AMG e Inka, si alguna sigue en carrera | AMG, Inka |
+| **Vie 25 - lun 28** | Pagar seña + permiso. Confirmar los datos bancarios llamando al teléfono de la [lista oficial del parque](../docs/02-mulas-y-proveedores.md#las-11-empresas-habilitadas-y-sus-contactos), no al del email. Pedir factura o recibo | La elegida |
+| **Mié 30** | Cierra la preventa a USD 950 | Parque |
+| **Con la reserva** | Pedir por escrito que el paquete cubre **baños y residuos todas las noches** en Confluencia y Plaza de Mulas, y dónde entregan el permiso impreso | La elegida |
 
 ---
 
@@ -193,15 +195,15 @@ por fuera, la correspondencia completa y los adjuntos.
 
 | Empresa | Estado | Adjuntos |
 |---|---|---|
-| [Aconcagua Visión](aconcagua-vision/README.md) | Respondió el 18/09 (Sabrina) | 7 fotos de campamentos |
-| [Aconcagua Pared Sur](pared-sur/README.md) | Respondió el 17/09 y pasó a WhatsApp (Román, Javier) | Catálogo 2026-27 |
-| [Lanko Altas Montañas](lanko/README.md) | Respondió el 18/09 (Valentina) | Tabla de preventa |
-| [Inka Expediciones](inka/README.md) | Respondió el 18/09 (Esperanza) | Tabla de preventa, formularios, folleto de seguro |
-| [Fernando Grajales](grajales/README.md) | Respondió el 18/09 (Laura) | Paquetes 2026-27, presentación, Global Rescue |
-| [Mallku Expediciones](mallku/README.md) | Respondió el 18/09 (Sybille) | Paquetes Ruta Normal, presentación |
+| [Aconcagua Pared Sur](pared-sur/README.md) | WhatsApp: el 21/09 Vlad pidió avanzar; Román escribe con los detalles del permiso | Catálogo 2026-27 |
+| [Andesport](andesport/README.md) | Respondió el 21/09 (Paloma): paquete sin comidas, presupuesto pendiente | — |
+| [Mallku Expediciones](mallku/README.md) | Respondió el 18, 19 y 21/09 (Sybille): todo confirmado | Paquetes Ruta Normal, presentación |
+| [Lanko Altas Montañas](lanko/README.md) | Respondió el 18 y 20/09 (Valentina): propone el Básico Estándar | Tabla de preventa |
+| [AMG](amg/README.md) | Respondió el 20/09 (Flavia): Básico USD 2.700, plazo 25/09 | — |
+| [Fernando Grajales](grajales/README.md) | Respondió el 18 y 21/09 (Laura): recomienda el de 7 días | Paquetes 2026-27, presentación, Global Rescue |
+| [Aconcagua Visión](aconcagua-vision/README.md) | Respondió el 18 y 20/09 (Sabrina): **el permiso no está incluido** | 7 fotos de campamentos |
+| [Inka Expediciones](inka/README.md) | Respondió el 18/09 (Esperanza); sin respuesta al seguimiento | Tabla de preventa, formularios, folleto de seguro |
 | [Zurbriggen 6962](zurbriggen/README.md) | «no estaríamos vendiendo mulas sueltas» | — |
-| [Andesport](andesport/README.md) | Sin respuesta | — |
-| [AMG](amg/README.md) | Sin respuesta | — |
 | [Backpack Logística](backpack-logistica/README.md) | Sin respuesta | — |
 | [Juan Herrera](juan-herrera/README.md) | Sin respuesta | — |
 
@@ -216,6 +218,7 @@ por fuera, la correspondencia completa y los adjuntos.
 | 3 | Cotejo de cada afirmación contra la norma: Res. 581/2026 y Anexos, Decreto 2322/2025, Decreto 1885/26, sitio del parque | Fechas, seguro, tarifa de Felipe y modalidades de preventa verificadas |
 | 4 | Webs de las 11 empresas y reseñas en Google Maps, TripAdvisor y Reddit | La contradicción de Aconcagua Visión sobre el permiso; Andesport y AMG siguen vendiendo mulas sueltas |
 | 5 | Se omitieron datos personales de Vlad y Felipe, datos bancarios y links personales de pago y de formularios | Verificado con una búsqueda automática antes de publicar |
+| 6 | 23/09: se bajaron de Gmail las respuestas nuevas (7 emails de 6 empresas y los 5 seguimientos de Vlad) y se transcribió el WhatsApp de Pared Sur desde una captura | Visión se corrigió sobre el permiso; Andesport y AMG respondieron; los totales se recalcularon para el plan de 7 noches |
 
 **Límites:** los precios son los que escribió cada empresa y pueden cambiar. Las reseñas son testimonios.
 Nada de esto reemplaza la confirmación por escrito antes de pagar.

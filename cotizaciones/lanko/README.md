@@ -1,46 +1,50 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Lanko Altas Montañas
 
-Respondió **Valentina Diaz** el **viernes 18 de septiembre de 2026** con dos emails: la cotización y el procedimiento de la preventa. WhatsApp: **+54 9 261 591 4199**. Web: [lanko.com.ar](https://www.lanko.com.ar/es).
+Respondió **Valentina Diaz** el **viernes 18 de septiembre de 2026** con dos emails: la cotización y el procedimiento de la preventa. El **domingo 20** contestó el seguimiento y propuso el **Básico Estándar** de 7 días. WhatsApp: **+54 9 261 591 4199**. Web: [lanko.com.ar](https://www.lanko.com.ar/es).
 
 ## ⚡ En una línea
 
-**Programa Básico Corto: USD 2.430 por persona (10 % de descuento sobre USD 2.700), sin permiso.** Con el permiso de preventa son **USD 3.380 por persona**.
+**Para nuestro plan, Lanko propone el Básico Estándar: 2 pensiones en Confluencia + 5 en Plaza de Mulas, USD 3.390 con 10 % de descuento = USD 3.051 por persona. Con el permiso: USD 4.001.** Es el que calza exacto con el itinerario, sube **40 kg sin costo extra**, trae todas las comidas e incluye **domo para dormir** en Plaza de Mulas. El Básico Corto de 4 días (USD 3.380 con el permiso) no cubre las 7 noches.
 
 ## La oferta
 
 | | |
 |---|---|
-| **Paquete** | Programa Básico Corto |
-| **Precio** | **USD 2.430** (precio regular USD 2.700 con 10 % de descuento ofrecido). No dice hasta cuándo vale el descuento |
+| **Paquetes** | **Básico Estándar** (7 días) USD 3.390, con 10 % de descuento **USD 3.051** · Básico Corto (4 días) USD 2.700, con descuento **USD 2.430** |
 | **Permiso** | **No incluido**: *«Costo de permiso de Ingreso para realizar Ascenso»* va en «servicios no incluidos en ningún programa» |
-| **Días cubiertos** | 1 día de pensión completa en Confluencia (con domo) + 3 en Plaza de Mulas (domo o carpa dormitorio) |
-| **Incluye** | Asistencia con el permiso, **traslado Penitentes ↔ Horcones**, mulas, domos comedor, domo depósito, baños, radio, pronóstico, menú vegetariano o sin TACC con aviso |
-| **Mulas** | **35 kg por persona**, Penitentes → Plaza de Mulas y vuelta. Nos dijeron *«estarán más que bien»*, pero calculamos 40 kg |
+| **Total con permiso** | Estándar **USD 4.001** · Corto USD 3.380 por persona |
+| **El Estándar incluye** | Asistencia con el permiso, **traslado Penitentes ↔ Horcones**, mulas, **2 días de pensión completa en Confluencia** (con alojamiento en carpa) y **5 en Plaza de Mulas** (con **alojamiento en domo**), domos comedor, domo depósito, baños, radio entre campamentos, pronóstico, energía solar para cargar, menú vegetariano o sin TACC con aviso |
+| **Reparto de los días** | Libre: *«usar pensiones de Plaza de Mulas en Confluencia o viceversa»* |
+| **Mulas** | 35 kg por persona, pero **les extienden a 40 kg sin costo**: *«No deberán abonar un adicional por esto.»* Van **directo a Plaza de Mulas**; a Confluencia solo la mochila y el saco. Base de carga: **Penitentes** |
+| **Wifi** | No incluido: **USD 100** por toda la estadía, en Confluencia y Plaza de Mulas |
+| **Duchas** | No incluidas: **USD 30** cada una o **USD 50** el pack de 3 |
+| **Seguro** | Evacuación y rescate a **6.000 m**. De la membresía del AAC: pedir *«una nota firmada donde se certifique la cobertura»* |
+| **Permiso** | Se retira en su oficina de **Mendoza**; con aviso previo se lo suben a **Penitentes** |
 | **Preventa** | Documentos hasta el **28 de septiembre**: formulario de reserva, deslinde firmado, pasaporte. Pago del permiso por transferencia + **seña del 10 % del paquete** + **USD 17 por transferencia** |
-| **Seguro** | Recomiendan Global Rescue, BigCat o Ripcord. AAC *«suele ser válida»* con una nota que certifique la cobertura. No es obligatorio para la preventa |
-| **Altura del seguro** | Primer email: evacuación y rescate a **5.400 m**. Segundo email: **6.000 m** |
+| **Pago** | Datos bancarios e invoice una vez confirmados los servicios |
+| **Cancelación** | La seña del 10 % no se devuelve; queda como crédito para la temporada siguiente, como máximo |
 | **Fechas** | Ingreso *«usualmente»* hasta el 15 de febrero (fechas 2026-27 no anunciadas). Mulas hasta la primera semana de marzo |
 | **Auto** | Estacionamiento de Penitentes o de la entrada de Horcones |
 
 ## A favor
 
-- Descuento del 10 % ofrecido sin pedirlo.
-- Traslado Penitentes ↔ Horcones incluido.
-- Proceso de preventa claro y por escrito, con plazo (28 de septiembre) y lista de documentos.
+- **Calza exacto con el plan:** 2 noches en Confluencia y 5 en Plaza de Mulas, con todas las comidas.
+- **40 kg de mula sin costo extra**, y con todas las comidas incluidas bajan ~6,5 kg de comida por persona.
+- Domo para dormir en Plaza de Mulas y traslado Penitentes ↔ Horcones incluidos.
+- Descuento del 10 % ofrecido sin pedirlo, y respondieron todo por escrito.
 - Lanko tiene 148 unidades en Plaza de Mulas: es una de las empresas grandes del parque.
 
 ## ⚠️ Cuidado
 
-- Con el permiso son USD 3.380 por persona: USD 830 más que Pared Sur, pero **USD 400 menos que Aconcagua Visión** si Visión no incluye el permiso (USD 550 más si lo incluye).
-- El descuento no tiene fecha ni condiciones escritas, y el precio no dice «por persona» al lado.
-- **Se contradicen con el seguro** (5.400 m en un email y 6.000 m en el otro). Hay que comprar uno que cubra la cumbre y pedir que lo acepten por escrito.
-- No mencionan duchas ni wifi en el básico, y no dijeron nada de las noches fuera de los 4 días.
-- No dieron política de cancelación de la seña ni del permiso.
-- Las mulas van de Penitentes directo a Plaza de Mulas: para las 2 noches en Confluencia hay que llevar carpa y sacos en la espalda, o usar el domo del día incluido.
+- **USD 4.001 por persona con el permiso:** ~USD 200 más que Mallku (que cubre las mismas noches cocinando propio) y ~USD 1.450 más que Pared Sur.
+- **Sin wifi ni duchas:** +USD 100 de wifi y USD 30-50 de duchas.
+- **El permiso se retira en Mendoza**, salvo que avisen para que lo suban a Penitentes.
+- No dijeron si el permiso es **nominado o innominado**, y ahora piden seguro a **6.000 m** (antes dijeron 5.400).
+- La seña no se devuelve, y el descuento no tiene fecha escrita.
 - Respondieron desde una cuenta de Gmail y todavía no mandaron datos bancarios: confirmarlos por teléfono al número oficial antes de transferir.
 
 ## Qué se verificó por fuera
@@ -108,18 +112,15 @@ Respondió **Valentina Diaz** el **viernes 18 de septiembre de 2026** con dos em
 
 ## Mensaje para confirmar lo que falta
 
-Listo para copiar y mandar por WhatsApp o email.
+Listo para copiar y mandar por WhatsApp o email, si la eligen.
 
 ```text
-Hola Valentina, muchas gracias por la info tan completa! Algunas preguntas antes de decidir:
-1. Nos confirmas que el Básico Corto queda en USD 2.430 por persona, y hasta qué fecha vale el descuento?
-2. Nuestro plan tiene 2 noches en Confluencia y unas 5 en Plaza de Mulas. Las noches fuera de los 4 días podemos estar en nuestra carpa y cocinar nosotros, usando los baños? Tiene costo?
-3. Llevamos unos 40 kg cada uno. Cuánto cuestan los 5 kg extra por persona?
-4. El seguro: en un email dice 5.400 m y en el otro 6.000 m. Si mandamos la carta de membresía del American Alpine Club (rescate a cualquier altura), la aceptan?
-5. El básico incluye duchas y wifi en Plaza de Mulas?
-6. Cuál es la política de cancelación de la seña del 10 % y del paquete?
-7. Las mulas dejan carga en Confluencia o van directo a Plaza de Mulas? Necesitamos carpa y sacos para las 2 noches en Confluencia.
-8. Nos mandan los datos bancarios completos (banco, país, moneda)? Los confirmamos por teléfono antes de transferir.
+Hola Valentina, muchas gracias por la respuesta tan completa! El Básico Estándar nos calza justo. Antes de reservar:
+1. Nos confirmas el total: USD 3.051 por persona (USD 3.390 con el 10 %) más el permiso de USD 950, y que los 40 kg por persona quedan sin costo?
+2. El permiso es nominado o innominado? Para retirarlo en Penitentes, con cuánto aviso?
+3. Tenemos el American Alpine Club Leader (rescate sin límite de altura). Con la nota firmada de cobertura del club alcanza, o piden algo más?
+4. Nos mandan los datos bancarios completos (banco, país, moneda) y el invoice? Los confirmamos por teléfono antes de transferir.
+Gracias!
 ```
 
 ## Correspondencia completa
@@ -319,6 +320,163 @@ Texto tal como llegó, sin el historial citado. Se omitieron los datos personale
 > Saludos,  
 
 **Adjuntos:** [image.png](adjuntos/tarifas-preventa-permisos-2026-27.png) (80 KB)
+
+---
+
+### 4. Vlad → Lanko Altas Montañas · sáb 19 sep 2026, 13:17 (hora de Chile/Argentina)
+
+**De:** Vlad · **Para:** lankoexpediciones@gmail.com · **Cc:** info@lanko.com.ar, [email de Felipe]
+
+**Asunto:** Re: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Valentina, como estas?  
+>
+> Gracias por la info y por el detalle de la preventa. Estamos decidiendo esta semana y nos quedan estas dudas del Programa Basico Corto:  
+>
+> *1. Las noches que no cubre el paquete*  
+>
+> * Nuestro plan son *2 noches en Confluencia y unas 5 en Plaza de Mulas* , y el paquete cubre 4 dias (1 + 3). Las otras noches podemos quedarnos en nuestra carpa y cocinar nosotros, usando *banos, agua y domo comedor* ? Tiene algun costo por noche?  
+>
+> * Se pueden repartir los 4 dias distinto, por ejemplo 2 en Confluencia y 2 en Plaza de Mulas?  
+>
+> *2. Mulas*  
+>
+> * Llevamos *unos 40 kg cada uno* y el paquete incluye 35. Cuanto cuesta el kilo extra o una mula extra?  
+>
+> * Las mulas dejan carga en *Confluencia* o van directo a Plaza de Mulas? Lo preguntamos porque dormimos dos noches ahi.  
+>
+> * Donde y a que hora entregamos los bolsos, y las mulas de bajada operan el *23 y 24 de febrero* ?  
+>
+> *3. Servicios en campo base*  
+>
+> * El Basico Corto incluye *duchas, wifi y electricidad* para cargar equipos en Plaza de Mulas?  
+>
+> *4. Seguro*  
+>
+> * En un mail dice evacuacion a *5.400 m* y en el otro a *6.000 m*. Cual es el requisito real?  
+>
+> * Nos sirve la membresia *Leader del American Alpine Club* , que cubre rescate sin limite de altura? Si mandamos el certificado y la carta de cobertura, nos lo confirman por escrito?  
+>
+> *5. Permiso y pago*  
+>
+> * Compran el permiso *nominado o innominado* , y donde nos entregan el permiso impreso: Mendoza, Penitentes o Horcones?  
+>
+> * Nos pueden mandar los *datos bancarios completos* (banco, pais y moneda) y factura o recibo de cada pago?  
+>
+> * Cual es la politica de cancelacion de la sena del 10 % y del paquete?  
+>
+> * Donde podemos dejar el auto unos 14 dias?  
+>
+> Si nos podes contestar antes del martes 23 nos ayudas un monton, asi llegamos con los tiempos de la preventa.  
+>
+> Muchas gracias!  
+>
+> Vlad Shvets  
+
+
+---
+
+### 5. Lanko Altas Montañas → Vlad · dom 20 sep 2026, 22:24 (hora de Chile/Argentina)
+
+**De:** Lanko Altas Montañas <lankoexpediciones@gmail.com> · **Para:** Vlad
+
+**Asunto:** Re: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola, buen día!  
+>
+> Espero que te encuentres muy bien. Te pido disculpas por la hora, estas  
+> semanas estamos trabajando en un horario sumamente extendido debido a la  
+> preventa.  
+>
+> Como te había comentado en el mail anterior, yo solo te compartí  
+> información de nuestro paquete logístico más básico. En base a lo que me  
+> comentas ahora (de necesitar más noches en los campamentos base) quizás una  
+> mejor alternativa para ustedes es nuestro paquete básico Estándar:  
+>
+> PROGRAMA BÁSICO ESTÁNDAR  
+>
+> SERVICIOS INCLUIDOS  
+>
+> - Asistencia para obtención de permisos de ascenso.  
+> - Transporte desde Penitentes hasta Horcones.  
+> - Transporte desde Horcones a Penitentes.  
+> - Transporte de carga en Mulas: Penitentes a Plaza de Mulas(35kg por  
+> persona)  
+> - Transporte de Carga desde Plaza de Mulas a Penitentes. (35kg por  
+> persona)  
+> - 2 días de pensión completa en Confluencia (desayuno, lunch de marcha,  
+> cena, alojamiento en carpa).  
+> - 5 días de pensión completa en CB Plaza de Mulas (desayuno, almuerzo,  
+> cena, alojamiento en domo).  
+> - Acceso a domos comedores en el campamento base.  
+> - Acceso a domo depósito de equipo en Plaza de Mulas.  
+> - Acceso a baños en el campamento base.  
+> - Comunicación radial permanente entre los Campamentos base y los  
+> campamentos de altura.  
+> - Asistencia para la coordinación de sus reservas, envío y recepción de  
+> equipos.  
+> - Provisión del pronóstico del tiempo para todos nuestros  
+> expedicionarios.  
+> - Nuestros campamentos cuentan con energía solar, radio BLU y VHF.  
+> - Menú Vegetariano/Vegano/ Sin tacc (Con notificación previa)  
+>
+> *SERVICIOS NO INCLUIDOS EN NINGÚN PROGRAMA*  
+>
+> - Costo de permiso de Ingreso para realizar Ascenso: Actualmente se  
+> encuentra habilitada una venta anticipada de permisos con descuento!  
+> - Servicio de porteo de equipo en los campamentos de altura (Consulte  
+> precios).  
+> - Equipo personal de los integrantes de la expedición.  
+> - Costos generados por el abandono de la expedición.  
+> - Seguro médico que cubra EVACUACIÓN y RESCATE a 6000 metros.  
+> - Gastos personales (bebidas, lavandería, correo, teléfono).  
+> - Energía solar, radios personales, teléfono satelital.  
+> - Todo servicio no detallado como incluido en el paquete básico.  
+> - Todo otro servicio no detallado como incluido.  
+>
+> El precio regular es de USD 3390, pero también le podemos aplicar un 10% de  
+> descuento sobre ese valor.-  
+>
+> Respondo a tus preguntas:  
+> - Los días de pensión completa incluidos en cada paquete (Corto o Estándar)  
+> pueden ser modificados como gusten, acorde a su itinerario, por ejemplo:  
+> usar pensiones de Plaza de Mulas en Confluencia o viceversa.  
+> - Mula: El límite es 35 kg por persona, pero les podemos extender esos 5  
+> kilos que necesitan para los 40kg que calculan tener. No deberán abonar un  
+> adicional por esto. Las mulas van directo a Plaza de Mulas, en Confluencia  
+> solo recomendamos llevar su mochila personal y bolsa de dormir, ya que  
+> tienen incluidas pensiones completas (es decir, todas las comidas del día)  
+> y el alojamiento en domo. Nuestra base logística para la carga de mulas es  
+> Penitentes, allí deberán entrar sus cargas y luego buscarlas también. En  
+> caso de que eso se modifique o haya información que deban saber, no tengan  
+> duda de que les informaré.  
+> - Ni el paquete básico corto ni el paquete básico estándar incluyen wifi.  
+> Si incluyen acceso a corriente eléctrica para cargar dispositivos. El costo  
+> por el uso del Wifi, en los campamentos base, es de* USD 100* por todos los  
+> días que se encuentren allí, válido para Confluencia y Plaza de Mulas.  
+> - Ni el paquete básico corto ni el básico estándar incluyen el servicio de  
+> duchas; solo incluyen el acceso a baños en los campamentos base, pero no  
+> duchas. El costo de duchas es: *USD 30 cada una o USD 50 el pack de 3  
+> duchas.*  
+> - Seguro: Debe cubrir 6000 metros. Respecto a la membresía, si deberan  
+> pedir una nota firmada donde se certifique la cobertura, la cual debe ser  
+> adecuada para Aconcagua.  
+> - Permiso: El permiso lo deberán retirar por nuestra oficina en Ciudad de  
+> Mendoza, en caso de ir directamente a Penitentes, podemos coordinar  
+> (SIEMPRE con previo aviso) para subirles los permisos a Penitentes y que  
+> los retiren por allí.  
+> - Factura y datos de pago: Una vez confirmados los servicios, les comparto  
+> nuestros datos bancarios y les emitimos un Invoice para el pago.  
+> - Pago del 10%: No es reembolsable, pero en caso de cancelación, lo dejamos  
+> como crédito para ser usado como máximo en la próxima temporada.  
+> - Pueden dejar su vehículo en Penitentes, en el estacionamiento común que  
+> hay allí o en el estacionamiento de Horcones (Entrada de Parque Aconcagua).  
+>
+> Espero haber podido responder a todo. Quedo a disposición ante cualquier  
+> otra consulta.-  
+>
+> Saludos!  
+
 
 ## Adjuntos
 

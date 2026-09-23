@@ -1,10 +1,10 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Juan Herrera Travel Service
 
-**Sin respuesta al 19 de septiembre de 2026.** El email salió el jueves 17 de septiembre a Juan Herrera (lyjandes@gmail.com).
+**Sin respuesta al 23 de septiembre de 2026.** El email salió el jueves 17 de septiembre a Juan Herrera (lyjandes@gmail.com).
 
 ## Lo que ya se sabía
 

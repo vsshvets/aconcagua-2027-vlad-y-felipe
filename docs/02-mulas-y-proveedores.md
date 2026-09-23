@@ -19,6 +19,10 @@ y con la web de cada empresa.
 
 ## Bottom line / Conclusión
 
+> **Actualización 23/09/2026:** ya respondieron 9 de las 11 empresas. Los precios reales, la corrección de
+> Aconcagua Visión (el permiso no está incluido) y el paquete sin comidas de Andesport están en
+> [Cotizaciones](../cotizaciones/README.md). Lo que sigue es la investigación inicial del 17/09.
+
 1. **Solo 11 empresas pueden operar en el parque** desde la licitación de septiembre de 2026 (concesiones
    a 20 años; los permisos precarios anteriores quedaron revocados). **Las 11 tienen lugar en Plaza de
    Mulas**, así que todas sirven para la ruta normal.

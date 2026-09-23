@@ -1,14 +1,14 @@
 [← Cotizaciones](../README.md) · [← Inicio](../../README.md)
 
-<!-- Last verified: 2026-09-19 -->
+<!-- Last verified: 2026-09-23 -->
 
 # Inka Expediciones
 
-Respondió **Esperanza Lara** el **viernes 18 de septiembre de 2026** a Vlad y a Felipe, con la tabla de precios, los formularios del permiso y el folleto de su seguro. Teléfono: **+54 9 261 569-4668**. Web: [inkaexpediciones.com](https://inkaexpediciones.com/es/).
+Respondió **Esperanza Lara** el **viernes 18 de septiembre de 2026** a Vlad y a Felipe, con la tabla de precios, los formularios del permiso y el folleto de su seguro. Vlad le mandó preguntas de seguimiento el sábado 19: **sin respuesta al 23 de septiembre**. Teléfono: **+54 9 261 569-4668**. Web: [inkaexpediciones.com](https://inkaexpediciones.com/es/).
 
 ## ⚡ En una línea
 
-**Soporte Logístico Básico de 4 días: USD 2.700 por persona (precio especial hasta el 30 de septiembre; regular USD 3.500), sin permiso.** Con el permiso de preventa son **USD 3.650 por persona**.
+**Soporte Logístico Básico de 4 días: USD 2.700 por persona (precio especial hasta el 30 de septiembre; regular USD 3.500), sin permiso.** Con el permiso de preventa son **USD 3.650 por persona**. Para nuestras ~7 noches, el Básico de 7 días sale **USD 3.390 + 950 = USD 4.340**. **No contestó el seguimiento, y su plazo para el depósito y el permiso vence el viernes 25.**
 
 ## La oferta
 
@@ -33,6 +33,7 @@ Respondió **Esperanza Lara** el **viernes 18 de septiembre de 2026** a Vlad y a
 
 ## ⚠️ Cuidado
 
+- **No respondió las preguntas de seguimiento del 19/09** (noches fuera del paquete, kilos, seguro, dónde entregan el permiso).
 - Con el permiso son USD 3.650 por persona, y el básico no trae ni wifi ni duchas.
 - **Plazo más corto de todos: 25 de septiembre** para el depósito y el pago del permiso. Su plantilla además dice «antes del 10 de septiembre», que ya pasó.
 - Piden el seguro a **5.000 m**, bajo el mínimo oficial de 5.500 m. Su «Aconcagua Assistance» cubre solo hasta Nido de Cóndores (5.400 m), no Cólera ni la cumbre.
@@ -459,6 +460,59 @@ Texto tal como llegó, sin el historial citado. Se omitieron los datos personale
 > <https://inkaexpediciones.com/es/sobre-inka/10-razones-para-elegir-inka/>  
 
 **Adjuntos:** [unnamed(1).jpg](adjuntos/tarifas-preventa-permisos-2026-27.jpg) (136 KB) · [ACONCAGUA ASSISTANCE_ESP_NOGUIADA.pdf](adjuntos/ACONCAGUA-ASSISTANCE_ESP_NOGUIADA.pdf) (136 KB) · [DESLINDE DE RESPONSABILIDAD ACONCAGUA (1).pdf](adjuntos/DESLINDE-DE-RESPONSABILIDAD-ACONCAGUA.pdf) (70 KB) · [Aconcagua-Declacion-Jurada-Aceptacion-de-Riesgo.pdf](adjuntos/Aconcagua-Declacion-Jurada-Aceptacion-de-Riesgo.pdf) (286 KB)
+
+---
+
+### 3. Vlad → Inka Expediciones · sáb 19 sep 2026, 13:17 (hora de Chile/Argentina)
+
+**De:** Vlad · **Para:** inka@inka.com.ar · **Cc:** [email de Felipe]
+
+**Asunto:** Re: Consulta: mulas y paquete mínimo - Ruta Normal - 2 personas - febrero 2027
+
+> Hola Esperanza, como estas?  
+>
+> Gracias por la info tan detallada. Estamos decidiendo esta semana y nos quedan estas dudas del Soporte Logistico Basico de 4 dias:  
+>
+> *1. Las noches que no cubre el paquete*  
+>
+> * Nuestro plan son *2 noches en Confluencia y unas 5 en Plaza de Mulas* , y el basico cubre 4 pensiones. Las otras noches podemos armar *nuestra carpa en Plaza de Mulas y cocinar nosotros* , usando banos y agua? Tiene costo por noche?  
+>
+> * El basico incluye alojamiento solo en Confluencia (2 noches). En Plaza de Mulas dormimos en carpa propia, correcto?  
+>
+> *2. Mulas*  
+>
+> * Llevamos *unos 40 kg cada uno* y el paquete incluye 35. Entendemos que no venden kilos extra. Hay alguna forma de subir los 5 kg que faltan por persona, o conviene que ajustemos la carga?  
+>
+> * Donde y a que hora entregamos los bolsos, y las mulas de bajada operan el *23 y 24 de febrero* ?  
+>
+> *3. Servicios*  
+>
+> * El basico no incluye wifi ni ducha caliente. Se pueden comprar por separado en Plaza de Mulas y a que precio?  
+>
+> * El traslado *Penitentes - Horcones* esta incluido en el basico? Vamos en auto propio desde Santiago.  
+>
+> *4. Seguro*  
+>
+> * Ustedes piden evacuacion en helicoptero hasta *5.000 m* , pero la resolucion de preventa exige cubrir la cota de *5.500 m*. Que nivel nos conviene presentar para que no haya problemas con el permiso?  
+>
+> * Nos sirve la membresia *Leader del American Alpine Club* , que cubre rescate sin limite de altura, mas una asistencia en viaje aparte? Si mandamos el certificado, nos lo confirman por escrito?  
+>
+> *5. Permiso y pago*  
+>
+> * Confirmamos las fechas: *deposito y pago del permiso hasta el 25 de septiembre* y documentacion hasta el 30. En el mail tambien aparece una fecha del 10 de septiembre, entendemos que es de otra temporada.  
+>
+> * El deposito de USD 150 por persona se descuenta del precio del paquete?  
+>
+> * El permiso es nominado o innominado, y donde nos lo entregan? Podemos retirarlo en Penitentes o tiene que ser en Mendoza?  
+>
+> * Donde podemos dejar el auto unos 14 dias?  
+>
+> Si nos podes contestar antes del martes 23 nos ayudas un monton.  
+>
+> Muchas gracias!  
+>
+> Vlad Shvets  
+
 
 ## Adjuntos
 
